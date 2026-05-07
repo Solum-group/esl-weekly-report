@@ -1,7 +1,7 @@
 {
   "weekId": "2026-05-04",
-  "weekLabel": "2026.05.04 ~ 2026.05.04",
-  "searchAnalysis": "**5월 6일(수) 조기 수집:** 신규 주차 기사 2건—①Vusion 주가 하락 및 공매도 현황 분석(5/4), ②리테일 미디어 네트워크 'Gold Rush' 종료 논란(5/4). 이번 주 초반은 주요 ESL 기업 공식 발표보다는 Vusion 주가·투자 동향과 RMN 시장 성숙도에 관한 분석 기사가 주를 이뤘다. (일부 도메인 접속 차단—스니펫 기반 보완)",
+  "weekLabel": "2026.05.04 ~ 2026.05.10",
+  "searchAnalysis": "**5월 7일(목) 최종 수집:** 주간 기사 5건 확정—①Vusion 주가 하락 및 공매도 현황(5/4), ②리테일 미디어 네트워크 'Gold Rush' 종료 논란(5/4), ③모리슨스 VusionGroup ESL 50번째 매장 달성(5/5), ④메릴랜드 감시형 가격책정 금지법 업계 파장 분석(5/5), ⑤미국 개인화 식료품 가격책정 규제 확산—24개 주 입법 추진(5/6). 이번 주 핵심 이슈는 미국 ESL 다이나믹 프라이싱 규제 입법 가속화(메릴랜드 법 서명 후폭풍)와 영국 모리슨스 대규모 ESL 롤아웃이었다. (일부 도메인 접속 차단—스니펫 기반 보완)",
   "sections": {
     "industryTrends": [
       {
@@ -12,10 +12,38 @@
         "pubDate": "2026-05-04",
         "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/05/04/is-the-retail-media-network-gold-rush-over/",
         "sourceName": "Bakery and Snacks (William Reed)"
+      },
+      {
+        "title": "메릴랜드 감시형 가격책정 금지법, AI 기반 가격 책정 전 산업 경고탄—업계 파장 분석",
+        "summary": "메릴랜드 주지사 웨스 무어(Wes Moore)가 4월 28일 '약탈적 가격책정으로부터의 보호법(Protection from Predatory Pricing Act, HB 895)'에 서명, 미국 최초로 식품 소매업체의 감시형 가격책정을 금지하는 주법이 발효되었다. 이 법은 15,000평방피트 이상 대형 식품 소매점 및 배달 플랫폼이 소비자 개인정보를 활용해 차별적 가격을 책정하는 행위를 금지하며, 2026년 10월 1일부터 시행된다. Consumer Finance Monitor는 이 법이 식품 소매업을 넘어 금융서비스, 보험, 항공 등 AI 기반 개인화 가격책정을 활용하는 전 산업 분야에 파급 효과를 미칠 선례가 될 수 있다고 분석했다. 연방 차원에서는 상원의원 벤 레이 루한·제프 머클리가 발의한 '식료품점 가격 폭리 금지법(Stop Price Gouging in Grocery Stores Act of 2026)'이 대형 마트 내 ESL 사용 자체를 금지하는 조항을 포함하고 있다. 24개 이상 주에서 유사 입법이 추진되고 있어 미국 전역으로 규제 프레임이 확산되는 양상이다. *(검색 스니펫 기반)*",
+        "implications": "[🔴 위협] 미국 내 ESL 관련 규제 입법이 주 단위에서 연방 수준으로 확산되고 있어, SOLUM의 미국 시장 성장 전략에 직접적인 제약 요인이 될 수 있다. 특히 연방법 통과 시 대형 마트 내 ESL 설치 자체가 금지될 수 있는 극단적 시나리오도 배제할 수 없다.\n[🔵 트렌드] ESL=다이나믹 프라이싱 도구라는 부정적 프레임이 미국 소비자·입법자 사이에 빠르게 확산되고 있다. 업계 전체가 인식 전환을 위한 커뮤니케이션 전략 수립이 시급하다.\n[⚡ 액션] SOLUM이 ESL을 통한 개인화 가격책정을 지원하지 않음을 공식화하고, 규제 준수(compliance) 친화적 ESL 솔루션을 강조하는 미국 시장 맞춤형 메시지 및 백서 개발 필요.",
+        "imageUrl": "",
+        "pubDate": "2026-05-05",
+        "sourceUrl": "https://www.consumerfinancemonitor.com/2026/05/05/maryland-targets-surveillance-pricing-is-it-a-warning-shot-for-ai-driven-pricing-across-industries-including-consumer-financial-services/",
+        "sourceName": "Consumer Finance Monitor"
+      },
+      {
+        "title": "미국 개인화 식료품 가격책정 규제 전선 확대—24개 주·40개 이상 법안 본격화",
+        "summary": "FoodNavigator USA(5월 6일)는 메릴랜드 주 최초 감시형 가격책정 금지법 서명을 계기로 미국 전역에서 개인화 알고리즘 가격책정 규제가 급속히 확산되고 있다고 보도했다. 2026년 현재까지 24개 주 이상에서 40개 이상의 관련 법안이 발의되어 2025년 전체 발의 건수를 이미 초과했다. 콜로라도·코네티컷·버몬트는 이미 첫 번째 의회 채결을 완료했으며, 캘리포니아·일리노이·뉴저지 등 대형 소비 주에서도 입법이 추진되고 있다. UFCW(전미식품상업노동자연합)는 전국 캠페인을 통해 ESL 활용 가격차별 금지를 요구하고 있으며, FMI(식품산업협회)는 ESL이 서지 프라이싱 도구가 아니라며 반론하고 있다. 메릴랜드 법 핵심 조항은 '개인 데이터 기반 차별적 가격 설정 금지'이며 멤버십·시니어 할인 등 일반적 프로모션은 허용된다. *(검색 스니펫 기반)*",
+        "implications": "[🔴 위협] ESL이 식료품 가격 담합과 차별적 가격의 기술적 수단으로 규정되는 입법 프레임이 미국 전역으로 확산되고 있다. 이는 미국 시장에서 ESL 신규 영업의 장벽으로 작용할 가능성이 높다.\n[🔵 트렌드] ESL 규제 입법은 단순한 기술 반감이 아닌 소비자 주권·노동 보호·AI 책임 규범의 교차점에서 형성된 구조적 흐름이다.\n[⚡ 액션] SOLUM 미국 세일즈팀은 잠재 고객사에게 ESL의 운영 효율화(직원 업무 경감, 오가격 방지, 재고관리) 측면을 우선 강조하는 메시지 전략으로 전환하고, 개인화 가격책정 기능은 전면에 내세우지 않는 방향으로 포지셔닝 조정이 필요하다.",
+        "imageUrl": "",
+        "pubDate": "2026-05-06",
+        "sourceUrl": "https://www.foodnavigator-usa.com/Article/2026/05/06/personalized-grocery-pricing-in-the-crosshairs/",
+        "sourceName": "FoodNavigator USA"
       }
     ],
     "customerAdoption": {},
-    "majorCompanies": [],
+    "majorCompanies": [
+      {
+        "title": "모리슨스, VusionGroup ESL 롤아웃 50번째 매장 달성—영국 전체 497개점 디지털화 가속",
+        "summary": "영국 4위 슈퍼마켓 모리슨스(Morrisons)가 VusionGroup과의 파트너십으로 진행 중인 디지털 선반 가격 표시기(ESL) 전국 롤아웃에서 50번째 매장 설치를 완료했다고 5월 초 발표했다. 2026년 초 시작된 이 프로젝트는 영국 내 497개 전 매장에 1,080만 개 이상의 스마트 전자 라벨을 설치하는 영국 슈퍼마켓 최초·최대 규모 ESL 전국 배포다. ESL은 실시간 가격·프로모션·More Card 혜택 업데이트를 자동화하고, 선반 카메라와 연동해 빈 선반 안내·온라인 주문 피킹 정확도 향상 기능도 제공한다. 모리슨스는 와이파이 인프라 업그레이드도 병행 중으로, 직원들이 수동 가격 변경에 소요하던 시간을 대폭 절감하고 고객 서비스에 집중할 수 있게 됐다고 밝혔다. *(일부 도메인 접속 차단—스니펫 기반 보완)*",
+        "implications": "[🔵 트렌드] 영국 대형 슈퍼마켓의 ESL 표준화가 본격화되고 있으며, 모리슨스 전국 롤아웃은 영국 리테일 ESL 시장이 파일럿 단계를 졸업했음을 시사한다.\n[🔴 위협] Vusion이 모리슨스·Co-op 등 영국 주요 유통사를 연달아 장기 독점 계약으로 확보, SOLUM의 영국 대형 유통사 진입 기회가 사실상 차단되고 있다.\n[🟢 기회] 영국 대형 마트의 ESL 채택이 가속화됨에 따라 Vusion 계약이 없는 중소형 슈퍼마켓, 편의점, DIY·약국 체인 등에 SOLUM이 진입할 수 있는 틈새 시장이 형성될 가능성이 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-05-05",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/5/3/milestone-for-morrisons-in-uk-grocery-retailers-vusion-powered-digital-shelf-edge-labels-roll-out",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
     "solutionProviders": [
       {
         "title": "Vusion 주가, 글로벌 인정에도 불구하고 공매도 압력으로 2.6% 하락—펀더멘털 vs. 시장 심리 대립",
