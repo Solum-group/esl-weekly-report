@@ -1,7 +1,7 @@
 {
   "weekId": "2026-05-04",
   "weekLabel": "2026.05.04 ~ 2026.05.10",
-  "searchAnalysis": "**5월 7일(목) 최종 수집:** 주간 기사 5건 확정—①Vusion 주가 하락 및 공매도 현황(5/4), ②리테일 미디어 네트워크 'Gold Rush' 종료 논란(5/4), ③모리슨스 VusionGroup ESL 50번째 매장 달성(5/5), ④메릴랜드 감시형 가격책정 금지법 업계 파장 분석(5/5), ⑤미국 개인화 식료품 가격책정 규제 확산—24개 주 입법 추진(5/6). 이번 주 핵심 이슈는 미국 ESL 다이나믹 프라이싱 규제 입법 가속화(메릴랜드 법 서명 후폭풍)와 영국 모리슨스 대규모 ESL 롤아웃이었다. (일부 도메인 접속 차단—스니펫 기반 보완)",
+  "searchAnalysis": "**5월 7일(목) 최종 수집:** 주간 기사 5건 확정—①Vusion 주가 하락 및 공매도 현황(5/4), ②리테일 미디어 네트워크 'Gold Rush' 종료 논란(5/4), ③모리슨스 VusionGroup ESL 50번째 매장 달성(5/5), ④메릴랜드 감시형 가격책정 금지법 업계 파장 분석(5/5), ⑤미국 개인화 식료품 가격책정 규제 확산—24개 주 입법 추진(5/6). 이번 주 핵심 이슈는 미국 ESL 다이나믹 프라이싱 규제 입법 가속화(메릴랜드 법 서명 후폭풍)와 영국 모리슨스 대규모 ESL 롤아웃이었다. (일부 도메인 접속 차단—스니펫 기반 보완)\n**5월 7~10일 보완:** 목·금·주말 기사 2건 추가—①RTIH 주간 기술 종합(5/7): Coop Estonia-StrongPoint-Vusion 800만 유로 ESL 계약 체결 및 유럽 ESL 대형 딜 집중, ②뉴욕 AG 브롱크스 집회(5/8): ESL 전면 금지 법안 'One Fair Price Package' 지지 집회로 미국 규제 압박 고조. (일부 도메인 접속 차단—스니펫 기반 보완)",
   "sections": {
     "industryTrends": [
       {
@@ -30,6 +30,24 @@
         "pubDate": "2026-05-06",
         "sourceUrl": "https://www.foodnavigator-usa.com/Article/2026/05/06/personalized-grocery-pricing-in-the-crosshairs/",
         "sourceName": "FoodNavigator USA"
+      },
+      {
+        "title": "리테일 미디어 퍼스트·ESL 대규모 계약 확정—5월 첫째 주 글로벌 리테일 기술 주요 뉴스 종합",
+        "summary": "Retail Technology Innovation Hub(RTIH)가 5월 7일 발행한 주간 리테일 기술 뉴스 종합 리포트에 따르면, 이번 주는 ESL 분야의 대형 계약 체결과 리테일 미디어 관련 혁신 사례가 두드러졌다. 핵심 ESL 뉴스로는 ①에스토니아 식료품 체인 Coop이 StrongPoint·Vusion과 약 800만 유로 규모의 디지털 선반 가격 표시기 계약을 체결하고 2026년 하반기부터 복수 매장에 순차 설치를 시작하기로 했으며, ②영국 모리슨스(Morrisons)가 VusionGroup과의 ESL 전국 롤아웃에서 50번째 매장 설치 이정표를 달성했다. 리테일 미디어 분야에서는 Giant Eagle이 Ibotta Performance Network에 200개 이상 매장과 디지털 플랫폼을 합류시키며 인스토어 미디어 역량을 강화했다. 아울러 Lidl(영국)의 셀프스캔 솔루션 Lidl & Go가 영국 7개 매장으로 확대됐으며, Amazon의 Just Walk Out 기술이 탬파 트로피카나 필드 스타디움 내 매장에 도입됐다. *(검색 스니펫 기반)*",
+        "implications": "[🔵 트렌드] 에스토니아(Coop)·영국(모리슨스) 등 유럽 주요 식료품 리테일러들이 잇따라 대규모 ESL 계약을 확정하며, 유럽 리테일의 디지털 선반 표준화가 빠르게 진행되고 있다. Vusion이 이 흐름의 핵심 파트너로 자리를 굳히고 있다.\n[🔴 위협] Vusion이 에스토니아·영국·오스트리아(INTERSPAR)·미국(Walmart) 등 전 세계 주요 리테일러와 잇달아 독점 계약을 체결함으로써, SOLUM이 진입할 수 있는 대형 유통사 기회가 점점 줄어들고 있다.\n[🟢 기회] StrongPoint와 같은 지역 ICT 파트너를 통한 채널 영업 전략이 유효함을 보여준다. SOLUM도 발틱·동유럽·중동 지역 ICT 파트너사와의 협력을 강화해 Vusion이 미처 공략하지 못한 중소 리테일러 시장을 선점하는 전략이 필요하다.\n[⚡ 액션] 유럽 ESL 대형 계약 동향 지속 모니터링 및 StrongPoint 등 유력 리테일 ICT 파트너사와의 협력 가능성 검토.",
+        "imageUrl": "",
+        "pubDate": "2026-05-07",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/5/7/retail-media-firsts-and-digital-shelf-edge-label-milestones-this-weeks-biggest-retail-technology-stories",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "뉴욕 검찰총장, 브롱크스서 ESL·감시형 가격책정 전면 금지 촉구 집회—뉴욕주 'One Fair Price Package' 입법 가속화",
+        "summary": "뉴욕주 검찰총장 레티티아 제임스(Letitia James)가 5월 8일 브롱크스에서 어셈블리맴버 에메리타 토레스(Emérita Torres) 등 지역 의원·노동조합·커뮤니티 단체와 함께 'One Fair Price Package' 지지 집회를 열었다. 이 패키지는 두 가지 법안으로 구성된다. ①'One Fair Price Act'(S.8623/A.9349)는 소비자 개인정보를 활용한 감시형 가격책정(surveillance pricing)을 전면 금지하고, ②'Protecting Consumers and Jobs from Discriminatory Pricing Act'(S.8616/A.9396)는 식료품점·약국에서 ESL 사용 자체를 금지하는 내용을 담고 있다. 최근 뉴욕 주민 조사에서 66%가 ESL 및 감시형 가격책정 금지를 지지했으며, 약 70%는 해당 기술이 식품 가격을 높일 것이라고 우려했다. RWDSU(소매·도매·백화점노조) 스튜어트 애플바움(Stuart Appelbaum) 의장은 'ESL은 단순한 기술 업그레이드가 아니라 소비자에 대한 가격 투명성 침해'라고 비판했다. 뉴욕주는 이미 2025년 12월 FAIR Business Practices Act(GBL §349-a)를 통해 감시형 가격책정 시 소비자 공시를 의무화한 바 있으며, 이번 집회는 ESL 사용 자체를 금지하는 강력한 입법으로 나아가려는 시도다.",
+        "implications": "[🔴 위협] 뉴욕주에서 ESL 사용 자체를 금지하려는 입법 집회가 잇달아 열리며, 미국 최대 소비 주 중 하나인 뉴욕에서 ESL 금지법 통과 가능성이 높아지고 있다. 이는 SOLUM의 미국 동부 고객사 영업에 직접적 위협 요인이 될 수 있다.\n[🔵 트렌드] 뉴욕 AG가 주도하는 순회 집회(시라큐스 5/5→브롱크스 5/8)로 ESL 금지 입법 지지 연대가 확산되고 있다. 노동조합·시니어·소수민족 단체 등 광범위한 연합이 형성되어 정치적 모멘텀이 커지고 있다.\n[⚡ 액션] SOLUM 미국 세일즈팀 및 정책팀은 뉴욕주 S.8616 법안 진행 상황을 면밀히 추적하고, 법안 통과 시나리오별 대응 계획(영향받는 고객사 리스트, 대체 솔루션 제안 등)을 사전에 수립해야 한다. FMI(식품산업협회)와 협력해 ESL의 비(非)감시형 운용 사례를 입법자에게 적극 전달하는 것도 필요하다.",
+        "imageUrl": "https://ag.ny.gov/sites/default/files/2023-01/oag-social-preview.png",
+        "pubDate": "2026-05-08",
+        "sourceUrl": "https://ag.ny.gov/press-release/2026/attorney-general-james-rallies-bronx-ban-surveillance-pricing",
+        "sourceName": "New York State Attorney General"
       }
     ],
     "customerAdoption": {},
