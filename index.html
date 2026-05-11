@@ -346,6 +346,93 @@
         .article-section-text .md-list li { margin-bottom: 4px; line-height: 1.58; }
         .article-section-text strong { color: var(--text-primary); font-weight: 700; }
 
+        /* ── SUMMARY NUMBERED LIST ── */
+        .summary-num-list { list-style: none; padding: 0; margin: 4px 0 4px 0; }
+        .summary-num-item {
+            display: flex;
+            gap: 8px;
+            align-items: flex-start;
+            margin-bottom: 7px;
+            font-size: 0.855rem;
+            line-height: 1.65;
+            color: var(--text-secondary);
+        }
+        .summary-num-badge {
+            flex-shrink: 0;
+            width: 18px; height: 18px;
+            border-radius: 50%;
+            background: var(--blue-light);
+            color: var(--blue-dark);
+            font-size: 0.7rem;
+            font-weight: 800;
+            display: flex; align-items: center; justify-content: center;
+            margin-top: 2px;
+        }
+        .snippet-badge {
+            display: inline-block;
+            font-size: 0.62rem;
+            padding: 1px 8px;
+            border-radius: var(--radius-full);
+            background: #f3f4f6;
+            color: var(--text-tertiary);
+            font-weight: 600;
+            border: 1px solid var(--border);
+            margin-left: 3px;
+            vertical-align: middle;
+            letter-spacing: 0.1px;
+        }
+
+        /* ── SUMMARY COLLAPSE ── */
+        .summary-collapsible { position: relative; }
+        .summary-content { overflow: hidden; }
+        .summary-content.collapsed { max-height: 88px; }
+        .summary-content.expanded { max-height: none; }
+        .summary-fade {
+            height: 36px;
+            background: linear-gradient(transparent, #ffffff);
+            margin-top: -36px;
+            position: relative;
+            pointer-events: none;
+        }
+        .summary-fade.hidden { display: none; }
+        .summary-toggle-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 3px;
+            background: none;
+            border: none;
+            color: var(--blue);
+            font-size: 0.75rem;
+            font-weight: 700;
+            cursor: pointer;
+            padding: 3px 0 0 0;
+            font-family: inherit;
+            letter-spacing: -0.1px;
+        }
+        .summary-toggle-btn:hover { text-decoration: underline; }
+        .summary-toggle-btn.hidden { display: none; }
+
+        /* ── IMPLICATION BLOCKS ── */
+        .impl-blocks { display: flex; flex-direction: column; gap: 6px; }
+        .impl-block {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            padding: 8px 10px 8px 12px;
+            border-radius: var(--radius-sm);
+        }
+        .impl-block-threat { background: #fff8f8; border-left: 3px solid #f04452; }
+        .impl-block-oppo   { background: #f0fdf9; border-left: 3px solid #1aba7b; }
+        .impl-block-trend  { background: var(--blue-light); border-left: 3px solid #7c3aed; }
+        .impl-block-action { background: #fffdf0; border-left: 3px solid var(--orange); }
+        .impl-block .impl-tag { flex-shrink: 0; margin-top: 1px; }
+        .impl-block-text {
+            font-size: 0.83rem;
+            line-height: 1.62;
+            color: var(--text-secondary);
+        }
+        .impl-block-text strong { color: var(--text-primary); font-weight: 700; }
+
         /* ── IMPLICATION TAGS ── */
         .impl-tag {
             display: inline-block;
@@ -1560,16 +1647,20 @@ function renderReport(report) {
            </div>`
         : '';
 
+    _cardCounter = 0; // 카드 ID 카운터 초기화
     document.getElementById('mainContent').innerHTML = weekHeaderHTML + searchAnalysisHTML + statsHTML + sectionsHTML;
-    // 렌더링 후 좋아요 카운트 비동기 로드
+    // 렌더링 후 요약 접기 초기화 + 좋아요 카운트 비동기 로드
+    initSummaryCollapses();
     loadReactionCounts();
 }
 
+let _cardCounter = 0;
 function articleCard(article) {
     const sourceDisplay = article.sourceName || extractDomain(article.sourceUrl);
     const thumbHtml = article.imageUrl
         ? `<img class="article-thumb" src="${escapeHtml(article.imageUrl)}" alt="${escapeHtml(article.title)}" loading="lazy" onerror="this.classList.add('article-thumb-error')">`
         : '';
+    const sid = 'sum_' + (++_cardCounter);
     return `
         <div class="article-card">
             ${thumbHtml}
@@ -1579,9 +1670,13 @@ function articleCard(article) {
                     ${article.pubDate ? `<span class="meta-tag meta-date">${escapeHtml(article.pubDate)}</span>` : ''}
                 </div>
                 <div class="article-title">${escapeHtml(article.title)}</div>
-                <div class="article-section">
+                <div class="article-section summary-collapsible">
                     <div class="article-section-label label-summary">요약</div>
-                    <div class="article-section-text">${renderMarkdown(article.summary)}</div>
+                    <div class="summary-content collapsed article-section-text" id="${sid}">
+                        ${renderSummary(article.summary)}
+                    </div>
+                    <div class="summary-fade" id="${sid}_fade"></div>
+                    <button class="summary-toggle-btn" id="${sid}_btn" onclick="toggleSummary('${sid}')">더 보기 ▾</button>
                 </div>
                 <div class="article-section">
                     <div class="article-section-label label-implications">시사점</div>
@@ -1609,6 +1704,35 @@ function articleCard(article) {
                 </div>
             </div>
         </div>`;
+}
+
+// ── 요약 접기/펼치기 ─────────────────────────────────────────────────
+function toggleSummary(id) {
+    const content = document.getElementById(id);
+    const fade    = document.getElementById(id + '_fade');
+    const btn     = document.getElementById(id + '_btn');
+    if (!content) return;
+    const isCollapsed = content.classList.contains('collapsed');
+    content.classList.toggle('collapsed', !isCollapsed);
+    content.classList.toggle('expanded', isCollapsed);
+    if (fade) fade.classList.toggle('hidden', isCollapsed);
+    if (btn) btn.textContent = isCollapsed ? '접기 ▴' : '더 보기 ▾';
+}
+
+function initSummaryCollapses() {
+    _cardCounter = 0; // 다음 렌더링에서 카운터 리셋
+    document.querySelectorAll('.summary-content').forEach(el => {
+        const id  = el.id;
+        const fade = document.getElementById(id + '_fade');
+        const btn  = document.getElementById(id + '_btn');
+        // 내용이 짧으면 접기 UI 숨김
+        if (el.scrollHeight <= 100) {
+            el.classList.remove('collapsed');
+            el.classList.add('expanded');
+            if (fade) fade.classList.add('hidden');
+            if (btn)  btn.classList.add('hidden');
+        }
+    });
 }
 
 function emptyState(label) {
@@ -1693,6 +1817,60 @@ function computeWeekLabel(weekId) {
     return `${fmt(mon)} ~ ${fmt(sun)}`;
 }
 
+// ── 요약 전용 렌더러 (①②③ 분리 + 스니펫 뱃지) ────────────────────
+function renderSummary(str) {
+    if (!str) return '';
+    const SNIPPET_PLACEHOLDER = '@@SNIPPET@@';
+    // 스니펫 마커 치환 (이스케이프 전)
+    let raw = str.replace(/\*\(검색\s*스니펫\s*기반\)\*/g, SNIPPET_PLACEHOLDER);
+
+    const escaped = escapeHtml(raw);
+    const lines = escaped.split('\n');
+    const result = [];
+    const CIRC = /[①②③④⑤⑥⑦⑧⑨]/;
+    const applyInline = (s) => s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+
+    for (const rawLine of lines) {
+        const line = rawLine.trim();
+        if (!line) continue;
+        const formatted = applyInline(line);
+
+        if (CIRC.test(formatted)) {
+            // ①②③ 기준으로 분리 → 시각적 리스트로 렌더링
+            const parts = formatted.split(/(①|②|③|④|⑤|⑥|⑦|⑧|⑨)/);
+            let intro = '';
+            const items = [];
+            let i = 0;
+            while (i < parts.length) {
+                if (/^[①②③④⑤⑥⑦⑧⑨]$/.test(parts[i])) {
+                    const num = parts[i];
+                    const content = (parts[i + 1] || '').trim().replace(/[,，]\s*$/, '');
+                    if (content) items.push({ num, content });
+                    i += 2;
+                } else {
+                    if (i === 0) intro = parts[i].trim();
+                    i++;
+                }
+            }
+            if (items.length > 0) {
+                if (intro) result.push(`<p class="md-p">${intro}</p>`);
+                result.push('<ul class="summary-num-list">');
+                for (const item of items) {
+                    result.push(`<li class="summary-num-item"><span class="summary-num-badge">${item.num}</span><span>${item.content}</span></li>`);
+                }
+                result.push('</ul>');
+                continue;
+            }
+        }
+        result.push(`<p class="md-p">${formatted}</p>`);
+    }
+
+    let html = result.join('');
+    // 스니펫 뱃지 복원
+    html = html.replace(/@@SNIPPET@@/g, '<span class="snippet-badge">스니펫 기반</span>');
+    return html;
+}
+
 // 요약·시사점 마크다운 렌더러
 // 지원: **굵게**, - 불릿, 1. 번호목록, \n 줄바꿈
 function renderMarkdown(str) {
@@ -1734,24 +1912,42 @@ function renderMarkdown(str) {
 function renderImplications(text) {
     if (!text) return '';
     const tagMap = {
-        '[🔴 위협]': { cls: 'impl-tag-threat',  label: '🔴 위협' },
-        '[🟢 기회]': { cls: 'impl-tag-oppo',    label: '🟢 기회' },
-        '[🔵 트렌드]': { cls: 'impl-tag-trend', label: '🔵 트렌드' },
-        '[⚡ 액션]': { cls: 'impl-tag-action',  label: '⚡ 액션' },
+        '[🔴 위협]':   { cls: 'threat',  label: '🔴 위협' },
+        '[🟢 기회]':   { cls: 'oppo',    label: '🟢 기회' },
+        '[🔵 트렌드]': { cls: 'trend',   label: '🔵 트렌드' },
+        '[⚡ 액션]':   { cls: 'action',  label: '⚡ 액션' },
     };
-    // 태그 치환 후 마크다운 렌더링
-    let raw = text;
-    for (const [token, { cls, label }] of Object.entries(tagMap)) {
-        raw = raw.replace(token, `@@TAG:${cls}:${label}@@`);
+    const tokens = Object.keys(tagMap);
+    const lines = text.split('\n');
+    const blocks = [];
+    let current = null;
+
+    for (const line of lines) {
+        const trimmed = line.trim();
+        if (!trimmed) continue;
+        let matched = false;
+        for (const [token, info] of Object.entries(tagMap)) {
+            if (trimmed.startsWith(token)) {
+                if (current) blocks.push(current);
+                current = { ...info, content: trimmed.slice(token.length).trim() };
+                matched = true;
+                break;
+            }
+        }
+        if (!matched && current) {
+            current.content += ' ' + trimmed;
+        }
     }
-    let result = renderMarkdown(raw);
-    for (const [, { cls, label }] of Object.entries(tagMap)) {
-        result = result.replace(
-            `@@TAG:${cls}:${label}@@`,
-            `<span class="impl-tag ${cls}">${label}</span>`
-        );
-    }
-    return result;
+    if (current) blocks.push(current);
+
+    if (blocks.length === 0) return renderMarkdown(text);
+
+    const applyInline = (s) => escapeHtml(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    return `<div class="impl-blocks">${blocks.map(b => `
+        <div class="impl-block impl-block-${b.cls}">
+            <span class="impl-tag impl-tag-${b.cls}">${b.label}</span>
+            <span class="impl-block-text">${applyInline(b.content)}</span>
+        </div>`).join('')}</div>`;
 }
 
 // ── VIEW COUNT ────────────────────────────────────────
