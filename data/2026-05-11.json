@@ -1,0 +1,41 @@
+{
+  "weekId": "2026-05-11",
+  "weekLabel": "2026.05.11 ~ 2026.05.17",
+  "searchAnalysis": "**5월 14일(목) 수집:** 주간 기사 3건—이번 주는 미국 내 감시가격(Surveillance Pricing)과 ESL 규제 입법 가속화가 가장 두드러진 테마였음. Mayer Brown이 JetBlue 항공사 대상 첫 감시가격 클래스 액션 소송을 분석했고(5/11), 콜로라도 주 의회가 AI법 대체 법안을 통과시키며 감시가격 금지 법안도 함께 처리했음(5/12). 한편 ESL의 노동비용 절감 효과를 다룬 실무 가이드도 발행됨(5/13). 주요 ESL 공급사(Vusion, SOLUM, Hanshow, Pricer)의 이번 주 신규 공식 발표는 확인되지 않음.",
+  "sections": {
+    "industryTrends": [
+      {
+        "title": "New Class Action Targets 'Surveillance Pricing': What Businesses Using Personalized Pricing Need to Know",
+        "summary": "2026년 4월 22일 JetBlue 항공사를 상대로 미국 역사상 최초의 감시가격(surveillance pricing) 관련 클래스 액션 소송이 제기됐다. 원고는 JetBlue가 웹사이트 추적 기술과 써드파티 행동분석 도구(FullStory, PROS Holdings)를 통해 수집한 개인 데이터를 기반으로 항공권 가격을 개인별로 책정했다고 주장하며, ECPA 연방 위반 및 뉴욕주 소비자보호법 위반을 청구했다. Mayer Brown은 이 소송이 향후 ESL 도입 소매업체를 포함한 다양한 산업의 데이터 기반 가격책정 기업 전반에 유사 소송의 청사진이 될 수 있다고 경고했다. 두 번째 유사 소송(Squire v. JetBlue)도 버지니아주 원고에 의해 5월 1일 추가 제기됨.",
+        "implications": "[🔴 위협] ESL 기반 동적 가격책정 기업들이 개인정보 수집·활용 방식에 대한 소송 타겟이 될 위험 급증. SOLUM을 포함한 ESL 솔루션 공급사는 고객(유통사)에게 데이터 수집·가격책정 프로세스의 투명성 확보 및 법적 리스크 관리 방안 제공 필요. JetBlue 소송 = ESL 업계의 'canary in the coal mine'으로 인식해야 함.",
+        "imageUrl": "https://www.mayerbrown.com/cdn-cgi/image/width=400,quality=90,format=jpeg/-/media/images/tile-images-for-insights-and-news/tile_bucket-300x400_4.jpg",
+        "pubDate": "2026-05-11",
+        "sourceUrl": "https://www.mayerbrown.com/en/insights/publications/2026/05/new-class-action-targets-surveillance-pricing-what-businesses-using-personalized-pricing-need-to-know",
+        "sourceName": "Mayer Brown"
+      },
+      {
+        "title": "Colorado Legislature Passes Bill to Repeal and Replace Colorado AI Act; Surveillance Pricing Ban Also Enacted",
+        "summary": "콜로라도 주 의회가 5월 12일 기존 콜로라도 AI법을 폐지하고 보다 기업 친화적인 공개 중심의 AI 규제 프레임워크(SB 189)로 대체하는 법안을 통과시켰다. 동시에 콜로라도 주 의회는 감시 데이터를 기반으로 소비자에게 개인별 가격을 책정하거나 근로자에게 개인별 임금을 설정하는 행위를 금지하는 HB 1210도 통과시켰다. HB 1210은 2026년 8월 12일부터 발효될 예정으로, 동적 가격책정 및 ESL 활용 방식에 직접적 영향을 미칠 수 있다. 또한 코네티컷, 캘리포니아(AB 446 하원 통과) 등에서도 유사 감시가격 관련 입법이 진행 중이며 미 전역 24개 주에서 40개 이상의 관련 법안이 발의되어 있다.",
+        "implications": "[🔴 위협] 콜로라도 HB 1210을 시작으로 미국 주 단위 감시가격 규제가 본격화됨. ESL 기반 개인화 가격책정이 주요 금지 대상으로 명시됨에 따라, SOLUM을 비롯한 ESL 공급사는 고객 유통사의 법적 컴플라이언스 요구에 대응하는 솔루션(가격 투명성 기능, 균일가격 보증 모드 등) 개발 필요. [⚡ 액션] 미국 내 ESL 구축 고객사에 대한 법적 리스크 평가 지원 서비스를 선제적으로 마련할 것.",
+        "imageUrl": "https://www.troutmanprivacy.com/wp-content/uploads/sites/941/2025/08/CO_StateFlag_1200x600_GettyImages-1399199285.jpg",
+        "pubDate": "2026-05-12",
+        "sourceUrl": "https://www.troutmanprivacy.com/2026/05/colorado-legislature-passes-bill-to-repeal-and-replace-colorado-ai-act/",
+        "sourceName": "Troutman Privacy + Cyber + AI"
+      }
+    ],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [],
+    "technology": [
+      {
+        "title": "Digital Shelf Displays That Cut Retail Labor",
+        "summary": "ESL 전문 미디어 ElectronicShelfTags.com이 디지털 선반 디스플레이(ESL)의 노동비용 절감 효과를 심층 분석했다. 종이 가격표의 인쇄·배포·교체에 소요되던 반복 노동이 ESL 도입 시 소프트웨어 기반 일괄 업데이트로 대체되어 가격 변경 업무에 드는 시간이 최대 90% 이상 절감된다고 설명했다. 특히 대형 슈퍼마켓, 약국, 철물점, 냉동 창고 등 가격 변동이 잦은 업종에서 ROI가 높으며, 중앙집중식 플랫폼을 통한 체인 전체 일괄 업데이트가 가격 정확도 향상과 컴플라이언스 리스크 감소에도 기여한다고 강조했다. Walmart 전자 기기팀 담당자는 ESL 도입 후 가격 업무 시간을 75% 절감했다고 밝혔다.",
+        "implications": "[🟢 기회] ESL 도입 ROI 중 노동비용 절감 효과가 가장 명확하게 정량화 가능한 항목. SOLUM은 세일즈 피치에 '가격 업무 시간 90% 절감' 등 구체적 수치를 전면에 내세운 ROI 계산기 및 도입 사례집을 적극 활용해야 함. [🔵 트렌드] 미국 중소 리테일러들의 ESL 전환 의사결정 시 노동비용 절감이 주된 동인임을 확인.",
+        "imageUrl": "https://www.electronicshelftags.com/wp-content/uploads/2026/05/digital-shelf-displays-that-cut-retail-labor-featured.webp",
+        "pubDate": "2026-05-13",
+        "sourceUrl": "https://www.electronicshelftags.com/digital-shelf-displays-cut-retail-labor/",
+        "sourceName": "Electronic Shelf Tags (ESLtags.com)"
+      }
+    ]
+  }
+}
