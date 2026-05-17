@@ -1,9 +1,18 @@
 {
   "weekId": "2026-05-11",
   "weekLabel": "2026.05.11 ~ 2026.05.17",
-  "searchAnalysis": "**5월 14일(목) 수집:** 주간 기사 3건—이번 주는 미국 내 감시가격(Surveillance Pricing)과 ESL 규제 입법 가속화가 가장 두드러진 테마였음. Mayer Brown이 JetBlue 항공사 대상 첫 감시가격 클래스 액션 소송을 분석했고(5/11), 콜로라도 주 의회가 AI법 대체 법안을 통과시키며 감시가격 금지 법안도 함께 처리했음(5/12). 한편 ESL의 노동비용 절감 효과를 다룬 실무 가이드도 발행됨(5/13). 주요 ESL 공급사(Vusion, SOLUM, Hanshow, Pricer)의 이번 주 신규 공식 발표는 확인되지 않음.",
+  "searchAnalysis": "**5월 14일(목) 수집:** 주간 기사 3건—이번 주는 미국 내 감시가격(Surveillance Pricing)과 ESL 규제 입법 가속화가 가장 두드러진 테마였음. Mayer Brown이 JetBlue 항공사 대상 첫 감시가격 클래스 액션 소송을 분석했고(5/11), 콜로라도 주 의회가 AI법 대체 법안을 통과시키며 감시가격 금지 법안도 함께 처리했음(5/12). 한편 ESL의 노동비용 절감 효과를 다룬 실무 가이드도 발행됨(5/13). 주요 ESL 공급사(Vusion, SOLUM, Hanshow, Pricer)의 이번 주 신규 공식 발표는 확인되지 않음.\n**5월 14~18일 보완:** 목·금·주말 기사 1건 추가—5월 15일(금) CalMatters가 캘리포니아 AB 2564(감시가격 금지법)의 하원 상임위 통과와 함께 메릴랜드·콜로라도·코네티컷 3개 주 감시가격 금지법 통과 등 미국 전역으로 확산되는 ESL·감시가격 규제 입법 트렌드를 심층 보도. ESL 특정 언급(뉴욕주 식료품점·약국 ESL 금지법안 지지 포함). 토·일 기사는 없음. (일부 도메인 접속 차단—스니펫 기반 보완)",
   "sections": {
     "industryTrends": [
+      {
+        "title": "Why Surveillance Pricing Bans Are Suddenly Gaining Traction This Year (and Not Just in California)",
+        "summary": "캘리포니아 의회가 5월 15일(금) 감시가격 금지 법안(AB 2564)의 핵심 상임위 표결을 통과시켰다. 이 법안은 소비자의 나이·성별·위치 등 개인정보를 기반으로 가격을 차등 책정하는 행위를 금지하며, 전체 의회 통과 및 주지사 서명 시 캘리포니아에서 발효된다. CalMatters는 동시에 지난 한 달 사이 메릴랜드(주지사 서명), 콜로라도, 코네티컷 등 3개 주가 감시가격 금지법을 잇따라 통과시켰다고 보도했다. 미국 약 절반의 주에서 관련 법안이 논의 중이며, 이번 주 인플레이션이 3.8%로 임금 상승률을 초과한 가운데 갤럽 조사에서 55% 미국인이 재정 상황 악화를 느끼는 상황이 입법 압력을 가중시키고 있다. 뉴욕주 법무장관실은 식료품점·약국에서 ESL 자체를 금지하는 법안을 지지한다고 밝혔으며, 캘리포니아 AG도 감시가격 조사를 진행 중이다.",
+        "implications": "[🔴 위협] 메릴랜드·콜로라도·코네티컷 통과 + 캘리포니아 AB 2564 상임위 통과로 미국 감시가격 금지 입법 속도가 급가속. 특히 뉴욕주는 ESL 자체 금지 법안을 추진 중이어서 SOLUM 등 ESL 공급사의 미국 시장 진입 및 기존 고객사에 직접적 법적 리스크가 될 수 있음.\n[🟢 기회] UCSD 연구 등 'ESL = surge pricing 도구가 아님' 실증 데이터를 활용한 적극적 반박 커뮤니케이션 기회. SOLUM은 가격 투명성 보증 기능·컴플라이언스 로그 기능을 제품에 탑재해 고객사의 규제 대응 지원 도구로 포지셔닝 가능.\n[⚡ 액션] 미국 주별 ESL/감시가격 규제 법안 동향 내부 추적 체계 즉시 수립 및 영향 평가 수행. 미국 유통 고객사에 법적 컴플라이언스 가이드 제공 선제 대응.",
+        "imageUrl": "https://calmatters.org/wp-content/uploads/2024/02/012224_Assembly-Floor_FG_CM_16.jpg",
+        "pubDate": "2026-05-15",
+        "sourceUrl": "https://calmatters.org/economy/technology/2026/05/why-surveillance-pricing-bans-are-suddenly-gaining-traction-this-year-and-not-just-in-california/",
+        "sourceName": "CalMatters"
+      },
       {
         "title": "New Class Action Targets 'Surveillance Pricing': What Businesses Using Personalized Pricing Need to Know",
         "summary": "2026년 4월 22일 JetBlue 항공사를 상대로 미국 역사상 최초의 감시가격(surveillance pricing) 관련 클래스 액션 소송이 제기됐다. 원고는 JetBlue가 웹사이트 추적 기술과 써드파티 행동분석 도구(FullStory, PROS Holdings)를 통해 수집한 개인 데이터를 기반으로 항공권 가격을 개인별로 책정했다고 주장하며, ECPA 연방 위반 및 뉴욕주 소비자보호법 위반을 청구했다. Mayer Brown은 이 소송이 향후 ESL 도입 소매업체를 포함한 다양한 산업의 데이터 기반 가격책정 기업 전반에 유사 소송의 청사진이 될 수 있다고 경고했다. 두 번째 유사 소송(Squire v. JetBlue)도 버지니아주 원고에 의해 5월 1일 추가 제기됨.",
