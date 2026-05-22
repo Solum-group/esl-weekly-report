@@ -1,0 +1,42 @@
+{
+  "weekId": "2026-05-18",
+  "weekLabel": "2026.05.18 ~ 2026.05.24",
+  "searchAnalysis": "**5월 22일(금) 수집:** 주간 기사 3건—이번 주(5/18~5/22)는 SOLUM의 유럽 리테일 미디어 생태계 확장 파트너십, 미국 뉴욕주 ESL·감시가격 금지 입법의 의회 막바지 처리 압박, 그리고 배터리리스 ESL(Ambient IoT 기반)의 부상이 핵심 테마였음. SOLUM은 Skippify와의 파트너십으로 Newton ESL을 유럽 편의·주유소·푸드서비스 채널의 통합 디지털 사이니지 플랫폼과 연동하며 하드웨어를 넘어 리테일 미디어 레이어까지 확장. 뉴욕주 상원 통과 법안이 하원(Assembly)으로 넘어가며 입법 시계가 빨라짐. 기술 측면에서는 1세대 배터리 기반 ESL의 유지보수 비용 문제를 해결하는 Ambient IoT 기반 배터리리스 ESL이 주목받기 시작함.",
+  "sections": {
+    "industryTrends": [
+      {
+        "title": "The Push to Target Surveillance Pricing Now Lies in the New York Assembly",
+        "summary": "뉴욕주 상원을 통과한 'Protecting Consumers and Jobs from Discriminatory Pricing Act(차별적 가격책정 금지법)'이 5월 19일 하원(Assembly)으로 이송됐다. 이 법안은 식료품점·약국에서의 전자 가격 표시기(ESL) 사용 자체를 금지하고, 소비자 개인정보를 기반으로 한 감시가격(surveillance pricing)을 전면 금지하는 내용을 담고 있다. 하원 스폰서인 Michaelle Solages 의원은 현 회기 마지막 2주 안에 주지사 서명을 목표로 추진 중이라고 밝혔다. 상원 다수대표 Mike Gianaris가 발의한 이 법안은 뉴욕주 법무장관 Letitia James의 지지를 받고 있으며, 66%의 뉴욕 주민이 ESL·감시가격 금지를 지지하는 여론 조사 결과도 나왔다.",
+        "implications": "[🔴 위협] 미국 최대 시장 중 하나인 뉴욕주에서 ESL 자체를 금지하는 법안이 상원 통과 후 하원 막바지 처리 단계에 진입. 법안이 통과되면 뉴욕주 식료품점·약국 납품처의 ESL 철거 및 계약 해지 위험 발생. SOLUM 미국 사업에 직접적 법적 타격 가능성.\n[🔴 위협] 뉴욕주를 시작으로 미 전역 12개 주 + 연방 법안(H.R. 4966)으로 확산 중인 ESL 규제 입법 도미노 효과 가속화 우려.\n[⚡ 액션] 뉴욕주 Assembly 상황 실시간 모니터링 및 법안 통과 시 미국 고객사 대응 플랜 사전 수립 시급. 미국 업계 단체(FMI 등)와 공조해 ESL와 감시가격은 다르다는 팩트 기반 로비 강화.",
+        "imageUrl": "https://s7d2.scene7.com/is/image/TWCNews/inflation_AP_26041736378636_NAT_021326",
+        "pubDate": "2026-05-19",
+        "sourceUrl": "https://spectrumlocalnews.com/nys/central-ny/politics/2026/05/19/surveillance-pricing-",
+        "sourceName": "Spectrum News NY"
+      }
+    ],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [
+      {
+        "title": "SOLUM and Skippify Partner to Connect Real-Time Shelf Communication with Smart In-Store Signage Across Europe",
+        "summary": "SOLUM이 5월 18일 유럽 스마트 사이니지 플랫폼 Skippify와 전략적 파트너십을 체결, SOLUM의 Newton ESL 플랫폼을 Skippify Suite에 통합한다고 발표했다. 이 파트너십은 주유소·편의점·푸드서비스 환경에서 실시간 가격 동기화, 중앙화된 콘텐츠·가격 관리, POS 및 백오피스 시스템 연동을 지원한다. Skippify는 소프트웨어·크리에이티브 콘텐츠·유럽 롤아웃 전문성을, SOLUM은 ESL 하드웨어와 통신 레이어를 담당한다. 파트너십 결과물인 Smart ESL 솔루션은 2026년 6월 슈투트가르트에서 열리는 UNITI expo 2026에서 공개될 예정이다. 이번 협력은 M-Cube, Huawei, Simbe, Competera에 이은 SOLUM의 유럽 리테일 생태계 확장 연속 파트너십의 일환이다.",
+        "implications": "[🟢 기회] SOLUM이 ESL 하드웨어 벤더를 넘어 유럽 리테일 미디어 및 디지털 사이니지 통합 플랫폼 생태계의 핵심 레이어로 포지셔닝. 주유소·편의점 채널은 SOLUM이 아직 상대적으로 덜 침투한 버티컬로, 이번 파트너십으로 새로운 유통 채널 확보 가능.\n[🟢 기회] UNITI expo 2026(주유소·편의 리테일 전문 전시회) 공동 전시로 유럽 주유소 채널 고객 접점 확대. 리테일 미디어 수익화 기능을 ESL과 결합하는 트렌드 선도.\n[🔵 트렌드] ESL 공급사들이 하드웨어 납품 모델에서 SaaS·리테일 미디어 수익화 플랫폼 생태계 참여 모델로 전환 가속. Vusion, SOLUM 모두 이 방향으로 움직이는 중.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/05/Skippify-Solum--e1779202438395.jpg",
+        "pubDate": "2026-05-18",
+        "sourceUrl": "https://www.businesswire.com/news/home/20260518791360/en/SOLUM-and-Skippify-Partner-to-Connect-Real-Time-Shelf-Communication-with-Smart-In-Store-Signage-Across-Europe",
+        "sourceName": "Business Wire"
+      }
+    ],
+    "technology": [
+      {
+        "title": "Why Retailers are Rushing to Adopt Ambient IoT for Batteryless Electronic Shelf Labels",
+        "summary": "IoT Business News가 5월 18일 분석 기사를 통해 배터리리스 ESL 채택을 가속화하는 기술적·경제적 배경을 심층 조명했다. 1세대 배터리 기반 ESL은 배터리 교체 인건비, 전자폐기물, 공급망 복잡성 등 예상치 못한 운영비용으로 많은 대형 유통사들이 실망을 경험했다. 이에 대한 해법으로 주변 환경(빛, 전파 등)에서 에너지를 수확하는 Ambient IoT 기반 배터리리스 ESL이 주목받고 있다. 이 기술은 배터리 교체 전담 인력 불필요, 전자폐기물 제로, ESG 목표 달성, 실시간 가격 민첩성 확보를 동시에 실현한다. 현재 기업의 94%가 공급망 가시성이 부족한 상황에서, AI 연동 배터리리스 ESL은 재고 정확도·제품 추적성 개선에도 기여한다.",
+        "implications": "[🔵 트렌드] 배터리리스 ESL이 차세대 표준으로 부상 중. 에너지 하베스팅(광에너지·RF 에너지) 기술 성숙도가 상업적 대규모 배포 가능 수준에 도달.\n[🟢 기회] SOLUM이 이미 Epishine과 협력해 광에너지 기반 레일 ESL 시스템을 개발 중(SoluM Introduces Light-Powered Rail-Based ESL System, powered by Epishine). 이 기술을 전면에 내세운 그린 ESL 포트폴리오 마케팅 강화 기회.\n[⚡ 액션] 배터리리스 ESL의 TCO(총소유비용) 비교 데이터 및 ESG 기여 지표를 고객사 제안서에 반드시 포함. 유럽 지속가능성 규제(CSRD 등) 대응을 고민하는 대형 유통사 타겟 영업 강화.",
+        "imageUrl": "https://iotbusinessnews.com/WordPress/wp-content/uploads/2026/05/smart-labels-on-shelves-in-supermarket-retail.jpg",
+        "pubDate": "2026-05-18",
+        "sourceUrl": "https://iotbusinessnews.com/2026/05/18/why-retailers-are-rushing-to-adopt-ambient-iot-for-batteryless-electronic-shelf-labels/",
+        "sourceName": "IoT Business News"
+      }
+    ]
+  }
+}
