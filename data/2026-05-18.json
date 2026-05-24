@@ -1,7 +1,7 @@
 {
   "weekId": "2026-05-18",
   "weekLabel": "2026.05.18 ~ 2026.05.24",
-  "searchAnalysis": "**5월 22일(금) 수집:** 주간 기사 3건—이번 주(5/18~5/22)는 SOLUM의 유럽 리테일 미디어 생태계 확장 파트너십, 미국 뉴욕주 ESL·감시가격 금지 입법의 의회 막바지 처리 압박, 그리고 배터리리스 ESL(Ambient IoT 기반)의 부상이 핵심 테마였음. SOLUM은 Skippify와의 파트너십으로 Newton ESL을 유럽 편의·주유소·푸드서비스 채널의 통합 디지털 사이니지 플랫폼과 연동하며 하드웨어를 넘어 리테일 미디어 레이어까지 확장. 뉴욕주 상원 통과 법안이 하원(Assembly)으로 넘어가며 입법 시계가 빨라짐. 기술 측면에서는 1세대 배터리 기반 ESL의 유지보수 비용 문제를 해결하는 Ambient IoT 기반 배터리리스 ESL이 주목받기 시작함.",
+  "searchAnalysis": "**5월 22일(금) 수집:** 주간 기사 3건—이번 주(5/18~5/22)는 SOLUM의 유럽 리테일 미디어 생태계 확장 파트너십, 미국 뉴욕주 ESL·감시가격 금지 입법의 의회 막바지 처리 압박, 그리고 배터리리스 ESL(Ambient IoT 기반)의 부상이 핵심 테마였음. SOLUM은 Skippify와의 파트너십으로 Newton ESL을 유럽 편의·주유소·푸드서비스 채널의 통합 디지털 사이니지 플랫폼과 연동하며 하드웨어를 넘어 리테일 미디어 레이어까지 확장. 뉴욕주 상원 통과 법안이 하원(Assembly)으로 넘어가며 입법 시계가 빨라짐. 기술 측면에서는 1세대 배터리 기반 ESL의 유지보수 비용 문제를 해결하는 Ambient IoT 기반 배터리리스 ESL이 주목받기 시작함.\n\n**5월 25일(월) 보완 수집:** 주간 추가 기사 1건—목~일(5/21~5/24) 기간 최대 이슈는 미국 리테일테크 기업 Stratacache의 영국 자회사(Stratacache UK·PRN UK) 파산·청산 사태. 인스토어 디지털 사이니지 전반에 불안감을 조성하는 동시에, SOLUM을 포함한 ESL 공급사들에게 공급사 전환 수주 기회가 열리는 측면도 있음. 뉴욕주 하원 ESL 금지 법안은 5월 25일 현재 최종 통과 미확인. 5월 25일(월) 신규 발행 ESL 기사 없음.",
   "sections": {
     "industryTrends": [
       {
@@ -15,7 +15,17 @@
       }
     ],
     "customerAdoption": {},
-    "majorCompanies": [],
+    "majorCompanies": [
+      {
+        "title": "Stratacache Crisis Triggers Uncertainty in the Retail Industry",
+        "summary": "미국 리테일 미디어 그룹 Stratacache의 영국 자회사 2개사(Stratacache UK·PRN UK)가 2026년 5월 5일부로 파산·청산 절차에 돌입했다. 인스토어 커뮤니케이션·오디언스 측정·리테일 미디어 플랫폼 분야의 주요 글로벌 공급사인 Stratacache는 Scala, PRN, Walkbase 등 다수의 솔루션 브랜드를 보유하고 있다. 이번 사태로 특히 큰 타격을 입은 곳은 전국 297개 매장에서 PRN의 인스토어 미디어 네트워크를 운영하던 Currys와, 766개 매장의 디지털 사이니지·콘텐츠 관리·오디언스 측정을 Stratacache 시스템에 의존하던 Iceland Foods다. 영국 사태는 고립된 사건이 아니다. 캐나다 자회사 X2O Media는 2026년 3월 파산 신청을 했고, Stratacache 본사도 관세·부품비 상승·공급망 압박을 이유로 3월에 감원을 단행했다. Scala 시스템을 사용 중인 Hunkemöller, Kiehl's, Carrefour Belgium, Mobilcom-Debitel 등 유럽 주요 유통사들도 서비스 연속성·유지보수 공백 위험에 노출돼 있다.",
+        "implications": "[🔴 위협] Stratacache 생태계 붕괴로 Scala·PRN 등 인스토어 디지털 플랫폼 의존 유통사들이 서비스 지속성·부품 수급·유지보수 공백 위험에 직면. ESL과 디지털 사이니지는 동일한 리테일테크 예산 및 공급망 인프라를 공유하므로, 업계 전반의 하드웨어 공급사 신뢰도에 간접적 부정 영향 가능.\n[🟢 기회] Currys·Iceland Foods 등 Stratacache 의존 유통사들이 안정적인 대안 공급사 탐색에 나서는 과정에서 SOLUM을 포함한 ESL·인스토어 디지털 솔루션 업체들에게 신규 수주 기회 발생. 영향받은 유통사 대상 영업 파이프라인 즉시 검토 권장.\n[🔵 트렌드] 관세·부품비 상승·공급망 불안이 미국 리테일테크 하드웨어 기업의 재무 건전성을 위협하는 구조적 리스크로 부상 중. ESL 업계도 부품비·물류비 변동에 대비한 공급망 리질리언스 및 재무 안전성 커뮤니케이션을 강화할 필요.",
+        "imageUrl": "https://retail-optimiser.de/wp-content/uploads/2026/05/Currys-Retail-Media.jpg",
+        "pubDate": "2026-05-21",
+        "sourceUrl": "https://retail-optimiser.de/en/stratacache-crisis-triggers-uncertainty-in-the-retail-industry/",
+        "sourceName": "Retail Optimiser"
+      }
+    ],
     "solutionProviders": [
       {
         "title": "SOLUM and Skippify Partner to Connect Real-Time Shelf Communication with Smart In-Store Signage Across Europe",
