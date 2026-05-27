@@ -1,0 +1,22 @@
+{
+  "weekId": "2026-05-25",
+  "weekLabel": "2026.05.25 ~ 2026.05.31",
+  "searchAnalysis": "**5월 28일(목) 수집:** 주간 기사 1건—이번 주(5/25~5/28)의 핵심 뉴스는 Hanshow의 그리스 최대 슈퍼마켓 체인 Sklavenitis와의 전국 단위 ESL 대규모 납품 파트너십 발표다. 460개 이상의 매장에 Nebular Ultra 시리즈를 표준 장착하는 이번 계약은 Hanshow의 남유럽 시장 공략을 가속화하는 중요한 레퍼런스다. 그 외 이번 주에는 뉴욕주 하원의 ESL·감시가격 금지 법안 처리(뉴욕 의회 회기 마감 압박), Vusion의 자사주 매입 트랜잭션 공시(5월 18~22일 분), UFCW의 전국 감시가격 금지 캠페인 확산 등 전주 연속 이슈들이 계속 전개됐으나 이미 지난 주 수집된 내용의 연장선으로 신규 발행 기사는 없었다. 시장 전반 분위기는 미국의 규제 리스크와 유럽 도입 확대가 동시에 진행 중인 상황이다.",
+  "sections": {
+    "industryTrends": [],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [
+      {
+        "title": "Hanshow Partners with Sklavenitis on Nationwide ESL Rollout Across Greece",
+        "summary": "Hanshow가 5월 26일 그리스 최대 식품 유통사 중 하나인 Hellenic Hypermarkets Sklavenitis S.A.와 전국 단위 ESL 대규모 납품 계약을 체결했다고 발표했다. Sklavenitis는 460개 이상의 매장과 물류센터·eMarket 시설을 운영하며 하루 68만 명 이상의 고객에게 서비스를 제공하는 그리스 최대 리테일러다. 이번 파트너십을 통해 Hanshow의 Nebular Ultra ESL 시리즈가 Sklavenitis 전 매장에 표준 장착된다. Nebular Ultra는 센티미터 단위 정밀도의 쉘프 인텔리전스를 제공해 정확한 상품 배치, 플래노그램 준수, 운영 관리를 지원한다. 이번 디지털 쉘프 인프라 구축은 향후 컴퓨터 비전·스마트 쇼핑 카트 등 자동화 기술과의 연계를 통한 실시간 재고 모니터링 및 데이터 기반 리테일 애플리케이션 확장을 위한 기반이 된다.",
+        "implications": "[🔵 트렌드] 유럽 남부 시장(그리스)에서도 대형 유통사의 ESL 전국 단위 도입이 본격화. 그리스 최대 유통사 Sklavenitis가 460개 매장 전체에 Hanshow ESL을 표준화함으로써 유럽 남부가 ESL 포화 시장으로 진입 가속화.\n[🔴 위협] Hanshow가 유럽 남부·동부 유통사 레퍼런스 구축에 공격적으로 나서는 중. 그리스를 거점으로 발칸·지중해 시장 확장 시도 예상. SOLUM의 해당 지역 영업 기회 축소 우려.\n[🟢 기회] Sklavenitis의 디지털 쉘프 인프라 요건(컴퓨터 비전·스마트 카트 연계 포함)은 향후 통합 솔루션 공급사로의 전환 기회를 의미. SOLUM도 유럽 남부 유통사 대상 통합 디지털 쉘프 솔루션 패키지 마케팅 강화 필요.\n[⚡ 액션] 그리스·발칸 지역 주요 유통사(AB Vassilopoulos, Lidl Greece, Masoutis 등) 영업 파이프라인 점검 및 선제적 컨택 검토.",
+        "imageUrl": "https://mma.prnewswire.com/media/2857227/2020_Hanshow_LOGO____RGB_Logo.jpg",
+        "pubDate": "2026-05-26",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/hanshow-partners-with-sklavenitis-on-nationwide-esl-rollout-across-greece-302781457.html",
+        "sourceName": "PR Newswire"
+      }
+    ],
+    "technology": []
+  }
+}
