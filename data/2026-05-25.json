@@ -1,9 +1,28 @@
 {
   "weekId": "2026-05-25",
   "weekLabel": "2026.05.25 ~ 2026.05.31",
-  "searchAnalysis": "**5월 28일(목) 수집:** 주간 기사 1건—이번 주(5/25~5/28)의 핵심 뉴스는 Hanshow의 그리스 최대 슈퍼마켓 체인 Sklavenitis와의 전국 단위 ESL 대규모 납품 파트너십 발표다. 460개 이상의 매장에 Nebular Ultra 시리즈를 표준 장착하는 이번 계약은 Hanshow의 남유럽 시장 공략을 가속화하는 중요한 레퍼런스다. 그 외 이번 주에는 뉴욕주 하원의 ESL·감시가격 금지 법안 처리(뉴욕 의회 회기 마감 압박), Vusion의 자사주 매입 트랜잭션 공시(5월 18~22일 분), UFCW의 전국 감시가격 금지 캠페인 확산 등 전주 연속 이슈들이 계속 전개됐으나 이미 지난 주 수집된 내용의 연장선으로 신규 발행 기사는 없었다. 시장 전반 분위기는 미국의 규제 리스크와 유럽 도입 확대가 동시에 진행 중인 상황이다.",
+  "searchAnalysis": "**5월 28일(목) 재수집 (개선된 방법 적용):** 주간 기사 3건 확정—이번 주(5/25~5/28)의 핵심 이슈는 두 가지 큰 흐름이다. 첫째, 미국 ESL·감시가격 규제 입법이 정점을 향해 달리는 중이다. UFCW/GBAO 전국 여론조사(5/26) 발표로 미국인 67%가 ESL 금지 지지, 68%가 감시가격 비용 인상 우려를 표명했고, TechTimes 심층 보도(5/27)는 메릴랜드 서명 완료·콜로라도·코네티컷 의회 통과(주지사 서명 대기)·뉴욕주 하원 심의 중 상황, Walmart의 VusionGroup ESL 전매장 연내 완료 계획, AI 가격 특허 2건, TagTinker 보안 취약점까지 전방위 커버했다. 둘째, Hanshow가 그리스 최대 유통사 Sklavenitis 460개 매장 전국 단위 ESL 납품 발표(5/26)로 유럽 남부 시장 공략을 가속화했다. 직접 뉴스룸 크롤 결과: Pricer·Vusion 5/25~5/28 신규 기사 없음. 날짜 필터 검색(after:2026-05-25) 및 RSS 대안 수집으로 위 기사들을 발굴했다.",
   "sections": {
-    "industryTrends": [],
+    "industryTrends": [
+      {
+        "title": "Majority of Americans Support Ban on Surveillance Pricing and Electronic Shelf Labels",
+        "summary": "UFCW(미국 식품상업 노동조합)가 5월 26일 GBAO Strategies와 공동으로 진행한 전국 여론조사 결과를 공개했다. 미국인 68%가 감시가격(surveillance pricing)이 상품 가격을 인상시킬 것이라 우려하며, 단 5%만이 가격 하락으로 이어질 것이라 믿는다. 67%는 ESL(전자 가격 표시기) 전면 금지를 지지하고, 65%는 소매점이 디지털 가격표를 이용해 가격을 인상할 것으로 전망했다. 58%는 디지털 가격표가 설치된 매장의 쇼핑을 기피할 것이라 응답했다. 이 설문은 UFCW의 '적정 식료품가격 및 일자리 지키기 캠페인'의 일환으로, Walmart의 AI 연계 디지털 가격표 전미 확산에 대응해 12개 주에서 ESL·감시가격 금지 입법을 촉구하는 운동의 핵심 근거로 활용되고 있다.",
+        "implications": "[🔴 위협] 미국 소비자 여론이 ESL에 명백히 적대적으로 형성됨. 67% 금지 지지라는 수치는 정치적 압력으로 즉시 전환 가능한 강력한 여론 기반. 뉴욕주 하원 표결, 연방 법안 심의에 가속도 붙을 수 있음.\n[🔴 위협] 58%가 '디지털 가격표 있는 매장 기피'라 응답한 것은 Walmart·Kroger 등 ESL 도입 대형 유통사에 직접적 상업 타격 신호. SOLUM 미국 고객사의 경영진 여론 수렴 및 투자 재검토 가능성 경계.\n[🟢 기회] UFCW·소비자 단체가 제기하는 핵심 우려는 '개인정보 기반 가격 차별'이지 ESL 자체의 효율성 부정이 아님. SOLUM은 ESL의 투명성·효율성 측면을 강조하며 '감시가격과 ESL은 다르다'는 팩트 기반 포지셔닝 강화 필요.\n[⚡ 액션] 미국 FMI 등 식료품업계 단체와 공조, ESL의 순기능(노동 절감·가격 정확도 향상·소비자 편의)을 보여주는 실증 데이터 및 케이스스터디 준비. 미국 고객사 대상 규제 리스크 Q&A 자료 선제 배포.",
+        "imageUrl": "https://gizmodo.com/app/uploads/2026/02/electronic-shelf-label.jpg",
+        "pubDate": "2026-05-26",
+        "sourceUrl": "https://gizmodo.com/majority-of-americans-support-ban-on-surveillance-pricing-and-electronic-shelf-labels-2000762717",
+        "sourceName": "Gizmodo"
+      },
+      {
+        "title": "Walmart Surveillance Pricing Push Alarms 68% of Americans, Three States Now Banned It",
+        "summary": "TechTimes가 5월 27일 미국 감시가격·ESL 규제 전선을 총정리한 심층 보도를 발행했다. ① 주(州) 입법 현황: 메릴랜드주 식료품 감시가격 금지법 4월 28일 서명 완료(10/1 발효), 콜로라도(모든 업종 대상)·코네티컷(가장 포괄적 개인정보 보호 패키지 포함)은 5월 의회 통과 후 주지사 서명 대기 중. 뉴욕주 하원 심의, 캘리포니아 주의회 위원회 통과. 연방 차원에서는 Gottheimer-Lawler 의원이 식료품 대상 'No Rigged Grocery Prices Act'를 5월 18일 초당적 발의. ② Walmart의 ESL 인프라: VusionGroup 공급 디지털 가격표를 연내 전미 모든 매장에 완료 예정(현재 약 2,300개 매장 적용). 2026년 1·3월 AI 가격 자동 업데이트·머신러닝 기반 수요 예측 특허 2건 획득. ③ 보안 취약점: SEC Consult Vulnerability Lab이 시중 ESL 시스템의 라디오 프로토콜이 2달러짜리 RF 트랜시버로 스푸핑 가능함을 독립 확인. TagTinker(Flipper Zero 앱)가 5월 실제 매장에서 ESL 오버라이드 취약점 시연. Walmart는 VusionGroup 제품의 이 취약점 관련 공개 입장 없음. ④ JetBlue 집단소송(4월 22일 브루클린 연방법원): 감시가격을 주제로 한 미국 최초 집단소송.",
+        "implications": "[🔴 위협] 3개 주 입법 완료 + 10여 개 주 심의 중 + 연방 법안 발의라는 규제 도미노가 현실화. 미국 식료품·약국 채널 전체 ESL 설치·운용에 법적 불확실성 증가. 단기 신규 납품 계약 위축 가능.\n[🔴 위협] ESL 보안 취약점(라디오 스푸핑) 이슈가 주류 미디어에 노출됨. 고객사 CISO들이 ESL 도입 보안 검토를 강화할 것으로 예상. SOLUM 제품 보안 아키텍처에 대한 기술 질문 급증 대비 필요.\n[🔵 트렌드] 감시가격 집단소송(JetBlue)의 등장은 '온라인 감시가격 → 오프라인 ESL 확장'을 막으려는 법적·여론적 압박이 구체적 소송 리스크로 발전하는 단계 진입을 의미.\n[🟢 기회] Walmart의 ESL 전미 완료 계획이 Vusion 편중 리스크를 노출. SOLUM의 보안·투명성 차별화 및 공급사 다변화 포지셔닝 강화 기회.\n[⚡ 액션] SOLUM ESL 보안 백서(암호화 프로토콜, 취약점 대응 아키텍처) 조기 발간. 미국 입법 로비 동향 실시간 모니터링 체계 구축. 법안 통과 시나리오별 고객사 대응 플랜 준비.",
+        "imageUrl": "https://d.techtimes.com/en/full/465509/sign-warns-customers-that-cameras-are-monitoring-parking.jpg",
+        "pubDate": "2026-05-27",
+        "sourceUrl": "https://www.techtimes.com/articles/317279/20260527/walmart-surveillance-pricing-push-alarms-68-americans-three-states-now-banned-it.htm",
+        "sourceName": "Tech Times"
+      }
+    ],
     "customerAdoption": {},
     "majorCompanies": [],
     "solutionProviders": [
