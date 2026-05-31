@@ -1,7 +1,7 @@
 {
   "weekId": "2026-05-25",
   "weekLabel": "2026.05.25 ~ 2026.05.31",
-  "searchAnalysis": "**5월 28일(목) 재수집 (개선된 방법 적용):** 주간 기사 3건 확정—이번 주(5/25~5/28)의 핵심 이슈는 두 가지 큰 흐름이다. 첫째, 미국 ESL·감시가격 규제 입법이 정점을 향해 달리는 중이다. UFCW/GBAO 전국 여론조사(5/26) 발표로 미국인 67%가 ESL 금지 지지, 68%가 감시가격 비용 인상 우려를 표명했고, TechTimes 심층 보도(5/27)는 메릴랜드 서명 완료·콜로라도·코네티컷 의회 통과(주지사 서명 대기)·뉴욕주 하원 심의 중 상황, Walmart의 VusionGroup ESL 전매장 연내 완료 계획, AI 가격 특허 2건, TagTinker 보안 취약점까지 전방위 커버했다. 둘째, Hanshow가 그리스 최대 유통사 Sklavenitis 460개 매장 전국 단위 ESL 납품 발표(5/26)로 유럽 남부 시장 공략을 가속화했다. 직접 뉴스룸 크롤 결과: Pricer·Vusion 5/25~5/28 신규 기사 없음. 날짜 필터 검색(after:2026-05-25) 및 RSS 대안 수집으로 위 기사들을 발굴했다.",
+  "searchAnalysis": "**5월 28일(목) 재수집 (개선된 방법 적용):** 주간 기사 3건 확정—이번 주(5/25~5/28)의 핵심 이슈는 두 가지 큰 흐름이다. 첫째, 미국 ESL·감시가격 규제 입법이 정점을 향해 달리는 중이다. UFCW/GBAO 전국 여론조사(5/26) 발표로 미국인 67%가 ESL 금지 지지, 68%가 감시가격 비용 인상 우려를 표명했고, TechTimes 심층 보도(5/27)는 메릴랜드 서명 완료·콜로라도·코네티컷 의회 통과(주지사 서명 대기)·뉴욕주 하원 심의 중 상황, Walmart의 VusionGroup ESL 전매장 연내 완료 계획, AI 가격 특허 2건, TagTinker 보안 취약점까지 전방위 커버했다. 둘째, Hanshow가 그리스 최대 유통사 Sklavenitis 460개 매장 전국 단위 ESL 납품 발표(5/26)로 유럽 남부 시장 공략을 가속화했다. 직접 뉴스룸 크롤 결과: Pricer·Vusion 5/25~5/28 신규 기사 없음. 날짜 필터 검색(after:2026-05-25) 및 RSS 대안 수집으로 위 기사들을 발굴했다.\n**5월 28~31일 보완:** 목~일 기사 1건 추가—MinewTag의 NRF 2026 APAC(싱가포르, 6월 2~4일) 참가 발표(5/28, PR Newswire). 금~일(5/29~5/31) 주요 ESL 공급사(Vusion·Pricer·Hanshow·SOLUM) 및 주요 언론(Grocery Dive·RTIH·PR Newswire·BusinessWire)에서 신규 ESL 기사 없음—주말 특성상 발행 부재. 6월 1일(월) 조기 수집 결과 현재까지 ESL 관련 신규 기사 없음.",
   "sections": {
     "industryTrends": [
       {
@@ -34,6 +34,15 @@
         "pubDate": "2026-05-26",
         "sourceUrl": "https://www.prnewswire.com/news-releases/hanshow-partners-with-sklavenitis-on-nationwide-esl-rollout-across-greece-302781457.html",
         "sourceName": "PR Newswire"
+      },
+      {
+        "title": "MinewTag to Showcase Next-Gen ESL Solutions at NRF APAC 2026",
+        "summary": "• 중국 선전 기반 ESL 전문 기업 MinewTag가 5월 28일, 6월 2~4일 싱가포르 마리나베이샌즈에서 열리는 NRF 2026 빅쇼 APAC 참가를 공식 발표했다.\n• 이번 전시의 핵심은 '차세대 ESL 솔루션(Next-Gen ESL Solutions)' — 기존 전 제품 라인업을 4색 e-paper 디스플레이로 업그레이드했으며, 31.5인치 6색 e-paper 대형 디스플레이도 신규 출시해 최초 공개 예정이다.\n• MinewTag의 통합 솔루션은 ESL·IoT 센서·게이트웨이를 자사 소프트웨어 플랫폼 위에 통합, 다중 매장 네트워크의 실시간 가격 동기화·중앙화 콘텐츠 관리·POS 연동을 지원한다.\n• 현재 50개국 이상 리테일·창고·병원·오피스에 배포 중이며, NRF APAC에서 엔드투엔드 솔루션 풀패키지를 최초 공개한다.",
+        "implications": "[🔴 위협] MinewTag가 아시아 ESL 시장의 공격적 경쟁자로 부상. NRF APAC 무대에서 4색·6색 컬러 e-paper 라인업 완성을 선언, 하드웨어 스펙 경쟁 심화. SOLUM의 동남아 영업 기회에 직접적 영향 예상.\n[🔵 트렌드] NRF APAC(6월 2~4일, 싱가포르)이 아시아 ESL 업체들의 주요 격전지로 부각. MinewTag를 포함한 중국계 ESL 업체들이 통합 IoT 플랫폼과 화려한 컬러 디스플레이를 앞세워 동남아·중동 시장 공략 가속화.\n[🟢 기회] NRF APAC 무대에서 SOLUM의 Newton 시리즈, Simbe 연계 스마트 쉘프 솔루션을 전시한다면 검증된 유럽·미주 레퍼런스와 기술 생태계 확장력으로 차별화 포지셔닝 가능.\n[⚡ 액션] MinewTag NRF APAC 전시 부스 현장 모니터링 및 신제품 스펙 비교 분석 실시. 동남아 주요 유통사 대상 SOLUM 영업팀 선제 컨택 검토.",
+        "imageUrl": "",
+        "pubDate": "2026-05-28",
+        "sourceUrl": "https://finance.yahoo.com/sectors/technology/articles/minewtag-showcase-next-gen-esl-080400209.html",
+        "sourceName": "Yahoo Finance / PR Newswire"
       }
     ],
     "technology": []
