@@ -1,0 +1,31 @@
+{
+  "weekId": "2026-06-01",
+  "weekLabel": "2026.06.01 ~ 2026.06.07",
+  "searchAnalysis": "**6월 4일(목) 수집:** 주간 기사 2건 — COMPUTEX 2026 행사를 중심으로 ESL 기술 분야 신제품 발표가 이어졌다. Airoha Technology(MediaTek 계열)의 세계 최초 4.2인치 Ripple ESL 칩 공개(E Ink 협력)와 한국 스타트업 TELICA의 중소기업용 ESL DIY 키트 공개가 주목된다. 미국 감시 가격 규제 입법(뉴욕주·캘리포니아 등 다주)은 지속 진행 중이며, 주요 공급사(SOLUM·Hanshow·Pricer·Vusion)의 이번 주 신규 보도자료는 없었다.",
+  "sections": {
+    "industryTrends": [],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [],
+    "technology": [
+      {
+        "title": "Airoha Technology Partners with E Ink for Global Debut of 4.2-Inch Ripple™ ESL at Computex 2026",
+        "summary": "MediaTek 계열 반도체 기업 Airoha Technology가 E Ink와 협력해 COMPUTEX 2026 ePaper 파빌리온에서 세계 최초의 4.2인치 Ripple™ ESL 칩(AB161x 시리즈)을 공개했다. 이 기술은 화면 전환 시 파도 모양의 'Ripple' 애니메이션 효과를 적용해 기존 ePaper의 깜박임을 크게 줄이며, 리테일 미디어 네트워크(RMN) 및 POP 광고 환경에서 더욱 부드러운 시각 업데이트를 제공한다. Airoha의 신규 칩은 Bluetooth® SIG 5.4 표준을 지원하며, E Ink GM JM Hung은 \"소형 포맷 첫 번째 ESL 제품을 위해 강력한 Bluetooth 무선 안정성으로 유명한 Airoha와 손잡아 새로운 기술 이정표를 세웠다\"고 밝혔다.",
+        "implications": "[🔵 트렌드] E Ink와 반도체 기업의 협력으로 깜박임 없는 ESL 디스플레이 기술이 성숙해지며 ESL의 리테일 미디어 광고판 역할이 강화되고 있다. SOLUM도 Retail Media Network 솔루션을 보유하고 있어, Ripple 기술 동향을 모니터링하고 제품 로드맵에 반영할 필요가 있다. [⚡ 액션] Bluetooth SIG 5.4 기반 새 칩 생태계 형성으로 ESL 무선 전송 표준이 진화 중이므로, SOLUM의 통신 규격 로드맵 검토 권장.",
+        "imageUrl": "https://mma.prnewswire.com/media/2991852/News_Photo________Computex_2026____________4_2___Ripple_ESL.jpg",
+        "pubDate": "2026-06-01",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/airoha-technology-partners-with-e-ink-for-global-debut-of-4-2-inch-ripple-esl-at-computex-2026--302786961.html",
+        "sourceName": "PR Newswire"
+      },
+      {
+        "title": "TELICA to Showcase CREBEE ESL DIY Kit at COMPUTEX 2026",
+        "summary": "한국 리테일 IoT 기업 TELICA가 COMPUTEX 2026(6/2~6/5, 대만 타이베이) E Ink 부스(D0101)에서 클라우드 연결 ESL 스타터 키트 'CREBEE ESL DIY Kit'를 공개했다. 이 키트는 ESL 태그·무선 게이트웨이·클라우드 관리 SW를 번들로 제공하며, Square POS·Shopify POS·Loyverse 등 중소형 소매업체용 주요 POS 시스템과 즉시 연동된다. 개당 5~50달러 이상에 이르는 기존 ESL 솔루션의 높은 진입 장벽을 낮춰 소규모 소매점·카페·물류·스마트 오피스 등 다양한 환경에서 활용 가능하며, 텍사스 오스틴 파일럿을 통해 실증을 완료했다. TELICA CMO Luke Choi는 \"중소 소매업체가 ESL 기술을 손쉽게 테스트하고 사업 타당성을 검증한 후 대규모 도입으로 이행할 수 있도록 진입 장벽을 낮추는 것이 목표\"라고 밝혔다.",
+        "implications": "[🟢 기회] 중소형 소매업체를 위한 저비용 ESL 스타터 키트 시장이 부상하고 있어, SOLUM도 SMB 전용 간소화된 도입 패키지 개발을 검토할 필요가 있다. [🔵 트렌드] POS 시스템과의 클라우드 연동 간소화가 ESL 채택의 핵심 결정 요인으로 부각되고 있으며, Square·Shopify 등 중소기업용 POS와의 통합이 신규 시장 진입의 요건으로 확인되었다.",
+        "imageUrl": "https://briefglance.com/uploads/og_image/80e/80e9ace15e3b18f41b6d86fd2cfb8ce8.jpeg",
+        "pubDate": "2026-06-02",
+        "sourceUrl": "https://finance.yahoo.com/sectors/technology/articles/telica-showcase-crebee-esl-diy-010000791.html",
+        "sourceName": "Business Wire"
+      }
+    ]
+  }
+}
