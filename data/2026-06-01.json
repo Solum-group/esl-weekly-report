@@ -1,9 +1,19 @@
 {
   "weekId": "2026-06-01",
   "weekLabel": "2026.06.01 ~ 2026.06.07",
-  "searchAnalysis": "**6월 4일(목) 수집:** 주간 기사 2건 — COMPUTEX 2026(대만, 6/2~6/5)이 이번 주 ESL 뉴스의 유일한 이벤트. Airoha Technology(MediaTek 계열)의 세계 최초 4.2인치 Ripple ESL 칩(E Ink 협력)과 한국 스타트업 TELICA의 중소기업용 ESL DIY 키트 공개가 수집됐다. **개선된 검색 재실행(6/4 오후):** SKILL.md 개선 후 E Ink 블로그·Digitimes·Progressive Grocer·Chain Store Age·Supermarket News 등 신규 소스 추가, 중국어(电子价签)·일본어(電子棚札)·한국어·스페인어·포르투갈어 검색어, 동남아·인도·중동·아프리카·중남미 지역 검색 모두 실행. 수집 기간(6/1~6/4) 내 신규 기사 없음 확인. 주요 공급사(SOLUM·Hanshow·Pricer·Vusion) 보도자료, 유럽·아시아·호주·중동·중남미 전 지역 이슈 없음. 이번 주는 COMPUTEX 외 ESL 전용 발표가 전 세계적으로 부재한 주였음.",
+  "searchAnalysis": "**6월 4일(목) 수집:** 주간 기사 2건 — COMPUTEX 2026(대만, 6/2~6/5)이 이번 주 ESL 뉴스의 유일한 이벤트. Airoha Technology(MediaTek 계열)의 세계 최초 4.2인치 Ripple ESL 칩(E Ink 협력)과 한국 스타트업 TELICA의 중소기업용 ESL DIY 키트 공개가 수집됐다. **개선된 검색 재실행(6/4 오후):** SKILL.md 개선 후 E Ink 블로그·Digitimes·Progressive Grocer·Chain Store Age·Supermarket News 등 신규 소스 추가, 중국어(电子价签)·일본어(電子棚札)·한국어·스페인어·포르투갈어 검색어, 동남아·인도·중동·아프리카·중남미 지역 검색 모두 실행. 수집 기간(6/1~6/4) 내 신규 기사 없음 확인. 주요 공급사(SOLUM·Hanshow·Pricer·Vusion) 보도자료, 유럽·아시아·호주·중동·중남미 전 지역 이슈 없음. 이번 주는 COMPUTEX 외 ESL 전용 발표가 전 세계적으로 부재한 주였음.\n\n**6월 4~7일 보완:** 목·금·주말 기사 1건 추가—신제품/도입 발표는 없었고, Hackaday의 ESL 여론 진단('Ask Hackaday') 기사가 유일했다. UFCW 여론조사(응답자 75%가 개인 맞춤형 가격 우려)를 인용하며 ESL이 매장 내 '감시가격(surveillance pricing)' 논쟁의 중심에 섰음을 재확인. Grocery Dive·Retail Dive·ESM Magazine RSS 피드 및 와이어서비스(businesswire·prnewswire·globenewswire) 모두 6/4~6/7 기간 신규 ESL 기사 없음. 월요일(6/8) 신규 기사도 부재해 신규 주차 파일은 생성하지 않음.",
   "sections": {
-    "industryTrends": [],
+    "industryTrends": [
+      {
+        "title": "Ask Hackaday: How Do You Feel About Electronic Shelf Labels?",
+        "summary": "• 하드웨어 커뮤니티 매체 Hackaday가 ESL 확산에 대한 독자 여론을 묻는 'Ask Hackaday' 토론 기사를 게재했다. Walmart·Home Depot의 ESL 확대와 Aldi 등 식료품점의 일상적 도입을 배경으로 짚었다.\n• 메이커들은 저렴한 e-ink 태그를 비트코인 시세·날씨·캘린더·콘퍼런스 배지 등으로 재활용하며 기술 자체는 환영하지만, 원격·즉시 가격 변경 기능이 매장 내 '동적 가격(dynamic pricing)'·'감시가격(surveillance pricing)'을 가능케 한다는 우려를 동시에 제기했다.\n• 기사는 UFCW(미국 식품상업노조) 여론조사를 인용해 미국 소비자 대다수가 ESL에 반대하며, 응답자의 75%가 \"언젠가 매장이 개인별로 가격을 차등 책정할 것\"이라 우려한다고 전했다.\n• \"ESL이 감시가격을 새로 만드는 것이 아니라(이미 온라인에서 매일 일어나는 일), 그 기법을 오프라인 매장으로 가져오는 것을 가능케 한다\"는 균형 잡힌 시각을 제시하며 독자 의견을 구했다. (댓글 131개)",
+        "implications": "[🔴 위협] ESL에 대한 소비자·노조의 부정적 여론이 기술 커뮤니티로까지 확산되며 '감시가격' 프레임이 고착화되고 있다. SOLUM은 ESL=가격 인상·감시 수단이라는 오해에 대응하는 투명성 메시징(가격 변경 로그·소비자 알림 기능 등)을 제품 차별화 포인트로 강화할 필요가 있다. [🔵 트렌드] 메이커 커뮤니티의 ESL 태그 재활용 문화는 보안·펌웨어 잠금 측면에서 양날의 검—브랜드 노출 기회인 동시에 무단 해킹 리스크. [⚡ 액션] 미국 규제(메릴랜드 동적가격 금지법 10/1 시행, 테네시·연방 ESL 금지 법안)와 연계된 여론 동향을 지속 모니터링하고, 북미 영업 메시징에 '가격 정확성·노동 효율' 근거를 선제 반영 권장.",
+        "imageUrl": "https://hackaday.com/wp-content/uploads/2026/06/esl_feat.jpg",
+        "pubDate": "2026-06-04",
+        "sourceUrl": "https://hackaday.com/2026/06/04/ask-hackaday-how-do-you-feel-about-electronic-shelf-labels/",
+        "sourceName": "Hackaday"
+      }
+    ],
     "customerAdoption": {},
     "majorCompanies": [],
     "solutionProviders": [],
