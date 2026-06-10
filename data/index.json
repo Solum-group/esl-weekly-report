@@ -98,5 +98,10 @@
     "weekId": "2026-06-01",
     "weekLabel": "2026.06.01 ~ 2026.06.07",
     "articleCount": 3
+  },
+  {
+    "weekId": "2026-06-08",
+    "weekLabel": "2026.06.08 ~ 2026.06.14",
+    "articleCount": 1
   }
 ]

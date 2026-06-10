@@ -1,0 +1,22 @@
+{
+  "weekId": "2026-06-08",
+  "weekLabel": "2026.06.08 ~ 2026.06.14",
+  "searchAnalysis": "**6월 11일(목) 수집:** 주간 기사 1건 — 수집 기간(6/8~6/11)에 ESL 전용 신규 발표가 거의 부재한 한 주였다. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion) 직접 순회 결과 Hanshow xPilot(6/3~6/4)·Sklavenitis(5/26) 등은 모두 수집 기간 이전이었고, Vusion이 CDP 공급망 참여 평가에서 'A' 등급(Supplier Engagement Leader)을 받은 6/8 발표만 기간 내 신규 항목으로 확인됐다. 규제 측면에서 검색 상위에 오른 뉴욕주 검찰총장(NY AG)의 'One Fair Price' 입법 촉구 보도자료는 발행일이 3/16로 기간 외였고, UFCW 여론조사·Maryland 동적가격 금지법 등도 모두 5월 이전 기사로 기존 주차에 이미 수록됨. Grocery Dive·RTIH RSS 피드는 gzip 인코딩으로 직접 파싱 불가해 표적 검색으로 보완했으며, Walmart·Kroger·Tesco 등 유통사 신규 도입 발표도 기간 내 없음. 시장조사 리포트(USD 2.5B→7.4B, CAGR 12.7%) 외 ESL 전용 발표가 전 세계적으로 부재한 비수기 주였음.",
+  "sections": {
+    "industryTrends": [],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [
+      {
+        "title": "Vusion Named a CDP Supplier Engagement Leader",
+        "summary": "• VusionGroup(舊 SES-imagotag)이 글로벌 환경정보 공개 비영리기구 CDP의 '공급망 참여 평가(Supplier Engagement Assessment, SEA)'에서 최고 등급인 'A'를 획득해 Supplier Engagement Leaderboard(공급망 참여 리더보드)에 이름을 올렸다.\n• CDP의 SEA는 기후 거버넌스, 배출 감축 목표, Scope 3(공급망 간접 배출) 관리, 공급사 참여 전략 등을 평가한다. Vusion은 2022년부터 CDP 공시 프로세스에 참여해 왔다.\n• Pascale Dubreuil 최고지속가능성책임자(CSO)는 \"가치사슬 전반의 집단적 행동이 대규모 지속가능 전환의 핵심\"이라며, 자사의 'positive commerce(긍정적 상거래)' 전략과의 연계를 강조했다.",
+        "implications": "[🔵 트렌드] ESG·지속가능성이 ESL 공급사 경쟁의 차별화 요소로 부상하고 있다. 특히 탄소 공시를 입찰 평가에 반영하는 유럽 대형 유통사(Carrefour·Tesco·Coop 등)를 상대할 때 CDP 'A' 등급은 공급사 선정 가점으로 작용할 수 있다. SOLUM 관점에서는 ① Scope 3·공급망 탄소 관리 공시 체계를 선제 강화하고 ② 배터리리스·저전력 ESL의 환경 우위를 정량 지표(탄소 저감량 등)로 마케팅에 활용할 필요가 있다. Vusion이 ESG를 브랜드 자산으로 적극 활용 중인 만큼 [⚡ 액션] 입찰 RFP의 지속가능성 항목 대응 자료를 사전 정비해 두는 것이 바람직하다.",
+        "imageUrl": "https://www.vusion.com/wp-content/uploads/2026/06/image-4.png",
+        "pubDate": "2026-06-08",
+        "sourceUrl": "https://www.vusion.com/newsroom/vusion-named-cdp-supplier-engagement-leader/",
+        "sourceName": "Vusion Newsroom"
+      }
+    ],
+    "technology": []
+  }
+}
