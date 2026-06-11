@@ -1,7 +1,7 @@
 {
   "weekId": "2026-06-08",
   "weekLabel": "2026.06.08 ~ 2026.06.14",
-  "searchAnalysis": "**6월 11일(목) 수집:** 주간 기사 1건 — 수집 기간(6/8~6/11)에 ESL 전용 신규 발표가 거의 부재한 한 주였다. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion) 직접 순회 결과 Hanshow xPilot(6/3~6/4)·Sklavenitis(5/26) 등은 모두 수집 기간 이전이었고, Vusion이 CDP 공급망 참여 평가에서 'A' 등급(Supplier Engagement Leader)을 받은 6/8 발표만 기간 내 신규 항목으로 확인됐다. 규제 측면에서 검색 상위에 오른 뉴욕주 검찰총장(NY AG)의 'One Fair Price' 입법 촉구 보도자료는 발행일이 3/16로 기간 외였고, UFCW 여론조사·Maryland 동적가격 금지법 등도 모두 5월 이전 기사로 기존 주차에 이미 수록됨. Grocery Dive·RTIH RSS 피드는 gzip 인코딩으로 직접 파싱 불가해 표적 검색으로 보완했으며, Walmart·Kroger·Tesco 등 유통사 신규 도입 발표도 기간 내 없음. 시장조사 리포트(USD 2.5B→7.4B, CAGR 12.7%) 외 ESL 전용 발표가 전 세계적으로 부재한 비수기 주였음.",
+  "searchAnalysis": "**6월 11일(목) 수집:** 주간 기사 1건 — 수집 기간(6/8~6/11, 월~목 4일)에 ESL 전용 신규 발표가 거의 부재한 한 주였다. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion) 직접 순회 결과 Hanshow xPilot(6/3~6/4)·Sklavenitis(5/26) 등은 모두 수집 기간 이전이었고, Vusion이 CDP 공급망 참여 평가에서 'A' 등급(Supplier Engagement Leader)을 받은 6/8 발표만 기간 내 신규 항목으로 확인됐다. **6/11 심화 재검색(RMN·재고관리 범위 확대):** 리테일 미디어 네트워크(in-store retail media)·재고관리(컴퓨터 비전·재고 로봇·Simbe/Trax/Focal) 신규 쿼리를 추가 실행했으나, 해당 분야 결과는 대부분 시장 리포트·NRF 2026(1월) 리캡·Albertsons/Kroger 사이니지 확대(ESL 비연계) 등으로 수집 기간 외이거나 ESL 직접 연관성이 없어 제외. 검색 상위에 노출된 SOLUM 관련 기사들도 원문 발행일 검증 결과 전부 기간 외였음: SOLUM-SPAR International ESL/사이니지 연장(2/25), SOLUM-Competera AI 가격 통합(3/4, EuroShop 후속), SOLUM-EWQ 파트너십 확대(2/19~23, EuroShop). NY AG 'One Fair Price' 입법 촉구(3/16), UFCW 여론조사·Maryland 동적가격 금지법(5월 이전, 기존 주차 수록)도 모두 기간 외. Grocery Dive·RTIH RSS는 gzip 인코딩으로 파싱 불가해 페이지 직접 읽기·표적 검색으로 보완. 시장조사 리포트(USD 2.5B→7.4B, CAGR 12.7%) 외 ESL 전용 발표가 전 세계적으로 부재한 비수기 주였음. ※ 본 파일은 월~목 4일치 부분 수집분으로, 6/12~6/14(목~일) 기사는 차주 월요일 보완 run에서 추가 예정.",
   "sections": {
     "industryTrends": [],
     "customerAdoption": {},
