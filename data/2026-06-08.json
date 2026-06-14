@@ -1,9 +1,19 @@
 {
   "weekId": "2026-06-08",
   "weekLabel": "2026.06.08 ~ 2026.06.14",
-  "searchAnalysis": "**6월 11일(목) 수집:** 주간 기사 1건 — 수집 기간(6/8~6/11, 월~목 4일)에 ESL 전용 신규 발표가 거의 부재한 한 주였다. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion) 직접 순회 결과 Hanshow xPilot(6/3~6/4)·Sklavenitis(5/26) 등은 모두 수집 기간 이전이었고, Vusion이 CDP 공급망 참여 평가에서 'A' 등급(Supplier Engagement Leader)을 받은 6/8 발표만 기간 내 신규 항목으로 확인됐다. **6/11 심화 재검색(RMN·재고관리 범위 확대):** 리테일 미디어 네트워크(in-store retail media)·재고관리(컴퓨터 비전·재고 로봇·Simbe/Trax/Focal) 신규 쿼리를 추가 실행했으나, 해당 분야 결과는 대부분 시장 리포트·NRF 2026(1월) 리캡·Albertsons/Kroger 사이니지 확대(ESL 비연계) 등으로 수집 기간 외이거나 ESL 직접 연관성이 없어 제외. 검색 상위에 노출된 SOLUM 관련 기사들도 원문 발행일 검증 결과 전부 기간 외였음: SOLUM-SPAR International ESL/사이니지 연장(2/25), SOLUM-Competera AI 가격 통합(3/4, EuroShop 후속), SOLUM-EWQ 파트너십 확대(2/19~23, EuroShop). NY AG 'One Fair Price' 입법 촉구(3/16), UFCW 여론조사·Maryland 동적가격 금지법(5월 이전, 기존 주차 수록)도 모두 기간 외. Grocery Dive·RTIH RSS는 gzip 인코딩으로 파싱 불가해 페이지 직접 읽기·표적 검색으로 보완. 시장조사 리포트(USD 2.5B→7.4B, CAGR 12.7%) 외 ESL 전용 발표가 전 세계적으로 부재한 비수기 주였음. ※ 본 파일은 월~목 4일치 부분 수집분으로, 6/12~6/14(목~일) 기사는 차주 월요일 보완 run에서 추가 예정.",
+  "searchAnalysis": "**6월 11일(목) 수집:** 주간 기사 1건 — 수집 기간(6/8~6/11, 월~목 4일)에 ESL 전용 신규 발표가 거의 부재한 한 주였다. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion) 직접 순회 결과 Hanshow xPilot(6/3~6/4)·Sklavenitis(5/26) 등은 모두 수집 기간 이전이었고, Vusion이 CDP 공급망 참여 평가에서 'A' 등급(Supplier Engagement Leader)을 받은 6/8 발표만 기간 내 신규 항목으로 확인됐다. **6/11 심화 재검색(RMN·재고관리 범위 확대):** 리테일 미디어 네트워크(in-store retail media)·재고관리(컴퓨터 비전·재고 로봇·Simbe/Trax/Focal) 신규 쿼리를 추가 실행했으나, 해당 분야 결과는 대부분 시장 리포트·NRF 2026(1월) 리캡·Albertsons/Kroger 사이니지 확대(ESL 비연계) 등으로 수집 기간 외이거나 ESL 직접 연관성이 없어 제외. 검색 상위에 노출된 SOLUM 관련 기사들도 원문 발행일 검증 결과 전부 기간 외였음: SOLUM-SPAR International ESL/사이니지 연장(2/25), SOLUM-Competera AI 가격 통합(3/4, EuroShop 후속), SOLUM-EWQ 파트너십 확대(2/19~23, EuroShop). NY AG 'One Fair Price' 입법 촉구(3/16), UFCW 여론조사·Maryland 동적가격 금지법(5월 이전, 기존 주차 수록)도 모두 기간 외. Grocery Dive·RTIH RSS는 gzip 인코딩으로 파싱 불가해 페이지 직접 읽기·표적 검색으로 보완. 시장조사 리포트(USD 2.5B→7.4B, CAGR 12.7%) 외 ESL 전용 발표가 전 세계적으로 부재한 비수기 주였음. ※ 본 파일은 월~목 4일치 부분 수집분으로, 6/12~6/14(목~일) 기사는 차주 월요일 보완 run에서 추가 예정.\n\n**6월 11~14일 보완:** 목·금·주말 기사 1건 추가—신제품/도입 발표는 없었고, TheStreet의 Kroger ESL 전국 확산·감시가격 규제 논쟁 기사(6/13)가 유일했다. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion) 직접 순회 결과 Hanshow xPilot(6/3~6/4)·Vusion CDP(6/8)는 모두 기존 수집분이었고, Pricer는 4월 이후 신규 보도자료 없음. RTIH(/home 직접 읽기)·와이어서비스(businesswire·prnewswire·globenewswire) 및 날짜필터 WebSearch 모두 6/11~6/14 기간 신규 ESL 발표 없음(검색 상위는 대부분 시장 리포트·기존 기사). 월요일(6/15) 신규 기사도 부재해 신규 주차 파일은 생성하지 않음.",
   "sections": {
-    "industryTrends": [],
+    "industryTrends": [
+      {
+        "title": "Kroger draws serious scrutiny over digital price tags",
+        "summary": "• Kroger가 전국 매장의 약 1/4(25%)에 전자가격표시기(ESL)를 도입했다고 확인하며 빠른 전국 확산이 본격화됐다. 신시내티·북켄터키·데이턴 지역은 104개 매장 중 103개가 도입했고, 21개 리테일 사업부 '거의 전부'에 적용됐다(미도입은 Harris Teeter·Ruler Foods·Food 4 Less 3개 자회사뿐).\n• 이 확산은 Elizabeth Warren·Ben Ray Luján·Jeff Merkley 상원의원과 뉴욕주 검찰총장 Letitia James 등 연방·주 정치권의 '감시가격(surveillance pricing)·급등가격(surge pricing)' 우려를 촉발. 2월 발의된 'Stop Price Gouging in Grocery Stores Act'는 대형 매장(10,000 sq ft 초과)의 ESL 사용 금지를 담았고, 최소 12개 주가 디지털 가격 규제 법안을 발의했다.\n• Kroger는 \"급등가격을 한 적도 할 계획도 없다\"(Paula Kash 리테일운영 부사장)며 ESL이 인건비 절감과 식품 폐기 감소(유통기한 임박 상품 마크다운 용이) 수단이라 반박. 신임 CEO Greg Foran(2월 취임)은 '수천 개 품목 가격 인하'를 핵심 과제로 제시했다.\n• 학계 의견은 엇갈림: UT오스틴 Stamatopoulos 교수는 \"현재 급등가격 증거 없음\", UC샌디에이고 Rady 연구는 동적가격이 식품 폐기를 21% 감축할 수 있다고 분석. Walmart도 연말까지 약 4,600개 전 매장 ESL 도입 예정으로 동일한 규제 압박에 직면해 있다.",
+        "implications": "[🔵 트렌드] 미국 2대 식료품 유통사(Kroger·Walmart)의 ESL 전면 확산이 '감시가격' 규제 논쟁의 정치적 화약고가 되고 있다. ESL=가격 인상 수단이라는 프레임이 연방·주 입법(12개 주 + 연방 법안)으로 구체화되며 북미 시장의 구조적 리스크로 부상했다. [🔴 위협] 대형 매장 ESL 금지 조항을 담은 법안이 통과될 경우 SOLUM의 북미 대형 유통 영업에 직접 타격이 가능하다. [⚡ 액션] SOLUM은 ① '가격 정확성·인건비 절감·식품 폐기 감소(동적 마크다운)'를 전면에 내세운 투명성·소비자 가치 메시징을 강화하고 ② 가격 변경 로그·소비자 알림 등 '비(非)감시' 설계를 차별화 포인트로 부각하며 ③ 주별 입법 동향(특히 Oklahoma·Tennessee의 ESL 금지 시도)을 실시간 모니터링해 영업 리스크에 선제 대응할 필요가 있다.",
+        "imageUrl": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDc2NzE0/customers-at-kroger-storefront.jpg?profile=share16-9",
+        "pubDate": "2026-06-13",
+        "sourceUrl": "https://www.thestreet.com/retail/kroger-draws-scrutiny-over-digital-price-tags",
+        "sourceName": "TheStreet"
+      }
+    ],
     "customerAdoption": {},
     "majorCompanies": [],
     "solutionProviders": [
