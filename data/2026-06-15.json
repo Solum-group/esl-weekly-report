@@ -1,0 +1,22 @@
+{
+  "weekId": "2026-06-15",
+  "weekLabel": "2026.06.15 ~ 2026.06.21",
+  "searchAnalysis": "**6월 18일(목) 수집:** 주간 기사 1건—테스코가 한쇼(Hanshow)와 손잡고 영국 3,000개 매장에 ESL을 전면 도입한다는 소식이 6/16 다수 매체로 확산. 규제(NY One Fair Price Act·메릴랜드·코네티컷)와 월마트·크로거 확장 보도는 다수 포착됐으나 모두 발행일이 6/14 이전(전주)이라 중복·기간 외로 제외(크로거 6/13 건은 전주 파일에 이미 수록). 검색 노이즈로 시장 리서치 보고서가 다수 노출됐고, RTIH 원문(6/14)은 전주라 제외하되 6/16 후속 보도(Grocery Gazette·Retail Week)로 대체 채택.",
+  "sections": {
+    "industryTrends": [],
+    "customerAdoption": {},
+    "majorCompanies": [
+      {
+        "title": "테스코, 한쇼 전자가격표시기를 영국 3,000개 매장에 전면 도입",
+        "summary": "• 테스코가 중국 기술기업 한쇼(Hanshow)와 다년 파트너십을 맺고 영국 전 매장(약 3,000개)에 전자가격표시기(ESL)를 향후 2년에 걸쳐 도입한다고 발표했다.\n• 1차로 익스프레스 1곳과 대형 매장 3곳 등 4개 점포에서 시작하며, 작년 로이스턴·세인트니츠 매장 시범 운영 성공에 따른 확대다.\n• 중앙 본사에서 가격·상품정보를 즉시 갱신할 수 있고, 종이 라벨을 대체해 지속가능성 목표 달성과 직원 수작업 감소를 동시에 노린다.\n• 매장 수 기준 유럽 최대 규모 ESL 도입으로, Co-op(2,400)·까르푸(1,800)·아홀드델하이즈(1,600)를 앞선다. 미국 월마트(약 5,000개)만이 더 큰 규모다.",
+        "implications": "[🔴 위협] 한쇼가 유럽 최대 규모(3,000개 점포) ESL 딜을 수주하며 SES-imagotag(Vusion)·Pricer를 제치고 영국 핵심 대형 유통사를 확보했다. 테스코·로스만·DM 등 유럽 주요 계정을 한쇼가 잇따라 가져가는 흐름은 SOLUM의 유럽 확장에 직접적 위협이다. [⚡ 액션] SOLUM은 유럽 대형 식료품 체인 대상 레퍼런스·가격경쟁력·LED 피킹 지원 등 운영 부가가치 기능에서 한쇼 대비 차별점을 명확히 할 필요가 있다.",
+        "imageUrl": "https://www.grocerygazette.co.uk/wp-content/uploads/2026/03/Tesco-Image-1024x761.jpg",
+        "pubDate": "2026-06-16",
+        "sourceUrl": "https://www.grocerygazette.co.uk/2026/06/16/tesco-to-bring-digital-shelf-labels-to-3000-uk-stores/",
+        "sourceName": "Grocery Gazette"
+      }
+    ],
+    "solutionProviders": [],
+    "technology": []
+  }
+}
