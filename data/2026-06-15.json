@@ -1,7 +1,7 @@
 {
   "weekId": "2026-06-15",
   "weekLabel": "2026.06.15 ~ 2026.06.21",
-  "searchAnalysis": "**6월 18일(목) 수집:** 주간 기사 1건—테스코가 한쇼(Hanshow)와 손잡고 영국 3,000개 매장에 ESL을 전면 도입한다는 소식이 6/16 다수 매체로 확산. 규제(NY One Fair Price Act·메릴랜드·코네티컷)와 월마트·크로거 확장 보도는 다수 포착됐으나 모두 발행일이 6/14 이전(전주)이라 중복·기간 외로 제외(크로거 6/13 건은 전주 파일에 이미 수록). 검색 노이즈로 시장 리서치 보고서가 다수 노출됐고, RTIH 원문(6/14)은 전주라 제외하되 6/16 후속 보도(Grocery Gazette·Retail Week)로 대체 채택.",
+  "searchAnalysis": "**6월 18일(목) 수집:** 주간 기사 1건—테스코가 한쇼(Hanshow)와 손잡고 영국 3,000개 매장에 ESL을 전면 도입한다는 소식이 6/16 다수 매체로 확산. 규제(NY One Fair Price Act·메릴랜드·코네티컷)와 월마트·크로거 확장 보도는 다수 포착됐으나 모두 발행일이 6/14 이전(전주)이라 중복·기간 외로 제외(크로거 6/13 건은 전주 파일에 이미 수록). 검색 노이즈로 시장 리서치 보고서가 다수 노출됐고, RTIH 원문(6/14)은 전주라 제외하되 6/16 후속 보도(Grocery Gazette·Retail Week)로 대체 채택.\n**6월 18~21일(목·금·주말) 보완:** 해당 기간 ESL 단독 신규 기사 없음(RTIH 6/18·6/21 게재물은 모두 주간 리뷰로, 이미 수록한 테스코·Jysk 등 기존 보도를 재요약한 것이라 제외). 다만 직전 목요일 run이 누락한 Vusion–Jysk 파트너십 확대(6/16, 약 300만 ESL·2027년까지 2,500개 매장 목표)를 갭필로 1건 추가. 월요일(6/22) 발행 신규 기사 없어 신규 주차(2026-06-22) 파일은 생성하지 않음.",
   "sections": {
     "industryTrends": [],
     "customerAdoption": {},
@@ -16,7 +16,17 @@
         "sourceName": "Grocery Gazette"
       }
     ],
-    "solutionProviders": [],
+    "solutionProviders": [
+      {
+        "title": "Focus on cloud transformation and ESLs as home furnishing retailer Jysk ramps up Vusion partnership",
+        "summary": "• Vusion이 유럽 가구 유통사 Jysk와의 10년 이상 파트너십을 확대해, 매장 현대화·클라우드 전환 전략을 지원하는 신규 계약을 체결했다.\n• 이미 도입된 Jysk 노르딕 450개 매장의 전자가격표시기(ESL)를 업그레이드하고, 유럽 750개 매장에 Vusion 솔루션을 추가 도입한다(약 300만 개 ESL 규모).\n• 기존 온프레미스 레거시 플랫폼을 전량 VusionCloud로 마이그레이션하며, 2027년까지 노르딕·DACH·베네룩스 약 2,500개 매장으로 확대 예정이다.\n• 클라우드 네이티브 리테일 플랫폼으로의 전환 가속화를 보여주는 대표 사례로, Vusion은 기술 리더십·현지 실행·장기 파트너십 역량을 강조했다.",
+        "implications": "[🔴 위협] Vusion이 기존 대형 고객(Jysk) 계약을 클라우드 기반으로 확장·락인하며 약 300만 개 ESL 추가 물량과 2,500개 매장 파이프라인을 확보. 식료품을 넘어 가구·홈퍼니싱 비식료 버티컬에서도 Vusion 입지가 공고해지는 신호다.\n[⚡ 액션] SOLUM은 (1) 온프레미스→클라우드 전환을 노리는 기존 고객 대상 AIMS Cloud 마이그레이션 패키지 경쟁력 강화, (2) 가구·홈퍼니싱 등 비식료 버티컬 레퍼런스 확보, (3) 노르딕·DACH·베네룩스 멀티리전 운영 지원 역량 부각이 필요하다.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/3599519b-aafb-464b-acab-987b0af9c525/JYSK_ESL.png",
+        "pubDate": "2026-06-16",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/6/16/focus-on-ai-and-esls-as-european-home-furnishing-retailer-jysk-ramps-up-vusion-partnership",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
     "technology": []
   }
 }
