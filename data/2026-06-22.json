@@ -1,0 +1,22 @@
+{
+  "weekId": "2026-06-22",
+  "weekLabel": "2026.06.22 ~ 2026.06.28",
+  "searchAnalysis": "**6월 25일(목) 수집:** 주간 신규 기사 1건—Food Trade News(6/23) 'Why The Store Of The Future Needs Electronic Shelf Labels'가 ESL을 미래 매장의 인프라 플랫폼(다이내믹 프로모션·실시간 재고·옴니채널·AI 머천다이징)으로 조명. 공급사 PR·뉴스룸(SOLUM·Hanshow·Pricer·Vusion)과 wire service(prnewswire·businesswire)를 순회했으나 6/22~6/25 발행 신규 ESL 단독 기사는 없었음. 테스코 3,000개 매장(한쇼) 보도와 Vusion–Jysk 확대(6/16)는 전주 파일(2026-06-15)에 이미 수록되어 중복 제외. 규제(메릴랜드·NY One Fair Price·NYC 6/17 청문회)·월마트/크로거 확장은 다수 노출됐으나 모두 6/22 이전 발행이라 기간 외 제외. **트러블슈팅:** Food Trade News는 JS 렌더링으로 WebFetch 본문이 비어 검색 스니펫 기반으로 요약 작성(브라우저 미연결로 Chrome 렌더링 폴백 불가). 이번 주는 직전 3주(2~3건)와 유사하게 조용한 주간.",
+  "sections": {
+    "industryTrends": [
+      {
+        "title": "미래의 매장이 전자가격표시기(ESL)를 필요로 하는 이유",
+        "summary": "• Food Trade News는 ESL을 단순 인건비 절감·가격 정확도·종이 라벨 교체 노동 제거의 도구를 넘어, 다이내믹 프로모션·실시간 재고·옴니채널 경험·AI 기반 머천다이징 등 미래 역량이 구축될 '플랫폼 인프라'로 규정했다.\n• ESL 시장은 현재 약 20억 달러 규모에서 2033년 73억 달러로 성장할 것으로 전망되며, 전체 침투율은 아직 약 7%에 불과해 본격 확산은 초기 단계임을 짚었다.\n• 월마트가 2026년 말까지 미국 전 매장에 ESL을 전면 도입하고, 크로거·알디·아마존 그로서리(홀푸드)도 전국적으로 확산 중이라는 점을 핵심 모멘텀으로 제시했다.\n• 동시에 노동조합·입법자·소비자 단체가 약탈적 가격 책정·쇼퍼 감시·일자리 감소 우려를 제기하며 반발(2월 발의된 'Stop Price Gouging in Grocery Stores Act of 2026' 등)하는 양면성도 함께 다뤘다.",
+        "implications": "[🔵 트렌드] ESL을 '가격표 디지털화'가 아니라 리테일 미디어·재고 인텔리전스·AI 머천다이징을 얹는 플랫폼으로 보는 서사가 업계 주류 담론으로 자리잡고 있다. 이는 SOLUM이 단품 하드웨어 경쟁이 아닌 솔루션·소프트웨어(AIMS·리테일 미디어·셸프 인텔리전스) 스택으로 가치 제안을 끌어올려야 함을 재확인시킨다. [⚡ 액션] (1) 영업·마케팅 메시지를 'TCO 절감'에서 '미래 역량 확장 플랫폼'으로 전환, (2) 다이내믹 프로모션·실시간 재고·AI 머천다이징 레퍼런스를 패키지화, (3) 미국 시장의 감시·약탈 가격 규제 리스크에 대응하는 프라이버시·거버넌스 메시지를 선제적으로 준비할 필요가 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-06-23",
+        "sourceUrl": "https://foodtradenews.com/2026/06/23/why-the-store-of-the-future-needs-electronic-shelf-labels-esls/",
+        "sourceName": "Food Trade News"
+      }
+    ],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [],
+    "technology": []
+  }
+}
