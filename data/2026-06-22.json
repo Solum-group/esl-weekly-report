@@ -1,7 +1,7 @@
 {
   "weekId": "2026-06-22",
   "weekLabel": "2026.06.22 ~ 2026.06.28",
-  "searchAnalysis": "**6월 25일(목) 수집:** 주간 신규 기사 1건—Food Trade News(6/23) 'Why The Store Of The Future Needs Electronic Shelf Labels'가 ESL을 미래 매장의 인프라 플랫폼(다이내믹 프로모션·실시간 재고·옴니채널·AI 머천다이징)으로 조명. 공급사 PR·뉴스룸(SOLUM·Hanshow·Pricer·Vusion)과 wire service(prnewswire·businesswire)를 순회했으나 6/22~6/25 발행 신규 ESL 단독 기사는 없었음. 테스코 3,000개 매장(한쇼) 보도와 Vusion–Jysk 확대(6/16)는 전주 파일(2026-06-15)에 이미 수록되어 중복 제외. 규제(메릴랜드·NY One Fair Price·NYC 6/17 청문회)·월마트/크로거 확장은 다수 노출됐으나 모두 6/22 이전 발행이라 기간 외 제외. **트러블슈팅:** Food Trade News는 JS 렌더링으로 WebFetch 본문이 비어 검색 스니펫 기반으로 요약 작성(브라우저 미연결로 Chrome 렌더링 폴백 불가). 이번 주는 직전 3주(2~3건)와 유사하게 조용한 주간.",
+  "searchAnalysis": "**6월 25일(목) 수집:** 주간 신규 기사 1건—Food Trade News(6/23) 'Why The Store Of The Future Needs Electronic Shelf Labels'가 ESL을 미래 매장의 인프라 플랫폼(다이내믹 프로모션·실시간 재고·옴니채널·AI 머천다이징)으로 조명. 공급사 PR·뉴스룸(SOLUM·Hanshow·Pricer·Vusion)과 wire service(prnewswire·businesswire)를 순회했으나 6/22~6/25 발행 신규 ESL 단독 기사는 없었음. 테스코 3,000개 매장(한쇼) 보도와 Vusion–Jysk 확대(6/16)는 전주 파일(2026-06-15)에 이미 수록되어 중복 제외. 규제(메릴랜드·NY One Fair Price·NYC 6/17 청문회)·월마트/크로거 확장은 다수 노출됐으나 모두 6/22 이전 발행이라 기간 외 제외. **트러블슈팅:** Food Trade News는 JS 렌더링으로 WebFetch 본문이 비어 검색 스니펫 기반으로 요약 작성(브라우저 미연결로 Chrome 렌더링 폴백 불가). 이번 주는 직전 3주(2~3건)와 유사하게 조용한 주간.\n\n**6월 25~28일(목·금·주말) 보완:** 목·금·주말 신규 ESL 단독 기사 없음. 전 쿼리군(글로벌 일반·공급사[Vusion·Pricer·Hanshow·SOLUM]·규제[surveillance/dynamic pricing]·RMN·재고관리·대형 유통사 도입·유럽/호주/아시아·와이어서비스)과 뉴스룸/RTIH 직접 크롤을 순회했으나 6/25~6/28 발행 신규 기사는 확인되지 않음. 인접 기사(ISN 'From Smart Shelves to AI Agents: Hanshow xPilot' 6/24 수요일, Food Institute 'Digital Shelf Label Backlash' 4/29 등)는 기간 외라 제외. 월요일(6/29) 신규 기사도 없어 신규 주차 파일은 생성하지 않음. 직전 주들과 동일하게 조용한 주간 지속.",
   "sections": {
     "industryTrends": [
       {
