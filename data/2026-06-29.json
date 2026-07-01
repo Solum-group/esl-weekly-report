@@ -1,0 +1,31 @@
+{
+  "weekId": "2026-06-29",
+  "weekLabel": "2026.06.29 ~ 2026.07.05",
+  "searchAnalysis": "**7월 2일(목) 수집:** 주간(6/29~7/2) 신규 기사 2건. (1) MarketsandMarkets가 6/30 GlobeNewswire로 배포한 신규 ESL 시장 리포트—2024년 23.4억 달러→2029년 41.8억 달러(CAGR 12.3%), 풀그래픽 e-paper·미국 최대 시장·APAC 최고성장 전망, 톱 플레이어에 SOLUM 명시. (2) ISN(7/1)의 'ESL과 선반–계산대 가격 불일치 제거' 분석—가격 정확도·컴플라이언스를 ESL 핵심 정당화 논리로 조명. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·ZKONG)과 wire service(businesswire·prnewswire·globenewswire)를 순회했으나 6/29~7/2 발행 공급사 단독 PR·신규 유통사 도입 발표는 없었음. SOLUM–SPAR(2/24), Tesco–Hanshow, Co-op–Vusion(2025.5), Walmart/Kroger 확산 등은 다수 노출됐으나 모두 기간 외 발행이라 제외. Grocery Dive '감시 가격(surveillance pricing)' 기사는 3/17자로 기간 외 제외. **트러블슈팅:** ISN 카테고리 페이지가 토큰 한도(78k자)를 초과해 Grep으로 URL·발행일 패턴을 추출(1st July 2026 등 확인). ISN의 Walmart ROI·Co-op·'Retail Revolution' 등 다수 편집·해설성 recap 기사는 원출처가 구뉴스이거나 정확 발행일 확정이 어려워 pubDate 원칙에 따라 제외. 직전 4주(1~3건)와 유사하게 조용한 주간 지속.",
+  "sections": {
+    "industryTrends": [
+      {
+        "title": "글로벌 ESL 시장 2029년 41.8억 달러 전망—풀그래픽 e-paper·미국·APAC이 성장 견인",
+        "summary": "• MarketsandMarkets가 6월 30일 배포한 신규 리포트에 따르면 글로벌 전자가격표시기(ESL) 시장은 2024년 23.4억 달러에서 2029년 41.8억 달러로 성장하며 연평균성장률(CAGR) 12.3%를 기록할 전망이다.\n• 제품 유형별로는 풀그래픽 e-paper 디스플레이가 2029년 최대 점유율을 차지할 것으로 예상되며, 컬러·고해상도·실시간 그래픽(로고·콜아웃) 표현력과 리테일 미디어 활용성이 성장 동력으로 지목됐다.\n• 국가별로는 미국이 최대 시장(월마트·타깃·크로거의 대규모 확산)을, 지역별로는 아시아태평양이 최고 CAGR을 기록할 것으로 전망됐다.\n• 주요 플레이어로 VusionGroup(프랑스), SOLUM(한국), Pricer(스웨덴), Hanshow(중국), Displaydata(영국), Teraoka Seiko(일본), M2COMM(대만), PARTRON(한국) 등이 명시됐다.",
+        "implications": "[🔵 트렌드] 시장이 단색 세그먼트 e-paper에서 풀그래픽·컬러 e-paper로 무게중심을 옮기고, 미국(최대 규모)·APAC(최고 성장) 이원 구도가 굳어지는 흐름이 재확인됐다. SOLUM이 글로벌 톱티어 플레이어로 명시된 점은 브랜드 포지셔닝에 긍정적이다. [⚡ 액션] (1) 풀그래픽 컬러 e-paper·Newton 라인의 그래픽·프로모션·리테일 미디어 활용성을 시장 성장축에 맞춰 전면에 배치, (2) 미국·아시아 이원 시장 전략을 성장률 데이터로 뒷받침, (3) VusionGroup 대비 소프트웨어·솔루션 스택 차별화 메시지를 강화할 필요가 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-06-30",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/06/30/3319897/0/en/Electronic-Shelf-Labels-Market-to-Reach-4-18-Billion-by-2029-Trends-Technologies-and-Growth-Opportunities.html",
+        "sourceName": "GlobeNewswire (MarketsandMarkets)"
+      },
+      {
+        "title": "ESL, 선반–계산대 가격 불일치를 실시간 동기화로 제거한다",
+        "summary": "• International Supermarket News는 7월 1일 게재한 분석에서, ESL이 선반 표시가격과 계산대 결제가격 간 불일치(shelf-to-till discrepancy)를 중앙 시스템의 실시간 동기화로 제거하는 메커니즘을 조명했다.\n• 종이 라벨의 수작업 교체 지연이 가격 오류·소비자 불신·규제 리스크의 근본 원인이라고 지적하며, ESL은 전 매장·전 품목에 가격 변경을 동시 반영해 이를 해소한다고 설명했다.\n• 가격 정확도 향상은 소비자 보호 규정 준수, 체크아웃 분쟁 감소, 운영 신뢰도 제고로 이어진다는 점을 ESL 도입의 핵심 가치로 제시했다.",
+        "implications": "[🔵 트렌드] '가격 정확도·컴플라이언스'가 인건비 절감을 넘어 ESL 도입의 핵심 정당화 논리로 부상하고 있다. 감시 가격 규제 논쟁이 격화되는 미국·유럽 환경에서 특히 유효한 프레임이다. [🟢 기회] SOLUM은 중앙 동기화 신뢰성, 감사 로그, 가격 변경 이력 추적 등 거버넌스·정확도 기능을 규제 대응·신뢰 메시지로 패키지화해 차별화할 수 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-07-01",
+        "sourceUrl": "https://internationalsupermarketnews.com/electronic-shelf-labels-esl-and-the-elimination-of-shelf-to-till-price-discrepancies-in-modern-supermarkets/",
+        "sourceName": "International Supermarket News"
+      }
+    ],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [],
+    "technology": []
+  }
+}
