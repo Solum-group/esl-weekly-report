@@ -1,7 +1,7 @@
 {
   "weekId": "2026-06-29",
   "weekLabel": "2026.06.29 ~ 2026.07.05",
-  "searchAnalysis": "**7월 2일(목) 수집:** 주간(6/29~7/2) 신규 기사 2건. (1) MarketsandMarkets가 6/30 GlobeNewswire로 배포한 신규 ESL 시장 리포트—2024년 23.4억 달러→2029년 41.8억 달러(CAGR 12.3%), 풀그래픽 e-paper·미국 최대 시장·APAC 최고성장 전망, 톱 플레이어에 SOLUM 명시. (2) ISN(7/1)의 'ESL과 선반–계산대 가격 불일치 제거' 분석—가격 정확도·컴플라이언스를 ESL 핵심 정당화 논리로 조명. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·ZKONG)과 wire service(businesswire·prnewswire·globenewswire)를 순회했으나 6/29~7/2 발행 공급사 단독 PR·신규 유통사 도입 발표는 없었음. SOLUM–SPAR(2/24), Tesco–Hanshow, Co-op–Vusion(2025.5), Walmart/Kroger 확산 등은 다수 노출됐으나 모두 기간 외 발행이라 제외. Grocery Dive '감시 가격(surveillance pricing)' 기사는 3/17자로 기간 외 제외. **트러블슈팅:** ISN 카테고리 페이지가 토큰 한도(78k자)를 초과해 Grep으로 URL·발행일 패턴을 추출(1st July 2026 등 확인). ISN의 Walmart ROI·Co-op·'Retail Revolution' 등 다수 편집·해설성 recap 기사는 원출처가 구뉴스이거나 정확 발행일 확정이 어려워 pubDate 원칙에 따라 제외. 직전 4주(1~3건)와 유사하게 조용한 주간 지속.",
+  "searchAnalysis": "**7월 2일(목) 수집:** 주간(6/29~7/2) 신규 기사 2건. (1) MarketsandMarkets가 6/30 GlobeNewswire로 배포한 신규 ESL 시장 리포트—2024년 23.4억 달러→2029년 41.8억 달러(CAGR 12.3%), 풀그래픽 e-paper·미국 최대 시장·APAC 최고성장 전망, 톱 플레이어에 SOLUM 명시. (2) ISN(7/1)의 'ESL과 선반–계산대 가격 불일치 제거' 분석—가격 정확도·컴플라이언스를 ESL 핵심 정당화 논리로 조명. 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·ZKONG)과 wire service(businesswire·prnewswire·globenewswire)를 순회했으나 6/29~7/2 발행 공급사 단독 PR·신규 유통사 도입 발표는 없었음. SOLUM–SPAR(2/24), Tesco–Hanshow, Co-op–Vusion(2025.5), Walmart/Kroger 확산 등은 다수 노출됐으나 모두 기간 외 발행이라 제외. Grocery Dive '감시 가격(surveillance pricing)' 기사는 3/17자로 기간 외 제외. **트러블슈팅:** ISN 카테고리 페이지가 토큰 한도(78k자)를 초과해 Grep으로 URL·발행일 패턴을 추출(1st July 2026 등 확인). ISN의 Walmart ROI·Co-op·'Retail Revolution' 등 다수 편집·해설성 recap 기사는 원출처가 구뉴스이거나 정확 발행일 확정이 어려워 pubDate 원칙에 따라 제외. 직전 4주(1~3건)와 유사하게 조용한 주간 지속.\n**7월 2~5일 보완:** 목·금·주말 기사 2건 추가—(1) Hanshow가 7/2 비엔나 CGF 글로벌 서밋에서 'Smart Cart Revolution' 라운드테이블을 주최하며 스마트카트+리테일 미디어 생태계 전략을 공개(E.Leclerc/Infomil·shopreme·Lucky Cart 참여), (2) invidis(7/3)가 Vusion–JYSK 파트너십 확대를 보도—ESL 420만 대 설치 및 유럽 2,500개 매장 VusionCloud 이관. Pricer·SOLUM·Vusion 뉴스룸, Retail Dive·Grocery Dive·ESM·RTIH, wire service를 순회했으나 그 외 기간 내(7/2~7/5) 신규 발행 기사는 없었음. 호주 가격폭리 금지법(6/29)·SOLUM–Competera(3/2)·ISN ESL 시장 리포트(6/16) 등은 기간 외 발행으로 제외. 월요일(7/6) 발행 기사는 KST 새벽 실행 시점 기준 미발견—신규 주차 파일은 목요일 run에서 생성 예정.",
   "sections": {
     "industryTrends": [
       {
@@ -23,8 +23,30 @@
         "sourceName": "International Supermarket News"
       }
     ],
-    "customerAdoption": {},
-    "majorCompanies": [],
+    "customerAdoption": {
+      "DIY/홈": [
+        {
+          "title": "European Rollout: Vusion Delivers 4.2 Million ESL to Jysk",
+          "summary": "• 덴마크 가구 리테일러 JYSK가 10년간 협력해온 Vusion과 파트너십을 유럽 전역으로 확대, 총 420만 대의 ESL을 설치하기로 했다.\n• 1단계로 북유럽 매장에 약 120만 대를 설치하고, 이후 유럽 전역 750개 매장에 약 300만 대를 추가 배치할 계획이다.\n• ESL과 함께 북유럽·DACH·베네룩스 지역 약 2,500개 매장의 IT 인프라를 VusionCloud로 이관해 매장 운영 표준화와 딜리버리 사이클 단축을 추진한다.\n• Vusion의 Sébastien Fourcy EMA 수석부사장은 이번 계약을 '클라우드 네이티브 리테일 플랫폼으로의 전환 가속'을 보여주는 이정표로 평가했다.",
+          "implications": "[🔴 위협] Vusion이 JYSK(가구)·Walmart(대형마트)·Extra Shop(편의점) 등 세그먼트를 가리지 않고 대형 계약을 연속 수주하며 'ESL 하드웨어+클라우드 플랫폼' 록인 모델을 굳히고 있다. 특히 기존 고객의 IT 인프라 전체를 자사 클라우드로 이관시키는 방식은 향후 경쟁사 전환 비용을 크게 높인다. [⚡ 액션] (1) 가구·홈리빙 등 비식품 세그먼트 파이프라인 점검, (2) SOLUM Store Platform의 클라우드 이관·운영 표준화 사례 확보 및 장기 파트너십 기반 확장 계약 모델(설치 후 클라우드 업셀) 벤치마킹이 필요하다.",
+          "imageUrl": "https://invidis.com/wp-content/uploads/2026/07/JYSK_Bjerringbro4625_1-1.jpg",
+          "pubDate": "2026-07-03",
+          "sourceUrl": "https://invidis.com/news/2026/07/european-rollout-vusion-delivers-4-2-million-esl-to-jysk/",
+          "sourceName": "invidis"
+        }
+      ]
+    },
+    "majorCompanies": [
+      {
+        "title": "Hanshow Spotlights Smart Cart Ecosystem at CGF Global Summit 2026, Reimagining the In-Store Value Chain",
+        "summary": "• Hanshow가 7월 2일 비엔나에서 열린 2026 소비재포럼(CGF) 글로벌 서밋에서 'Smart Cart Revolution in Physical Retail' 라운드테이블을 주최하고 스마트카트 생태계 전략을 공개했다.\n• Hanshow 자문위원회 의장 Philippe Brochard가 좌장을 맡아 스마트카트를 단일 기기가 아닌 '매장 가치사슬 전환 플랫폼'으로 규정했으며, E.Leclerc IT 자회사 Infomil, 스마트카트 OS 기업 shopreme, 리테일 미디어 기업 Lucky Cart 경영진이 패널로 참여했다.\n• Infomil은 Scan & Go의 높은 이용률 대비 수익화 격차를 지적하며 스마트카트의 리테일 미디어 플랫폼화를 통한 구매 시점 광고 수익 창출을 강조했다.\n• Hanshow는 부스에서 매장 실시간 데이터를 통합하는 'Store Digital Twin'을 시연하며, 쇼퍼·상품·운영·리테일 미디어를 하나의 생태계로 연결하는 비전을 제시했다.",
+        "implications": "[🔴 위협] Hanshow가 ESL을 넘어 스마트카트+리테일 미디어+디지털 트윈을 묶은 '지능형 매장 생태계' 서사를 CGF 같은 소비재 최고위급 무대에서 전개하며 유럽 대형 유통사(E.Leclerc 계열)와의 접점을 넓히고 있다. [🔵 트렌드] 인스토어 리테일 미디어의 '측정 가능성(proof-based)' 요구가 스마트카트·디지털 트윈 등 신규 하드웨어 접점으로 확장되는 흐름이 확인된다. [⚡ 액션] SOLUM도 ESL·디지털 사이니지 설치 기반을 리테일 미디어 수익화 스토리로 연결하는 생태계 파트너십(카트 OS·리테일 미디어 애드테크) 검토가 필요하다.",
+        "imageUrl": "https://storage.hanshow.com/production/storage/images/pages/news/press-releases/2026.07.02%20CGF%20Global%20Summit%20Special%20Session/Special%20Session%2002.jpg",
+        "pubDate": "2026-07-02",
+        "sourceUrl": "https://www.hanshow.com/en/news/hanshow-spotlights-smart-cart-ecosystem-at-cgf-global-summit-2026,-reimagining-the-in-store-value-chain",
+        "sourceName": "Hanshow Newsroom"
+      }
+    ],
     "solutionProviders": [],
     "technology": []
   }
