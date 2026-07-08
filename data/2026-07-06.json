@@ -1,0 +1,31 @@
+{
+  "weekId": "2026-07-06",
+  "weekLabel": "2026.07.06 ~ 2026.07.12",
+  "searchAnalysis": "**07월 09일(목) 수집:** 주간 기사 2건—뉴저지 ESL 모라토리엄 법안 통과(The Packer)와 3개 주 감시가격 규제 확산 분석(Forbes). 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink) 직접 순회 결과 수집 기간 내 신규 발표 없음(Hanshow 7/2 CGF 기사는 전주 기수집분). 트러블슈팅: SOLUM 뉴스룸 SPA 미렌더링→도메인 한정 검색 대체, RTIH /home은 2025년 12월 캐시 페이지 반환→site: 검색 대체, Forbes 대형 페이지 토큰 초과→저장 파일 Grep으로 날짜·본문 추출.",
+  "sections": {
+    "industryTrends": [
+      {
+        "title": "뉴저지, 미국 최초 '감시 가격' 금지·ESL 도입 동결 법안 통과",
+        "summary": "• 뉴저지 주의회가 6월 30일 '공정가격보호법(Fair Price Protection Act)'을 초당적 압도적 다수로 통과시켰으며, 셰릴(Sherrill) 주지사의 서명 절차만 남은 상태\n• 법안은 AI·개인 데이터 기반 '감시 가격(surveillance pricing)'을 금지하고, 주내 식료품점의 ESL 신규 도입에 1년 모라토리엄을 부과\n• UFCW·RWDSU 노조가 입법을 주도했으며, 뉴저지 주민 61%가 ESL이 식료품 가격을 올릴 것으로 우려한다는 여론조사를 근거로 제시\n• UFCW는 이번 법안을 '저렴한 식료품과 좋은 일자리 캠페인'의 전국 50개 주 전략의 첫 승리로 규정하고, 다음 타깃으로 일리노이 가을 회기를 지목\n• 노조 측은 실시간 가격 변동이 신선식품 구매 기피와 식품 폐기 증가로 이어질 수 있다고 주장",
+        "implications": "[🔴 위협] 미국 최초의 주 단위 ESL 신규 도입 모라토리엄이 현실화됨. 뉴저지 그로서리 시장의 신규 ESL 영업이 1년간 차단되며, UFCW의 50개 주 확산 전략에 따라 일리노이 등 타주로 유사 입법이 번질 리스크가 큼. [⚡ 액션] 미국 신규 파이프라인의 주별 규제 리스크 점검과 함께, ESL을 '가격 인하·운영 효율·가격 정확성' 도구로 포지셔닝하는 대외 메시지 및 FMI 등 업계 협회 공동 대응 강화가 필요함.",
+        "imageUrl": "https://assets.farmjournal.com/dims4/default/f40d046/2147483647/strip/true/crop/1200x675+0+63/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F30%2F2d%2F6df992684b488a25d1b96ac606df%2F1000000925.jpg",
+        "pubDate": "2026-07-06",
+        "sourceUrl": "https://www.thepacker.com/news/retail/new-jersey-becomes-first-nation-ban-grocery-surveillance-pricing-freeze-digital-tags",
+        "sourceName": "The Packer"
+      },
+      {
+        "title": "한 달 새 3개 주가 식료품 '감시 가격' 규제 입법—확산되는 규제 지형 분석",
+        "summary": "• 포브스 어드바이저가 지난 한 달 사이 감시가격 규제 법안을 처리한 3개 주(메릴랜드·코네티컷·뉴저지)의 입법 현황을 정리\n• 코네티컷은 6월 4일 주지사 서명을 완료했으며(발효 2027년 7월 1일), 같은 날 뉴욕주 상원도 'One Fair Price Act'를 통과시켜 주지사 서명 대기 중\n• 뉴저지는 6월 30일 법안을 통과시켰고, ESL 신규 설치 1년 모라토리엄 조항을 포함해 3개 주 중 가장 강한 규제로 평가\n• 각 주 법안은 로열티 프로그램 할인, 가격 고지, 정당한 비용 차이 등 예외 조항을 공통적으로 두고 있음",
+        "implications": "[🔵 트렌드] 감시가격 규제가 개별 주 이슈를 넘어 미국 전역의 입법 흐름으로 정착하는 중. 다만 뉴저지를 제외하면 대부분 법안이 ESL 자체가 아닌 '개인 데이터 기반 개인화 가격'만 금지하고 ESL 사용은 허용하는 구도임. ESL과 다이내믹 프라이싱을 분리하는 커뮤니케이션 전략이 여전히 유효하며, 주별 법안 조문 차이(모라토리엄 포함 여부)를 영업 단계에서 추적할 필요가 있음.",
+        "imageUrl": "",
+        "pubDate": "2026-07-07",
+        "sourceUrl": "https://www.forbes.com/advisor/credit-cards/three-states-passed-laws-against-grocery-surveillance-pricing-last-month-heres-what-it-means/",
+        "sourceName": "Forbes Advisor"
+      }
+    ],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [],
+    "technology": []
+  }
+}
