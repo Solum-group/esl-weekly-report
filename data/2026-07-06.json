@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-06",
   "weekLabel": "2026.07.06 ~ 2026.07.12",
-  "searchAnalysis": "**07월 09일(목) 수집:** 주간 기사 2건—뉴저지 ESL 모라토리엄 법안 통과(The Packer)와 3개 주 감시가격 규제 확산 분석(Forbes). 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink) 직접 순회 결과 수집 기간 내 신규 발표 없음(Hanshow 7/2 CGF 기사는 전주 기수집분). 트러블슈팅: SOLUM 뉴스룸 SPA 미렌더링→도메인 한정 검색 대체, RTIH /home은 2025년 12월 캐시 페이지 반환→site: 검색 대체, Forbes 대형 페이지 토큰 초과→저장 파일 Grep으로 날짜·본문 추출.",
+  "searchAnalysis": "**07월 09일(목) 수집:** 주간 기사 2건—뉴저지 ESL 모라토리엄 법안 통과(The Packer)와 3개 주 감시가격 규제 확산 분석(Forbes). 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink) 직접 순회 결과 수집 기간 내 신규 발표 없음(Hanshow 7/2 CGF 기사는 전주 기수집분). 트러블슈팅: SOLUM 뉴스룸 SPA 미렌더링→도메인 한정 검색 대체, RTIH /home은 2025년 12월 캐시 페이지 반환→site: 검색 대체, Forbes 대형 페이지 토큰 초과→저장 파일 Grep으로 날짜·본문 추출.\n**07월 09~12일 보완:** 목·금·주말 기사 1건 추가—뉴저지 '공정가격보호법'이 셰릴 주지사 책상에 정식 이송(News 12 NJ, 7/9). 하원·상원 통과(6/30) 이후의 후속 절차 보도로, 크라이언 상원의원이 감시가격 금지를 여행·주유 사이트 등 타 업종으로 확대할 계획임을 밝힘. 공급사 뉴스룸·와이어(businesswire·prnewswire·globenewswire)·유럽/호주/아시아 매체 순회 결과 수집 기간(7/9~7/13) 내 ESL 공급사 신규 발표·계약 없음. NetChoice 거부권 요청 서한(7/7)·Gizmodo(7/2)·ROI-NJ(7/8)는 범위 이전이라 제외. 월요일(7/13) 신규 기사 없음—신규 주차 파일 미생성.",
   "sections": {
     "industryTrends": [
       {
@@ -21,6 +21,15 @@
         "pubDate": "2026-07-07",
         "sourceUrl": "https://www.forbes.com/advisor/credit-cards/three-states-passed-laws-against-grocery-surveillance-pricing-last-month-heres-what-it-means/",
         "sourceName": "Forbes Advisor"
+      },
+      {
+        "title": "Bill to ban NJ grocery surveillance pricing reaches governor's desk",
+        "summary": "• 뉴저지 '공정가격보호법(Fair Price Protection Act)'이 6월 30일 상·하원 통과에 이어 7월 9일 셰릴(Mikie Sherrill) 주지사 책상에 정식 이송되어 서명만 남음\n• 법안은 (1) 소비자 개인 데이터를 활용한 식료품 가격 책정을 불법화(로열티 프로그램 할인은 예외)하고, (2) 매장 내 전자 가격 표시기(ESL) 신규 설치를 일시 중단(pause)해 입법부가 그 영향을 연구하도록 함\n• 공동 발의자 조 크라이언(Joe Cryan) 상원의원은 2025년 컨슈머리포트 조사(동일 매장·동일 품목에 인스타카트 이용자별 다른 가격)를 근거로 제시하며 '소비 습관을 감시하는 가격'이라고 비판\n• 크라이언 의원은 향후 감시가격 금지를 여행 예약 사이트·주유소 등 타 업종으로 확대할 계획임을 밝힘\n• 셰릴 주지사는 과거 감시가격을 '터무니없다(outrageous)'며 반대 입장을 표명했으나, 서명 여부에 대한 News 12의 문의에는 답하지 않음",
+        "implications": "[🔴 위협] 미국 최초의 ESL 신규 설치 모라토리엄이 서명 단계까지 진입해 뉴저지 그로서리 신규 영업 차단이 임박함. [🔵 트렌드] 법안 취지가 ESL 자체 금지가 아닌 '영향 연구 기간 중 일시 중단'이라는 점, 그리고 규제 확대 타깃이 여행·주유 등 타 업종으로 확장되는 흐름에 주목 필요. [⚡ 액션] SOLUM은 서명·발효 시점과 모라토리엄의 정확한 적용 범위(신규 설치만 vs 기설치 포함, 매장 규모 기준)를 확인하고, ESL을 '가격 정확성·투명성·종이 폐기물 절감' 도구로 분리 포지셔닝하는 대(對)주정부·유통사 메시지를 선제 준비해야 함. 뉴저지 선례가 뉴욕·일리노이 등으로 확산될 경우에 대비한 주별 규제 트래킹도 병행할 것.",
+        "imageUrl": "https://images-cf.news12static.com/3kqcuzntcg31/2nPkG7ftzDyJFMdfqMw1Od/ea85bae6dcdbce7459e44569c4a9f98a/84b57165-06e2-461a-a2cc-6fb3717cd5a4.jpg",
+        "pubDate": "2026-07-09",
+        "sourceUrl": "https://newjersey.news12.com/2026/07/09/bill-to-ban-nj-grocery-surveillance-pricing-reaches-governors-desk/510qy9RyMf7bjVDlkEZry3",
+        "sourceName": "News 12 New Jersey"
       }
     ],
     "customerAdoption": {},
