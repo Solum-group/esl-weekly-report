@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-13",
   "weekLabel": "2026.07.13 ~ 2026.07.19",
-  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증 커버리지 07/16]** 개선 방법론(백본: 채널별 site: 열거 + 원문 발행일 검증)으로 전 채널 재확인—PRNewswire·BusinessWire·GlobeNewswire=신규 0건(IBM DeCA ESL은 2/25자로 제외), RetailDive·GroceryDive·ChainStoreAge=0건, ESM·TheGrocer·RetailDetail=0건(ZKONG Arrow는 2월 EuroShop 기사로 제외), Digitimes·아시아=0건, 공급사PR(Vusion·Hanshow·Pricer·SOLUM)=Vusion 1건(Decathlon, 기수집). 최종 주간 3건 확정. *(본문 검색 스니펫·PR 기반)*",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. 최종 주간 4건. *(본문 원문·PR 기반)*",
   "sections": {
     "industryTrends": [],
     "customerAdoption": {},
@@ -36,6 +36,15 @@
         "pubDate": "2026-07-13",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/13/augmodo-bags-21-million-in-funding-to-takes-its-ai-powered-offering-beyond-retail-stores",
         "sourceName": "Retail Technology Innovation Hub (RTIH)"
+      },
+      {
+        "title": "테스코, 사이먼비 로보틱스(Simbe)의 매대 모니터링 로봇 'Tally' 시범 도입",
+        "summary": "• 테스코가 매장 한 곳에서 Simbe Robotics의 재고 로봇 'Tally'를 시범 운영—통로를 자율 주행하며 결품(out-of-stock)·가격 오류·상품 오배치를 탐지 (英 IGD의 Toby Pickard 전언)\n• Tally는 하루 여러 차례 매대를 스캔하고 컴퓨터 비전·AI로 상태를 분석, 이상 감지 시 모바일 앱으로 직원에게 알리고 우선순위 조치 리스트를 생성—재고 정확도 향상·직원의 고객응대 시간 확보가 목적\n• 12개 이상 고해상도 카메라를 탑재하고 **셸프 라벨 인식 정확도 99%**를 표방하며, 진열 깊숙한 재고까지 파악해 저재고를 조기 경고\n• 한 달 전 발표한 Hanshow ESL 전 매장 도입, 자율 청소 로봇, 직원용 AI 어시스턴트와 함께 '하이퍼커넥티드 스토어' 구상의 일부. 경쟁사 Morrisons·Spar Austria(6개 매장으로 확대)도 Tally를 시험 중\n*(Retail Optimiser 원문 기반, The Grocer 교차 보도)*",
+        "implications": "[🔵 트렌드] 셸프 모니터링 로봇이 ESL·커넥티드 스토어와 상호보완하는 흐름—Tally가 ESL 라벨을 99% 인식한다는 점은 ESL과 비전 로봇이 결합해 가격 정확도·온셸프 가용성(OSA)을 함께 잡는 방향을 시사. [🔴 위협] Tesco의 'Hanshow ESL + Simbe 로봇'처럼 ESL 단독이 아닌 '라벨+비전+재고' 통합 스택 경쟁이 유럽 대형 유통에서 심화—SOLUM은 ESL만으로는 차별화가 어려움. [⚡ 액션] SOLUM ESL과 셸프 비전·OSA(자체 또는 파트너) 연계 시나리오를 준비하고, ESL 라벨 인식·가격 정확도 연계 가치를 로봇 벤더 대비 명확히 할 것.",
+        "imageUrl": "https://retail-optimiser.de/wp-content/uploads/2026/07/Tesco-mit-Simbe-Copyright-Toby-Pickard-IDG.jpg",
+        "pubDate": "2026-07-15",
+        "sourceUrl": "https://retail-optimiser.de/en/tesco-pilots-shelf-monitoring-with-simbe-robotics/",
+        "sourceName": "Retail Optimiser (The Grocer 교차 보도)"
       }
     ]
   }
