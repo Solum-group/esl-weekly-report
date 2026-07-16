@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-13",
   "weekLabel": "2026.07.13 ~ 2026.07.19",
-  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. **[tier-1 최종검증 07/16]** 채널 최신목록 직접 열람으로 재차 확인해 추가 4건 포착: 그로서리아웃렛 안면인식(7/15, industryTrends)·AI쇼핑 대중화(7/13)·크로노드라이브 Relex 신선보충(7/15)·하베스코 AI와인추천(7/14, technology). Grocery Dive·Retail Dive는 범위 내 신규 0건. 최종 주간 11건. *(본문 원문·PR 기반)*",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. **[tier-1 최종검증 07/16]** 채널 최신목록 직접 열람으로 재차 확인해 추가 4건 포착: 그로서리아웃렛 안면인식(7/15, industryTrends)·AI쇼핑 대중화(7/13)·크로노드라이브 Relex 신선보충(7/15)·하베스코 AI와인추천(7/14, technology). Grocery Dive·Retail Dive는 범위 내 신규 0건. **[경계선 편입 07/16]** 사용자 요청으로 경계선 4건 추가: 트랙터서플라이-인스타카트 당일배송(7/14)·콜루이트 로봇사업 Kion 매각(7/14)·리들 웹샵 사이버침해(7/13, technology)·딜리버리히어로-우버 인수협상(7/15, industryTrends). 스코프는 '리테일 산업 최신 기술·트렌드 전반' 유지. 최종 주간 15건. *(본문 원문·PR 기반)*",
   "sections": {
     "industryTrends": [
       {
@@ -21,6 +21,15 @@
         "pubDate": "2026-07-15",
         "sourceUrl": "https://www.supermarketnews.com/grocery-technology/grocery-outlet-is-getting-into-facial-recognition-tech",
         "sourceName": "Supermarket News"
+      },
+      {
+        "title": "딜리버리히어로, 우버와 인수 협상 '고도화 단계' 확인",
+        "summary": "• 독일 딜리버리히어로가 우버 테크놀로지스와 인수 관련 '고도화된 협상' 중임을 확인(블룸버그 보도 확인)—시가 약 112억 유로($128억)로, 주당 최근가 €36을 상회하는 인수가 예상\n• 성사 시 우버이츠의 유럽·중동·아시아·중남미 배송망이 확대되나, 겹치는 사업권으로 반독점 심사가 주목됨. 우버는 5월 주당 €38 제안(투자자 반발) 후 지분을 25%→약 37%로 확대\n• 성장 둔화·경쟁 심화로 배송업계 통합이 가속\n*(ESM Magazine/Reuters 원문 기반)*",
+        "implications": "[🔵 트렌드] 음식·그로서리 배송 시장의 대형 통합은 라스트마일·리테일 미디어·데이터 지형에 파급—ESL 직접 관련성은 낮으나 리테일 테크 지형 변화로 모니터링 가치가 있음. [⚡ 액션] 배송 플랫폼 통합이 매장 픽업·재고·가격 데이터 연동 수요를 키우는지 관찰 필요.",
+        "imageUrl": "",
+        "pubDate": "2026-07-15",
+        "sourceUrl": "https://www.esmmagazine.com/technology/delivery-hero-confirms-advanced-negotiations-with-uber-over-potential-takeover-offer-316542",
+        "sourceName": "ESM Magazine"
       }
     ],
     "customerAdoption": {},
@@ -109,6 +118,33 @@
         "pubDate": "2026-07-14",
         "sourceUrl": "https://retail-optimiser.de/en/hawesko-digitises-wine-recommendations-with-gk-and-nexum/",
         "sourceName": "Retail Optimiser"
+      },
+      {
+        "title": "트랙터 서플라이, 인스타카트로 당일배송 확대",
+        "summary": "• 미국 농촌·라이프스타일 유통사 트랙터 서플라이가 2,400개 이상 매장에서 인스타카트 앱·웹으로 당일배송(최속 1시간)을 제공—펫푸드·가축사료·농자재·공구 등 전 상품을 매장과 동일가로 판매\n• 2022년부터 도어대시와도 온디맨드 배송을 제휴 중이며, 인스타카트는 수백만 사용자에 트랙터 서플라이를 노출\n*(Chain Store Age 원문 기반)*",
+        "implications": "[🔵 트렌드] 3자 배송 플랫폼(인스타카트·도어대시) 제휴가 비식품·전문 유통까지 확산—옴니채널·라스트마일이 리테일 기술 경쟁의 축. [⚡ 액션] SOLUM은 ESL·매장 데이터가 온라인 주문 피킹·재고 동기화에 기여하는 옴니채널 유스케이스를 강조할 만함.",
+        "imageUrl": "https://chainstoreage.com/images/v/16_x_9_480/2026-07/tractor-instacart-resized.jpg",
+        "pubDate": "2026-07-14",
+        "sourceUrl": "https://chainstoreage.com/news-briefs/2026-07-14?article=tractor-supply-partners-expand-demand-delivery-options",
+        "sourceName": "Chain Store Age"
+      },
+      {
+        "title": "콜루이트, 자율주행 팔레트트럭 로봇 R&D 사업 Kion에 매각",
+        "summary": "• 벨기에 유통그룹 콜루이트(Colruyt)가 자율주행 팔레트트럭 관련 R&D 활동의 70%를 물류장비 대기업 Kion(Still 모회사)에 매각—약 2,000만 유로의 부가가치 창출\n• 콜루이트는 소프트웨어 지능을, Still은 하드웨어를 담당해 2023년 첫 자율 팔레트트럭을 상용화, 2개 물류센터에서 2년간 운영. 안트베르펜 Kion 오토메이션 센터에서 산업용 국제 롤아웃 준비\n*(RetailDetail EU 원문 기반)*",
+        "implications": "[🔵 트렌드] 유통사가 자체 개발한 물류 로봇 기술을 전문 벤더에 이관·산업화—매장·물류 자동화 기술의 상업화 흐름. [⚡ 액션] SOLUM은 매장 단(ESL·셸프)과 물류 자동화가 연결되는 데이터 계층에서의 역할을 검토.",
+        "imageUrl": "https://www.retaildetail.eu/wp-content/uploads/sites/2/2026/07/STILL_Colruyt_AXL-iGo_00799-high-Aangepast.jpg",
+        "pubDate": "2026-07-14",
+        "sourceUrl": "https://www.retaildetail.eu/news/general/colruyt-group-sells-robotics-division-to-german-multinational/",
+        "sourceName": "RetailDetail EU"
+      },
+      {
+        "title": "리들 웹샵 고객 데이터, 사이버 사고로 유출 정황",
+        "summary": "• 리들(Lidl)이 네덜란드·벨기에·독일 웹샵 고객에게 외부 IT 협력사에서 발생한 데이터 침해로 개인정보가 유출됐을 수 있다고 통지—이름·전화·이메일·생년월일·고객번호 등이 대상\n• 비밀번호·청구지주소·계좌정보는 미포함, 리들 온라인샵 본체는 사고에 미포함으로 보도\n• 2025년 M&S·Co-op 등 유럽 유통 대상 사이버공격이 잇따른 가운데 발생\n*(ESM Magazine 원문 기반)*",
+        "implications": "[🔴 위협][🔵 트렌드] 리테일 디지털화 확대에 따른 사이버·데이터 보안 리스크 부각—ESL·IoT·클라우드 등 매장 연결 인프라의 보안·컴플라이언스가 도입 결정 요소로 부상. [⚡ 액션] SOLUM은 ESL·클라우드 플랫폼의 보안·데이터 거버넌스를 세일즈 포인트로 강화.",
+        "imageUrl": "",
+        "pubDate": "2026-07-13",
+        "sourceUrl": "https://www.esmmagazine.com/technology/lidl-webshop-customer-data-affected-by-cyber-incident-reports-316400",
+        "sourceName": "ESM Magazine"
       }
     ]
   }
