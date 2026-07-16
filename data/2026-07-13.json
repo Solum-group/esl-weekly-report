@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-13",
   "weekLabel": "2026.07.13 ~ 2026.07.19",
-  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. **[tier-1 최종검증 07/16]** 채널 최신목록 직접 열람으로 재차 확인해 추가 4건 포착: 그로서리아웃렛 안면인식(7/15, industryTrends)·AI쇼핑 대중화(7/13)·크로노드라이브 Relex 신선보충(7/15)·하베스코 AI와인추천(7/14, technology). Grocery Dive·Retail Dive는 범위 내 신규 0건. **[경계선 편입 07/16]** 사용자 요청으로 경계선 4건 추가: 트랙터서플라이-인스타카트 당일배송(7/14)·콜루이트 로봇사업 Kion 매각(7/14)·리들 웹샵 사이버침해(7/13, technology)·딜리버리히어로-우버 인수협상(7/15, industryTrends). 스코프는 '리테일 산업 최신 기술·트렌드 전반' 유지. 최종 주간 15건. *(본문 원문·PR 기반)*",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. **[tier-1 최종검증 07/16]** 채널 최신목록 직접 열람으로 재차 확인해 추가 4건 포착: 그로서리아웃렛 안면인식(7/15, industryTrends)·AI쇼핑 대중화(7/13)·크로노드라이브 Relex 신선보충(7/15)·하베스코 AI와인추천(7/14, technology). Grocery Dive·Retail Dive는 범위 내 신규 0건. **[경계선 편입 07/16]** 사용자 요청으로 경계선 4건 추가: 트랙터서플라이-인스타카트 당일배송(7/14)·콜루이트 로봇사업 Kion 매각(7/14)·리들 웹샵 사이버침해(7/13, technology)·딜리버리히어로-우버 인수협상(7/15, industryTrends). 스코프는 '리테일 산업 최신 기술·트렌드 전반' 유지. 추가로 독일 Kodi 재파산(7/15, industryTrends)—리테일 부문 위기 신호로 편입. 최종 주간 16건. *(본문 원문·PR 기반)*",
   "sections": {
     "industryTrends": [
       {
@@ -30,6 +30,15 @@
         "pubDate": "2026-07-15",
         "sourceUrl": "https://www.esmmagazine.com/technology/delivery-hero-confirms-advanced-negotiations-with-uber-over-potential-takeover-offer-316542",
         "sourceName": "ESM Magazine"
+      },
+      {
+        "title": "독일 비식품 디스카운터 Kodi 재파산—독일 리테일 위기 심화 신호",
+        "summary": "• 독일 비식품(생활용품) 디스카운터 Kodi(약 150개 매장)가 2년 새 두 번째로 파산 절차에 돌입—생존을 위한 재기를 시도\n• 현 추정상 150개 중 약 50개 매장을 폐점해야 할 전망(경영주주 Fabian Grund의 직원 서한). 2024년 이미 240→150개로 축소했으나 역부족, 약 1,200명 고용\n• Retail Detail은 이를 여러 독일 유통사가 어려움을 겪는 '독일 리테일 부문 심층 위기'의 경고 신호로 진단\n*(RetailDetail EU 원문 기반)*",
+        "implications": "[🔴 위협][🔵 트렌드] 유럽 최대 소비시장 독일의 리테일 구조조정·수요 위축 신호—신규 매장 투자(ESL 포함 CAPEX) 위축과 비용절감 압박으로 이어질 수 있음. 다만 인건비 절감·운영효율 니즈는 ESL·자동화의 ROI 논리를 강화하는 양면성도 있음. [⚡ 액션] SOLUM은 경기 둔화기에 ESL을 '비용절감·운영효율' 관점으로 포지셔닝하고, 독일 시장의 신규 vs 리모델링 파이프라인 변화를 모니터링할 필요.",
+        "imageUrl": "https://www.retaildetail.eu/wp-content/uploads/sites/2/2026/07/shutterstock_2212999319.jpg",
+        "pubDate": "2026-07-15",
+        "sourceUrl": "https://www.retaildetail.eu/news/general/kodi-discount-chains-bankruptcy-filing-highlights-the-deep-crisis-in-the-german-retail-sector/",
+        "sourceName": "RetailDetail EU"
       }
     ],
     "customerAdoption": {},
