@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-13",
   "weekLabel": "2026.07.13 ~ 2026.07.19",
-  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 1건—RTIH의 Tesco '하이퍼커넥티드 스토어' 기사(7/14, 로봇·AI·Hanshow ESL 3,000개 매장). 최초 목요일 run의 검색(3B)에서는 제목에 ESL이 없고 RTIH가 발행 직후 웹 검색에 미색인되어 누락됐던 기사로, 사용자 제보 후 RTIH 직접 확인으로 채택. [커버리지] RTIH=방문·1건 / 검색만으로는 미포착. *(본문 검색 스니펫 기반—RTIH SPA로 원문 렌더링은 Chrome 필요)*",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. *(본문 검색 스니펫·PR 기반)*",
   "sections": {
     "industryTrends": [],
     "customerAdoption": {},
@@ -16,7 +16,27 @@
         "sourceName": "Retail Technology Innovation Hub (RTIH)"
       }
     ],
-    "solutionProviders": [],
-    "technology": []
+    "solutionProviders": [
+      {
+        "title": "데카트론, Vusion 솔루션 700개 매장 달성…Vusion '최대 글로벌 도입 고객' 등극",
+        "summary": "• VusionGroup이 스포츠 유통사 데카트론(Decathlon)이 2026년 2분기 기준 700개 매장에 자사 디지털 솔루션(ESL 포함)을 도입해 '가장 광범위하게 배치된 고객'이 됐다고 발표\n• 배치 범위는 유럽·남미·아태 3개 대륙 54개국으로, 단일 고객 기준 최다 국가 규모\n• 데카트론은 Vusion 플랫폼으로 가격 관리를 자동화—ESL에 즉시·동기화된 가격 업데이트를 반영하고 종이 라벨 교체 업무를 제거해 직원이 고객 응대에 집중\n*(RTIH·Vusion PR 기반)*",
+        "implications": "[🔴 위협] Vusion이 비식품(스포츠·전문 유통) 글로벌 대형 레퍼런스를 54개국 규모로 확장—SOLUM의 글로벌 비식품 레퍼런스 경쟁에 직접적 압박. [🟢 기회] 비식품·전문 유통의 다국가 통합 롤아웃 수요가 실증됨—SOLUM도 클라우드 다국가 관리·현지 지원을 앞세워 유사 세그먼트 공략 여지. [⚡ 액션] 데카트론급 글로벌 스포츠·전문 유통 대상 다국가 파일럿 제안, Vusion 대비 TCO·클라우드 관리 차별점 정리.",
+        "imageUrl": "",
+        "pubDate": "2026-07-15",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/15/sporting-goods-retailer-decathlon-becomes-retail-technology-firm-vusions-most-globally-deployed-customer",
+        "sourceName": "Retail Technology Innovation Hub (RTIH)"
+      }
+    ],
+    "technology": [
+      {
+        "title": "공간 AI 스타트업 어그모도(Augmodo), 2,100만 달러 유치…매장 밖으로 확장",
+        "summary": "• 매장 직원이 착용하는 듀얼 카메라 '스마트배지(Smartbadge)'로 컴퓨터 비전·3D 매핑·공간 컴퓨팅을 활용해 선반 재고를 실시간 추적하는 미국 스타트업 어그모도가 2,100만 달러(기존 투자자 TQ Ventures 주도)를 유치, 기업가치 3.5억 달러\n• 지난 1년간 매출 10배 성장, 월 1억 8,600만 sq ft의 매장 공간을 매핑하며 연말까지 월 10억 sq ft 돌파를 목표로 제시\n• 리테일을 넘어 제조·자동차·병원·편의점 등 '물리적 노동 현장' 전반으로 AI 어시스턴트를 확장하는 로드맵 공개\n• 투자자에 Chemist Warehouse 등 유통 관련 주체도 참여\n*(검색 스니펫 기반)*",
+        "implications": "[🔵 트렌드] 온셸프 가용성(OSA)·재고 정확도를 '웨어러블 카메라+공간AI'로 해결하는 접근이 대형 투자를 받으며 급성장—ESL이 제공하는 '선반 데이터' 가치를 비전 방식이 대체·보완할 수 있음. [🔴 위협] Vusion Captana·Hanshow 카메라처럼 ESL 공급사도 비전 기반 재고로 확장 중인 가운데, 전문 스타트업이 별도 트랙에서 빠르게 성장. [⚡ 액션] SOLUM은 ESL 인프라와 결합 가능한 셸프 비전/OSA 옵션을 로드맵에서 점검하고, 고정형·웨어러블 카메라 대비 ESL 연계의 차별점(가격·재고 실시간 동기화)을 명확히 할 필요.",
+        "imageUrl": "",
+        "pubDate": "2026-07-13",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/13/augmodo-bags-21-million-in-funding-to-takes-its-ai-powered-offering-beyond-retail-stores",
+        "sourceName": "Retail Technology Innovation Hub (RTIH)"
+      }
+    ]
   }
 }
