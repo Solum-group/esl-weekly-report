@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-13",
   "weekLabel": "2026.07.13 ~ 2026.07.19",
-  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. *(본문 검색 스니펫·PR 기반)*",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증 커버리지 07/16]** 개선 방법론(백본: 채널별 site: 열거 + 원문 발행일 검증)으로 전 채널 재확인—PRNewswire·BusinessWire·GlobeNewswire=신규 0건(IBM DeCA ESL은 2/25자로 제외), RetailDive·GroceryDive·ChainStoreAge=0건, ESM·TheGrocer·RetailDetail=0건(ZKONG Arrow는 2월 EuroShop 기사로 제외), Digitimes·아시아=0건, 공급사PR(Vusion·Hanshow·Pricer·SOLUM)=Vusion 1건(Decathlon, 기수집). 최종 주간 3건 확정. *(본문 검색 스니펫·PR 기반)*",
   "sections": {
     "industryTrends": [],
     "customerAdoption": {},
