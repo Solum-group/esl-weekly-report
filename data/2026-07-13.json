@@ -1,9 +1,19 @@
 {
   "weekId": "2026-07-13",
   "weekLabel": "2026.07.13 ~ 2026.07.19",
-  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. 최종 주간 4건. *(본문 원문·PR 기반)*",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. 최종 주간 7건. *(본문 원문·PR 기반)*",
   "sections": {
-    "industryTrends": [],
+    "industryTrends": [
+      {
+        "title": "아마존, 가격비교 사이트의 '가격 변동 추적' 차단",
+        "summary": "• 아마존이 다수 가격비교 사이트에 자사 상품의 과거 가격(historical price) 표시·처리를 중단하라고 요구—소비자가 할인율의 진위를 추적·검증하기 어려워짐\n• 대상은 아마존 어소시에이츠(제휴 프로그램) 참여 사이트로, 아마존은 '체결한 약관에 따라 가격을 추적 차트·알림에 포함하지 말 것'을 요청했다고 확인(Tweakers 보도)\n• 가격 하락 알림 서비스가 사실상 무력화—온·오프라인 가격 투명성·다이내믹 프라이싱 논쟁과 맞닿은 이슈\n*(RetailDetail EU 원문 기반)*",
+        "implications": "[🔵 트렌드] 온라인 가격 투명성을 둘러싼 긴장은 오프라인 ESL·다이내믹 프라이싱 규제(감시가격) 논쟁과 같은 뿌리—'소비자가 가격 변화를 감시·검증할 수 있는가'가 핵심 쟁점. [⚡ 액션] SOLUM은 ESL을 '실시간 가격 변경'이 아닌 '가격 정확성·투명성' 도구로 포지셔닝하는 메시지를 강화하고, 온·오프라인 가격 투명성 규제 흐름을 함께 추적할 필요.",
+        "imageUrl": "https://www.retaildetail.eu/wp-content/uploads/sites/2/2026/07/Amazon_19-1.jpg",
+        "pubDate": "2026-07-14",
+        "sourceUrl": "https://www.retaildetail.eu/news/general/amazon-no-longer-allows-price-comparison-sites-to-track-price-changes/",
+        "sourceName": "RetailDetail EU"
+      }
+    ],
     "customerAdoption": {},
     "majorCompanies": [
       {
@@ -45,6 +55,24 @@
         "pubDate": "2026-07-15",
         "sourceUrl": "https://retail-optimiser.de/en/tesco-pilots-shelf-monitoring-with-simbe-robotics/",
         "sourceName": "Retail Optimiser (The Grocer 교차 보도)"
+      },
+      {
+        "title": "월마트, AI·디지털 트윈으로 공급망 전략 고도화",
+        "summary": "• 월마트가 AI와 디지털 트윈(가상 복제) 기술로 공급망을 최적화—예측 모델·머신러닝으로 날씨·수요 신호를 분석하고, AI 에이전트로 물류 노드 전체를 통합 관리\n• 디지털 트윈으로 시설 폐쇄·운송 지연·급격한 수요 변화 등 스트레스 시나리오를 시뮬레이션해 물류망 대응력을 사전 점검\n• OpenAI·Google과 협업해 직무별 AI 인증을 제공하고, 사내 플랫폼 'Squiggly'로 200만 직원의 AI 활용·자체 도구 개발을 지원\n*(Retail Dive 원문 기반)*",
+        "implications": "[🔵 트렌드] 리테일의 AI가 매장(ESL·셸프)에서 공급망·물류로 확장—에이전틱 AI·디지털 트윈이 '데이터 기반 매장 실행'의 상류(上流)를 구성. [⚡ 액션] SOLUM은 ESL이 만드는 매장 데이터(가격·재고·판매)를 공급망 AI·디지털 트윈과 연결하는 상위 가치사슬 서사를 검토할 만함.",
+        "imageUrl": "https://imgproxy.divecdn.com/ma5037OAyDrRjz561yKh3Y3FNDwz_WnGHMRbsc2j8jE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80YTQyMjMzNC1jYjhkLTRiYmMtYjVhZi0zMTg1NDQ0YWZhZmYuanBn.webp",
+        "pubDate": "2026-07-15",
+        "sourceUrl": "https://www.retaildive.com/news/walmart-supply-chain-strategy-ai-digital-twins/825162/",
+        "sourceName": "Retail Dive"
+      },
+      {
+        "title": "월마트 배송기사 앱 신기능 'Smart Path'에 현장 불만",
+        "summary": "• 월마트가 배송기사 앱 Spark에 도입한 매장 내비게이션 기능 'Smart Path'가 혼선·지연을 유발한다는 현장 불만(Business Insider 보도)\n• 기존엔 주문별 매장 동선을 제시했으나, 신기능은 기사 위치를 추적해 근접도 기준으로 품목 순서를 재배열—냉장·냉동식품을 먼저 집게 되는 경우가 잦아 콜드체인·효율 문제 제기\n• Spark 기사는 시간당이 아닌 배송 건수로 수입이 결정돼 배송당 소요 시간 증가가 큰 불이익. 일부는 이미 준비된 주문만 골라 우회\n*(Supermarket News 원문 기반)*",
+        "implications": "[🔵 트렌드] 매장 실행(store execution)을 돕는 알고리즘·앱이 오히려 현장 마찰을 낳는 사례—'매장 내 위치·동선 최적화'는 ESL·셸프 인프라와 연결되는 영역으로, 정확한 매대 위치 데이터의 가치가 부각. [⚡ 액션] SOLUM ESL의 정확한 상품 위치·매대 데이터가 피킹·배송 동선 최적화에 기여할 수 있음을 유스케이스로 발굴할 만함.",
+        "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/blte59bccc8da266bb1/6a57e81c02a71980dbbcdf15/Fresh_Produce_Section_in_Walmart.webp",
+        "pubDate": "2026-07-15",
+        "sourceUrl": "https://www.supermarketnews.com/grocery-technology/walmart-grocery-delivery-workers-have-issue-with-new-app-tool",
+        "sourceName": "Supermarket News"
       }
     ]
   }

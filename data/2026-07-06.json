@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-06",
   "weekLabel": "2026.07.06 ~ 2026.07.12",
-  "searchAnalysis": "**07월 09일(목) 수집:** 주간 기사 2건—뉴저지 ESL 모라토리엄 법안 통과(The Packer)와 3개 주 감시가격 규제 확산 분석(Forbes). 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink) 직접 순회 결과 수집 기간 내 신규 발표 없음(Hanshow 7/2 CGF 기사는 전주 기수집분). 트러블슈팅: SOLUM 뉴스룸 SPA 미렌더링→도메인 한정 검색 대체, RTIH /home은 2025년 12월 캐시 페이지 반환→site: 검색 대체, Forbes 대형 페이지 토큰 초과→저장 파일 Grep으로 날짜·본문 추출.\n**07월 09~12일 보완:** 목·금·주말 기사 1건 추가—뉴저지 '공정가격보호법'이 셰릴 주지사 책상에 정식 이송(News 12 NJ, 7/9). 하원·상원 통과(6/30) 이후의 후속 절차 보도로, 크라이언 상원의원이 감시가격 금지를 여행·주유 사이트 등 타 업종으로 확대할 계획임을 밝힘. 공급사 뉴스룸·와이어(businesswire·prnewswire·globenewswire)·유럽/호주/아시아 매체 순회 결과 수집 기간(7/9~7/13) 내 ESL 공급사 신규 발표·계약 없음. NetChoice 거부권 요청 서한(7/7)·Gizmodo(7/2)·ROI-NJ(7/8)는 범위 이전이라 제외. 월요일(7/13) 신규 기사 없음—신규 주차 파일 미생성.",
+  "searchAnalysis": "**07월 09일(목) 수집:** 주간 기사 2건—뉴저지 ESL 모라토리엄 법안 통과(The Packer)와 3개 주 감시가격 규제 확산 분석(Forbes). 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink) 직접 순회 결과 수집 기간 내 신규 발표 없음(Hanshow 7/2 CGF 기사는 전주 기수집분). 트러블슈팅: SOLUM 뉴스룸 SPA 미렌더링→도메인 한정 검색 대체, RTIH /home은 2025년 12월 캐시 페이지 반환→site: 검색 대체, Forbes 대형 페이지 토큰 초과→저장 파일 Grep으로 날짜·본문 추출.\n**07월 09~12일 보완:** 목·금·주말 기사 1건 추가—뉴저지 '공정가격보호법'이 셰릴 주지사 책상에 정식 이송(News 12 NJ, 7/9). 하원·상원 통과(6/30) 이후의 후속 절차 보도로, 크라이언 상원의원이 감시가격 금지를 여행·주유 사이트 등 타 업종으로 확대할 계획임을 밝힘. 공급사 뉴스룸·와이어(businesswire·prnewswire·globenewswire)·유럽/호주/아시아 매체 순회 결과 수집 기간(7/9~7/13) 내 ESL 공급사 신규 발표·계약 없음. NetChoice 거부권 요청 서한(7/7)·Gizmodo(7/2)·ROI-NJ(7/8)는 범위 이전이라 제외. 월요일(7/13) 신규 기사 없음—신규 주차 파일 미생성.\n**[07/16 소급 보완]** 스코프 확대(리테일테크 트렌드 전반) 및 채널 직접 열람 결과, 본 주차 범위(7/6~12)의 누락 기사 2건을 소급 추가: 카우프란트-한쇼 스마트카트 시범(7/8, Retail Optimiser)·픽앤페이 AI 어시스턴트 Penny(7/10, ESM). 당시 검색 위주 수집으로 놓친 건으로, 뉴스룸 직접 열람에서 포착.",
   "sections": {
     "industryTrends": [
       {
@@ -34,7 +34,27 @@
     ],
     "customerAdoption": {},
     "majorCompanies": [],
-    "solutionProviders": [],
-    "technology": []
+    "solutionProviders": [
+      {
+        "title": "카우프란트, 한쇼(Hanshow) '스마트카트' 클립온 시범 도입",
+        "summary": "• 슈바르츠 그룹이 대형 매장 카우프란트(Kaufland)에서 한쇼(Hanshow)의 '스마트카트' 클립온 장치를 시범 운영—독일 예팅겐-오버예팅겐 매장에 우선 도입, 라인-마인 지역 매장도 예정\n• 기존 쇼핑카트를 스마트카트로 전환하는 장치로, 카우프란트 셀프스캔 시스템(K-Scan)에 통합. 2개의 센서 카메라로 스캔을 실시간 모니터링(단, 무게 기반 도난방지는 미제공)\n• 프런트엔드 SW는 슈바르츠 IT·한쇼·POS 공급사 Gebit가 공동 개발. 스마트카트 시장은 Wanzl·Instacart(Caper)·Shopic 등과 경쟁 심화\n*(Retail Optimiser 원문 기반)*",
+        "implications": "[🟢 기회] ESL 공급사 한쇼가 스마트카트로 매장 하드웨어 영역을 확장—ESL 벤더의 사업 다각화(카트·비전·재고) 흐름을 보여줌. [🔴 위협] 한쇼가 유럽 최대 유통(슈바르츠)에서 ESL을 넘어 스마트카트까지 레퍼런스를 넓히는 중—SOLUM은 ESL 인접 하드웨어 포트폴리오 전략을 점검할 필요. [⚡ 액션] SOLUM도 ESL과 연계 가능한 스마트카트·인스토어 미디어 옵션의 파트너십·로드맵을 검토.",
+        "imageUrl": "https://retail-optimiser.de/wp-content/uploads/2026/08/TITEL-20260707_Waren_erfassen4_Kaufland_Hanshow.jpg",
+        "pubDate": "2026-07-08",
+        "sourceUrl": "https://retail-optimiser.de/en/kaufland-is-trialling-hanshows-smart-cart-clip-ons/",
+        "sourceName": "Retail Optimiser"
+      }
+    ],
+    "technology": [
+      {
+        "title": "픽앤페이(Pick n Pay), AI 대화형 장보기 어시스턴트 'Penny' 출시",
+        "summary": "• 남아공 유통사 픽앤페이가 asap! 배송 플랫폼에 완전 통합형 AI 쇼핑 어시스턴트 'Penny'를 출시—텍스트·음성(다국어)·사진으로 장바구니를 구성하는 대화형 쇼핑으로 전환\n• Google Gemini 멀티모달 AI 기반으로, 냉장고 속 재료 사진 분석→레시피 제안, 브랜드 대체, 주간 식단·예산 관리까지 지원\n• Smart Shopper 로열티와 연동해 개인화 추천·재주문 제공. 향후 추가 AI 기능 예고\n*(ESM Magazine 원문 기반)*",
+        "implications": "[🔵 트렌드] '검색·스크롤'에서 '대화형' 쇼핑으로의 전환—AI 어시스턴트가 온라인 장보기의 프런트엔드를 재편. 오프라인에서도 매대·ESL과 연동된 매장 내 AI 안내로 확장될 여지. [⚡ 액션] SOLUM은 ESL·디지털 사이니지가 매장 내 AI 어시스턴트·개인화와 연결되는 인터페이스가 될 수 있음을 검토.",
+        "imageUrl": "",
+        "pubDate": "2026-07-10",
+        "sourceUrl": "https://www.esmmagazine.com/technology/pick-n-pay-rolls-out-ai-powered-conversational-grocery-assistant-315942",
+        "sourceName": "ESM Magazine"
+      }
+    ]
   }
 }
