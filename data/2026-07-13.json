@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-13",
   "weekLabel": "2026.07.13 ~ 2026.07.19",
-  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. 최종 주간 7건. *(본문 원문·PR 기반)*",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. **[tier-1 최종검증 07/16]** 채널 최신목록 직접 열람으로 재차 확인해 추가 4건 포착: 그로서리아웃렛 안면인식(7/15, industryTrends)·AI쇼핑 대중화(7/13)·크로노드라이브 Relex 신선보충(7/15)·하베스코 AI와인추천(7/14, technology). Grocery Dive·Retail Dive는 범위 내 신규 0건. 최종 주간 11건. *(본문 원문·PR 기반)*",
   "sections": {
     "industryTrends": [
       {
@@ -12,6 +12,15 @@
         "pubDate": "2026-07-14",
         "sourceUrl": "https://www.retaildetail.eu/news/general/amazon-no-longer-allows-price-comparison-sites-to-track-price-changes/",
         "sourceName": "RetailDetail EU"
+      },
+      {
+        "title": "그로서리 아웃렛, 매장에 안면인식 기술 도입—프라이버시 논란 재점화",
+        "summary": "• 미국 그로서리 아웃렛(Grocery Outlet)이 캘리포니아 일부 매장(플레전트힐·콩코드·SF 2곳)에 절도 방지용 '안면 매칭(face matching)' 기술을 설치—입구에 안내문·QR을 게시(Safr Guard 제공)\n• Safr Guard는 입장객 얼굴 이미지·CCTV·소매업체 제공 용의자 정보를 수집해 감시 워치리스트를 만들고 범죄 용의자 입장 시 매장에 경보\n• 과거 라이트에이드(2024 FTC 5년 금지)·타깃(생체정보 소송)·웨그먼스(NYC) 등 안면인식은 반복적으로 논란·규제 대상. 매사추세츠·뉴욕시는 생체정보 금지 법안 검토 중\n*(Supermarket News 원문 기반)*",
+        "implications": "[🔴 위협][🔵 트렌드] 매장 내 생체·감시 기술 확산은 '감시가격(surveillance pricing)'과 함께 리테일 프라이버시 규제의 핵심 화두—ESL·카메라·비전 기술 전반에 대한 소비자·규제 경계심을 키움. [⚡ 액션] SOLUM은 ESL·인스토어 비전 솔루션의 데이터·프라이버시 컴플라이언스를 선제 정비하고, '가격 정확성' 중심 포지셔닝으로 감시 프레임과 거리두기가 필요.",
+        "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/blta2b25681d04f26d6/6a57d8f351dfaa1328e6cfb4/A_graphic_showing_facial_recognition_tech.png",
+        "pubDate": "2026-07-15",
+        "sourceUrl": "https://www.supermarketnews.com/grocery-technology/grocery-outlet-is-getting-into-facial-recognition-tech",
+        "sourceName": "Supermarket News"
       }
     ],
     "customerAdoption": {},
@@ -73,6 +82,33 @@
         "pubDate": "2026-07-15",
         "sourceUrl": "https://www.supermarketnews.com/grocery-technology/walmart-grocery-delivery-workers-have-issue-with-new-app-tool",
         "sourceName": "Supermarket News"
+      },
+      {
+        "title": "AI 쇼핑, 대중화 단계 진입—소비자 75%가 6개월 내 AI 쇼핑 도구 사용",
+        "summary": "• 마케팅 기술사 Bloomreach 조사(미·영 4,000명): 소비자 75% 이상이 최근 6개월간 ChatGPT·Gemini·Claude 등 차세대 AI로 쇼핑을 도왔고, 42%는 매일·70% 가까이는 주 1회 이상 사용\n• AI 사용으로 40%는 더 자주 구매, 38%는 더 많이 지출, 34%는 충동구매 증가. 41%는 브랜드 웹사이트(38%)보다 AI 어시스턴트 쇼핑을 선호—고객 관계 형성 지점 이동 신호\n• 소비자는 제품 비교(48%)·딜 탐색(46%)·제품 발견(41%)에 AI를 적극 활용\n*(Chain Store Age 원문 기반)*",
+        "implications": "[🔵 트렌드] AI 어시스턴트가 쇼핑의 진입점을 재편—오프라인에서도 매대·ESL과 연동된 매장 내 AI 안내·개인화 수요로 확장될 가능성. [⚡ 액션] SOLUM은 ESL·디지털 사이니지가 매장 내 AI 쇼핑 경험의 물리적 인터페이스가 될 수 있음을 제품 전략에 반영.",
+        "imageUrl": "https://chainstoreage.com/images/v/16_x_9_480/2023-06/ai_marketplace_0.jpg",
+        "pubDate": "2026-07-13",
+        "sourceUrl": "https://chainstoreage.com/news-briefs/2026-07-13?article=ai-based-shopping-coming-age-heres-how",
+        "sourceName": "Chain Store Age"
+      },
+      {
+        "title": "크로노드라이브(오샹), Relex로 신선식품 보충·폐기 최적화",
+        "summary": "• 프랑스 오샹(Auchan)의 그로서리 이커머스 자회사 크로노드라이브가 Relex Solutions를 도입—독립형 클릭&컬렉트 매장의 신선 카테고리 관리 개선과 신선식품 폐기(shrink) 감축이 목표\n• 56개 클릭&컬렉트 거점(각 매장에서 주문 준비)의 신선 보충을 AI 기반 수요예측으로 최적화\n*(Retail Optimiser 원문 기반)*",
+        "implications": "[🔵 트렌드] AI 기반 신선식품 재고·보충 최적화가 리테일 기술 투자의 핵심축—ESL이 제공하는 실시간 가격·재고 데이터와 결합 시 폐기 감축·마크다운 자동화 시너지. [⚡ 액션] SOLUM은 ESL과 수요예측·자동 마크다운(임박 상품 자동 할인)을 연계하는 유스케이스를 강화할 만함.",
+        "imageUrl": "https://retail-optimiser.de/wp-content/uploads/2026/07/ChronodriveConverted-780x470.png",
+        "pubDate": "2026-07-15",
+        "sourceUrl": "https://retail-optimiser.de/en/chronodrive-optimises-fresh-replenishment-with-relex/",
+        "sourceName": "Retail Optimiser"
+      },
+      {
+        "title": "하베스코, GK·Nexum과 AI 와인 추천 도입",
+        "summary": "• 독일 프리미엄 와인·주류 유통그룹 하베스코(Hawesko)가 GK·Nexum과 협업해 Hawesko·Vino·Tesdorf 온라인숍에 AI 기반 와인 추천을 도입\n• 고객이 원하는 와인을 더 빠르게 찾도록 돕고 디지털 판매 채널을 비용효율적으로 운영하는 것이 목표\n*(Retail Optimiser 원문 기반)*",
+        "implications": "[🔵 트렌드] AI 개인화 추천이 전문 유통·이커머스로 확산—매장에서도 ESL·사이니지와 연동된 상품 추천·정보 제공으로 확장 가능. [⚡ 액션] SOLUM은 ESL을 통한 상품 정보·추천 표시(QR·NFC 연계 등) 옵션을 검토.",
+        "imageUrl": "https://retail-optimiser.de/wp-content/uploads/2026/07/20260709_Hawesko_OnlineShop-1-780x470.jpg",
+        "pubDate": "2026-07-14",
+        "sourceUrl": "https://retail-optimiser.de/en/hawesko-digitises-wine-recommendations-with-gk-and-nexum/",
+        "sourceName": "Retail Optimiser"
       }
     ]
   }
