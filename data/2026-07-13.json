@@ -1,0 +1,22 @@
+{
+  "weekId": "2026-07-13",
+  "weekLabel": "2026.07.13 ~ 2026.07.19",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 1건—RTIH의 Tesco '하이퍼커넥티드 스토어' 기사(7/14, 로봇·AI·Hanshow ESL 3,000개 매장). 최초 목요일 run의 검색(3B)에서는 제목에 ESL이 없고 RTIH가 발행 직후 웹 검색에 미색인되어 누락됐던 기사로, 사용자 제보 후 RTIH 직접 확인으로 채택. [커버리지] RTIH=방문·1건 / 검색만으로는 미포착. *(본문 검색 스니펫 기반—RTIH SPA로 원문 렌더링은 Chrome 필요)*",
+  "sections": {
+    "industryTrends": [],
+    "customerAdoption": {},
+    "majorCompanies": [
+      {
+        "title": "테스코, 로봇·AI 중심의 '하이퍼커넥티드 스토어' 구축 로드맵 공개",
+        "summary": "• 테스코가 로봇·AI·컴퓨터 비전·디지털 셸프 인프라를 결합한 '하이퍼커넥티드 스토어(hyper-connected store)' 비전을 공개하고, 매장 실행(store execution) 고도화와 직원 지원·고객 경험 개선을 목표로 제시\n• 최근 수 주간 편의점·슈퍼마켓에 자율 청소 로봇을 도입했고, Hanshow와의 파트너십으로 약 3,000개 대형·편의 매장에 전자 셸프 라벨(ESL)을 향후 2년간 순차 배치 중—유럽 최대 규모 ESL 프로젝트로 평가\n• 전 직원 대상 AI 어시스턴트를 시범 운영해 식단 계획·장바구니 구성 등 고객 응대를 지원\n• ESL 개념 검증(PoC)에서는 Tesco Extra(로이스턴, VusionGroup 라벨)와 St Neots(Hanshow ESL) 등 테스트 매장을 운영하며 복수 공급사를 평가\n*(검색 스니펫 기반)*",
+        "implications": "[🔵 트렌드] ESL이 단독 가격표를 넘어 로봇·컴퓨터 비전·AI와 결합된 '커넥티드 스토어' 인프라의 한 축으로 재편되는 흐름을 보여줌. [🔴 위협] 유럽 최대 ESL 프로젝트인 Tesco 약 3,000개 매장을 Hanshow가 확보했고 VusionGroup도 PoC에 참여 중이어서, SOLUM은 유럽 대형 유통 레퍼런스 경쟁에서 상대적으로 존재감이 약함. [⚡ 액션] SOLUM도 ESL을 '스마트 셸프·컴퓨터 비전·재고관리·리테일 미디어'와 묶은 통합 매장 실행(store execution) 플랫폼 서사로 포지셔닝하고, 유럽 대형 유통사 대상 PoC 기회를 적극 발굴할 필요.",
+        "imageUrl": "",
+        "pubDate": "2026-07-14",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/14/heres-how-tesco-is-building-towards-the-hyper-connected-store-where-robotics-and-ai-are-key",
+        "sourceName": "Retail Technology Innovation Hub (RTIH)"
+      }
+    ],
+    "solutionProviders": [],
+    "technology": []
+  }
+}
