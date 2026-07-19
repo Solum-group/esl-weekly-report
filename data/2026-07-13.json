@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-13",
   "weekLabel": "2026.07.13 ~ 2026.07.19",
-  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. **[tier-1 최종검증 07/16]** 채널 최신목록 직접 열람으로 재차 확인해 추가 4건 포착: 그로서리아웃렛 안면인식(7/15, industryTrends)·AI쇼핑 대중화(7/13)·크로노드라이브 Relex 신선보충(7/15)·하베스코 AI와인추천(7/14, technology). Grocery Dive·Retail Dive는 범위 내 신규 0건. **[경계선 편입 07/16]** 사용자 요청으로 경계선 4건 추가: 트랙터서플라이-인스타카트 당일배송(7/14)·콜루이트 로봇사업 Kion 매각(7/14)·리들 웹샵 사이버침해(7/13, technology)·딜리버리히어로-우버 인수협상(7/15, industryTrends). 스코프는 '리테일 산업 최신 기술·트렌드 전반' 유지. 추가로 독일 Kodi 재파산(7/15, industryTrends)—리테일 부문 위기 신호로 편입. 최종 주간 16건. *(본문 원문·PR 기반)*",
+  "searchAnalysis": "**07월 16일(목) 보완 수집:** 주간 기사 3건. RTIH 뉴스룸을 URL 날짜(`site:.../home/2026/7`)로 열거해 범위(7/13~16) 기사를 전수 확인—Tesco 하이퍼커넥티드 스토어(7/14), Augmodo 공간AI 셸프 재고 투자 유치(7/13), Decathlon-Vusion 700개 매장 달성(7/15). 최초 목요일 run은 제목에 ESL이 없는 리테일테크 기사(Augmodo)와 발행 직후 미색인 기사(Decathlon 7/15)를 검색만으로 놓쳤고, RTIH 직접 순회로 포착. [커버리지] RTIH=방문·3건 포착 / 검색 단독으로는 미포착. [감사] site: 열거로 범위 내 미수집 재확인. **[재검증·정정 07/16]** 1차 재검증에서 다른 채널을 WebSearch(site:)로만 확인해 '신규 0건'으로 오판했으나, 채널 페이지를 직접 WebFetch하니 범위 내 관련 기사가 추가 확인됨: The Grocer·Retail Optimiser의 Tesco-Simbe 'Tally' 매대 모니터링 로봇(7/15) 추가 수집. Chain Store Age의 Decathlon ESL(7/15)은 기수집분과 동일 사건. Amazon 가격비교 추적 차단(Retail Detail, 7/14)은 경계선(가격 투명성)이라 미수집. Retail Dive Walmart 디지털트윈·Supermarket News Spark 앱(7/15)은 ESL 무관으로 제외. IBM DeCA ESL(2/25)·ZKONG Arrow(2월 EuroShop)는 범위 밖. 교훈: WebSearch는 색인 지연·키워드 편향으로 신규 기사를 놓치므로 뉴스룸/사이트맵 직접 열람이 필수. **[스코프 확대]** 사용자 요청으로 ESL 직결 여부와 무관하게 리테일 산업 최신 기술·트렌드 전반을 편입: 아마존 가격추적 차단(7/14, industryTrends), 월마트 AI·디지털트윈 공급망(7/15)·월마트 Spark 배송앱 이슈(7/15, technology) 추가. **[tier-1 최종검증 07/16]** 채널 최신목록 직접 열람으로 재차 확인해 추가 4건 포착: 그로서리아웃렛 안면인식(7/15, industryTrends)·AI쇼핑 대중화(7/13)·크로노드라이브 Relex 신선보충(7/15)·하베스코 AI와인추천(7/14, technology). Grocery Dive·Retail Dive는 범위 내 신규 0건. **[경계선 편입 07/16]** 사용자 요청으로 경계선 4건 추가: 트랙터서플라이-인스타카트 당일배송(7/14)·콜루이트 로봇사업 Kion 매각(7/14)·리들 웹샵 사이버침해(7/13, technology)·딜리버리히어로-우버 인수협상(7/15, industryTrends). 스코프는 '리테일 산업 최신 기술·트렌드 전반' 유지. 추가로 독일 Kodi 재파산(7/15, industryTrends)—리테일 부문 위기 신호로 편입. 최종 주간 16건. *(본문 원문·PR 기반)*\n\n**07월 16~19일 보완(월요일 run):** 목·금·주말 기사 3건 추가—한쇼-마이크로소프트 전략적 파트너십(7/16, Azure에 ESL 2억 개·xPilot 매장실행 AI, solutionProviders), 우버의 딜리버리히어로 129억 유로 공개매수 개시(7/16, 전주 '협상 확인'의 확정 후속, industryTrends), 인스토어 디지털 광고 디스플레이 시장 76.9억 달러 전망(7/17, 셸프엣지·컬러 e-페이퍼 포함, technology). RTIH·ESM·GlobeNewswire를 직접 열람해 확인. RTIH Stores 최신목록 기준 7/17~19 신규 ESL 기사 없음, 토·일 신규 0건. 주간 총 19건.",
   "sections": {
     "industryTrends": [
       {
@@ -39,6 +39,15 @@
         "pubDate": "2026-07-15",
         "sourceUrl": "https://www.retaildetail.eu/news/general/kodi-discount-chains-bankruptcy-filing-highlights-the-deep-crisis-in-the-german-retail-sector/",
         "sourceName": "RetailDetail EU"
+      },
+      {
+        "title": "우버, 딜리버리히어로에 129억 유로 공개매수 제안…글로벌 배송 공룡 탄생 임박",
+        "summary": "• 우버가 7월 16일 독일 딜리버리히어로에 대해 기업가치 129억 유로($148억)의 공개매수(공식 테이크오버)를 개시—중국 외 세계 최대 음식배송 기업 탄생 전망 (전주 7/15 '고도화된 협상' 확인의 후속·확정 단계)\n• 주당 €41.50 현금(직전 3개월 VWAP 대비 약 34% 프리미엄), 최소 인수 조건 50%+1주. 인수 완료 시 우버의 총 경제적 지분은 53% 초과\n• 성사 시 99개국·2025년 합산 GMV $2,360억 규모 플랫폼 형성. 반독점 대응을 위해 딜리버리히어로가 14개 시장 사업 일부를 SSW파트너스에 약 14억 유로에 매각\n• 우버는 독일에 2031년까지 20억 유로 투자, 베를린 본사·인력을 2029년까지 유지 약속. 거래 완료는 내년 하반기 예상\n*(ESM Magazine/Reuters 원문 기반)*",
+        "implications": "[🔵 트렌드] 음식·그로서리 배송 대형 통합이 확정 단계로 진입—라스트마일·리테일 미디어·매장 데이터 지형 재편. ESL 직접 관련성은 낮으나 매장 픽업·재고·가격 데이터 연동 수요 변화로 모니터링 가치가 있음. [⚡ 액션] 배송 플랫폼 초대형화가 매장 내 피킹·재고 정확도(ESL·스마트셸프 연계) 수요를 키우는지 관찰 필요.",
+        "imageUrl": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvZXNtbWFnYXppbmUtcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMjMxOTI5MDJcXFwvZGVsaXZlcnktaGVyby5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvaW1nLnJlc2l6ZWQuY29cXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjJmODNiZDhlODY5YTk3NjVhMzBiODVhNzBkYTAxMDVlZTdiYTdhOWIifQ==/uber-to-acquire-delivery-hero-for-12-9bn.jpg",
+        "pubDate": "2026-07-16",
+        "sourceUrl": "https://www.esmmagazine.com/technology/uber-launches-14-8bn-offer-for-delivery-hero-to-create-global-platform-316659",
+        "sourceName": "ESM Magazine"
       }
     ],
     "customerAdoption": {},
@@ -61,6 +70,15 @@
         "imageUrl": "",
         "pubDate": "2026-07-15",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/15/sporting-goods-retailer-decathlon-becomes-retail-technology-firm-vusions-most-globally-deployed-customer",
+        "sourceName": "Retail Technology Innovation Hub (RTIH)"
+      },
+      {
+        "title": "한쇼, 마이크로소프트와 전략적 파트너십 체결…Azure·AI로 스마트 리테일 가속",
+        "summary": "• 한쇼(Hanshow)가 7월 16일(발표) 미 레드먼드 마이크로소프트 이그제큐티브 브리핑 센터에서 MS와 전략적 파트너 계약을 체결—클라우드·AI·IoT·스토어 디지털 트윈 협력을 대폭 심화\n• 2019년 MS AI & IoT 인사이더 랩 합류 이후 협력을 확대, 현재 2억 개 이상 한쇼 전자라벨(ESL)이 Azure에서 운영되고 다수 코셀(co-sell) 솔루션을 MS 생태계에 제공\n• NRF 2026 APAC에서 MS와 공동으로 'xPilot'(스토어 디지털 트윈·Azure 기반 실시간 매장 실행 AI 어시스턴트)을 출시—매장 인사이트를 빠른 의사결정·워크플로우로 전환\n• 테스코 약 3,000개 매장 ESL 도입(향후 2년, 우선 익스프레스 1곳·슈퍼마켓 3곳 착수)도 함께 진행 중\n*(RTIH 원문 기반)*",
+        "implications": "[🔴 위협] Hanshow가 MS와 클라우드·AI 생태계를 결합해 ESL을 '스토어 디지털 트윈+실시간 매장 실행 AI' 플랫폼으로 확장—단순 라벨 공급을 넘어선 통합 스택 경쟁에서 SOLUM에 직접 압박. [⚡ 액션] SOLUM도 하이퍼스케일러(Azure/AWS/GCP)와의 클라우드·AI 파트너십과 매장 실행 AI(수요예측·작업지시·OSA) 연계를 강화해 'ESL+클라우드+AI' 통합 서사를 구축할 필요.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/188c9efa-6de3-4c43-a5e0-fcd09798dec7/Hanshow.jpeg",
+        "pubDate": "2026-07-16",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/15/hanshow-and-microsoft-focus-on-future-of-smart-retail-as-the-pair-ink-strategic-partner-agreement",
         "sourceName": "Retail Technology Innovation Hub (RTIH)"
       }
     ],
@@ -154,6 +172,15 @@
         "pubDate": "2026-07-13",
         "sourceUrl": "https://www.esmmagazine.com/technology/lidl-webshop-customer-data-affected-by-cyber-incident-reports-316400",
         "sourceName": "ESM Magazine"
+      },
+      {
+        "title": "인스토어 디지털 광고 디스플레이 시장, 2030년 76.9억 달러 전망…리테일 미디어가 견인",
+        "summary": "• 리서치앤마켓 신규 보고서(7/17 발표): 글로벌 인스토어 디지털 광고 디스플레이 시장이 2025년 43.9억→2026년 49.0억 달러, 2030년 76.9억 달러(CAGR 11.9%)로 성장 전망\n• 성장 동력은 AI 개인화·프로그래매틱 리테일 미디어 네트워크·인터랙티브 디스플레이·저전력 e-페이퍼. **셸프엣지 디스플레이(shelf-edge display)**도 시장 범위에 명시적으로 포함\n• 2026년 1월 삼성전자가 리테일·상업용 컬러 e-페이퍼 디스플레이를 출시—중앙 콘텐츠 관리와 LCD 대비 저전력이 강점\n• 북미가 최대 시장, 아태가 최고 성장 지역. 콘텐츠 관리·분석·원격 모니터링을 결합한 확장형 플랫폼이 경쟁 우위를 좌우\n*(GlobeNewswire/Research and Markets 원문 기반)*",
+        "implications": "[🟢 기회][🔵 트렌드] 리테일 미디어 확산으로 매장 내 디지털 사이니지·저전력 e-페이퍼 수요가 급증—ESL 공급사의 인접 시장 확장 기회. 셸프엣지 디스플레이·컬러 e-페이퍼는 SOLUM의 핵심 역량(EPD·사이니지)과 직결. [⚡ 액션] SOLUM은 ESL을 '리테일 미디어의 물리 인터페이스(셸프엣지 광고·QR·컬러 e-페이퍼)'로 포지셔닝하고, 스크린·로열티·POS·ESL을 잇는 실시간 데이터 레이어 통합 솔루션을 강화할 필요.",
+        "imageUrl": "https://www.researchandmarkets.com/content-images/2518/2518113/1/in-store-digital-advertising-display-market.png",
+        "pubDate": "2026-07-17",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/07/17/3328932/0/en/In-Store-Digital-Advertising-Display-Market-to-Reach-7-69-Billion-by-2030-as-Retail-Media-Networks-Expand.html",
+        "sourceName": "GlobeNewswire (Research and Markets)"
       }
     ]
   }
