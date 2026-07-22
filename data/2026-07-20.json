@@ -1,0 +1,40 @@
+{
+  "weekId": "2026-07-20",
+  "weekLabel": "2026.07.20 ~ 2026.07.26",
+  "searchAnalysis": "**07월 23일(목) 수집:** 주간 기사 3건—모두 북미 '감시 가격(surveillance pricing)' 규제 이슈로, ESL이 규제 논쟁의 중심 기술로 지목된 한 주. (1) 미국 NGA가 뉴저지 주지사에게 Fair Price Protection Act의 ESL 1년 모라토리엄 삭제를 요청(7/20), (2) 캐나다 토론토 시장이 식료품 감시 가격 금지 동의안 제출(7/21), (3) CP24가 ESL과 감시 가격의 관계를 해설(7/22). [커버리지] 공급사 뉴스룸(SOLUM·Hanshow·Pricer·Vusion·E Ink) 직접 순회—범위 내 신규 발표 0건(최신은 Hanshow-Microsoft 7/15, Vusion-Decathlon 7/15로 모두 전주 수집분). [트러블슈팅 적용] ▲Retail Dive·Grocery Dive RSS가 gzip 바이너리로 반환(A) → 토픽 페이지 직접 WebFetch로 대체했으나 크롤 캐시가 7/13에 정체. ▲ESM RSS는 토큰 한도 초과(B) → Grep으로 pubDate 패턴 추출, 범위 내 ESL 기사 없음. ▲RTIH `/home` 캐시가 2025년 12월자로 반환되어 URL 날짜 필터 불가(신규 유형) → 검색 기반으로 우회. ▲Chain Store Age RSS 빈 응답, Progressive Grocer 기술면 캐시 stale(2024년 헤드라인 노출)로 날짜 검증 불가 → 미채택(D). ▲CBC·TorontoToday 원문이 JS 렌더링으로 본문 공백(C) → CBC는 Yahoo News Canada 신디케이션 미러로 대체 수집. [제외] Decathlon-Vusion 700개 매장(7/15)·Asda ESL 알레르겐 표시(7/13)·Instacart의 Arpalus 인수(7/16)·Hanshow-Microsoft(7/15)는 모두 범위 밖. CTV News의 토론토 동의안 기사(7/21)는 CBC 건과 동일 사건이라 중복 회피 차원에서 미수집.",
+  "sections": {
+    "industryTrends": [
+      {
+        "title": "미국 NGA, 뉴저지 주지사에 'ESL 1년 모라토리엄 삭제' 요구… 공정가격보호법 서명 전 수정 촉구",
+        "summary": "• 미국 전국식료품협회(NGA)가 7월 17일 뉴저지 주지사 Mikie Sherrill에게 서한을 보내 공정가격보호법(Fair Price Protection Act, A4085) 서명 전 수정을 요구했다.\n• NGA가 요청한 핵심 수정 사항은 ▲할인·프로모션 조항 명확화 ▲배송비·가격 공시 투명성 개선 ▲**법안에 포함된 전자가격표시기(ESL) 1년 모라토리엄 조항 삭제** 세 가지다.\n• 뉴저지 주의회는 6월 30일 이 법안을 통과시켰고 현재 주지사 서명만 남은 상태로, NGA는 수정 없이는 법안에 반대한다는 입장을 밝혔다.\n• Macy Lemon NGA 주정부담당 부사장은 \"독립 식료품점은 알고리즘·서지 프라이싱을 쓰지 않고 전통적 원가 기반 가격을 사용한다\"며, ESL은 서지 프라이싱 도구가 아니라 가격 정확도·인건비 절감·식품 폐기 감소를 위한 효율성 도구라고 반박했다.\n• NGA는 연간 5,575억 달러 규모의 미국 독립 식료품 유통 부문을 대표한다.",
+        "implications": "[⚡ 액션] ESL 산업 최대 시장인 미국에서 '주(州) 단위 ESL 설치 모라토리엄'이 실제 입법 문턱을 넘기 직전 단계다. 뉴저지가 선례가 되면 타 주 확산 위험이 크므로 SOLUM은 NGA·FMI 등 유통 협회와 공동 대응 채널을 확보하고, '동적 가격 억제 기능(가격 변경 이력 로깅, 영업시간 중 인상 잠금, 감사 로그)'을 제품 표준 사양으로 선제 탑재해 규제 리스크를 기술적으로 해소하는 포지셔닝이 필요하다.",
+        "imageUrl": "https://theshelbyreport.com/wp-content/uploads/2024/02/edit-electronic-shelf-labels.jpg",
+        "pubDate": "2026-07-20",
+        "sourceUrl": "https://theshelbyreport.com/2026/07/20/nga-asks-nj-gov-to-amend-fair-price-protection-act-before-signing/",
+        "sourceName": "The Shelby Report"
+      },
+      {
+        "title": "캐나다 토론토 시장, 식료품 '감시 가격' 금지 추진… 규제 논의 북미 전역으로 확산",
+        "summary": "• 토론토 시장 Olivia Chow가 7월 21일 시 집행위원회에 앞서 식료품 '감시 가격(surveillance pricing)' 금지·규제 방안을 마련하도록 시 담당 부서에 지시하는 동의안을 제출했다.\n• 대상 범위는 오프라인 매장과 시 경계 내 배송되는 온라인 식료품을 모두 포함하며, 담당 부서는 내년에 결과를 보고할 예정이다.\n• Chow 시장은 \"누구도 자신이 누구인지에 따라 다른 가격을 지불해서는 안 된다\"고 밝혔고, Alejandra Bravo 시의원은 이 관행을 \"약탈적 가격\"이라고 규정했다.\n• 캐나다 최대 유통사 Loblaw는 \"감시 가격은 식료품에 존재하지 않으며, 매대 라벨이든 이커머스 웹사이트든 이런 가격 방식은 결코 사용하지 않을 것\"이라고 공식 반박했다.\n• 온타리오 주 Doug Ford 총리는 자유시장 경쟁을 이유로 금지에 반대하고 있으며, 4월 온타리오 NDP 동의안과 연방 NDP 동의안은 모두 부결됐다. 반면 매니토바 주는 '개인화 알고리즘 가격'을 불공정 거래 행위로 규정하는 Bill 49를 추진 중이다.",
+        "implications": "[🔴 위협] 규제 리스크가 미국을 넘어 캐나다 주요 도시로 번지고 있다. 특히 Loblaw가 \"매대 라벨에서도 절대 쓰지 않겠다\"고 선제 선언한 점은 ESL 도입 유통사가 스스로 기능을 제약하는 방향으로 움직인다는 신호다. SOLUM은 캐나다 시장에서 '동적 가격 미사용 인증' 형태의 컴플라이언스 패키지(정책 프리셋 + 변경 이력 리포트)를 제안해 유통사의 대외 해명 부담을 덜어주는 방식으로 진입 장벽을 낮출 수 있다.",
+        "imageUrl": "https://s.yimg.com/lo/mysterio/api/11013f0e201bb6bd7a46c47bd22e17ac136a08b7626fb3d68fb2a88d899b091e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbc.ca%2F37289b114ee0b7b505690fc4fc9b958a",
+        "pubDate": "2026-07-21",
+        "sourceUrl": "https://ca.news.yahoo.com/toronto-mayor-local-councillors-look-154220428.html",
+        "sourceName": "CBC News (Yahoo News Canada 게재)"
+      },
+      {
+        "title": "\"전자라벨이 감시 가격의 가장 유력한 실행 수단\"… 캐나다 전문가들의 ESL 해설",
+        "summary": "• CP24가 7월 22일 토론토 감시 가격 금지 추진을 계기로 ESL과 가격 관행의 관계를 해설하는 기사를 내보냈다.\n• Canadian Shield Institute의 Emily Osborne 정책연구원은 수요·재고·날씨에 반응하는 '동적 가격'과 개인 데이터를 쓰는 '감시 가격'을 구분하면서, \"전자라벨이 매장에서 감시 가격이 작동하는 방식에 대한 가장 유력한 예측\"이라고 언급했다. 다만 실제로 벌어지고 있다는 확실한 증거는 부족하다고 덧붙였다.\n• 기술 애널리스트 Carmi Levy는 매대 스크린이 \"현재 상황에 따라 동적으로 변경될 수 있다\"며 유통사가 항공·엔터테인먼트 산업의 가격 방식에서 영감을 얻고 있다고 분석했다.\n• 퀸스대 경제지리학 Dan Cohen 부교수는 실제 확산 정도에 대해 \"지금은 완전히 블랙박스이며 빠르게 부상하는 관행\"이라고 평가했다.\n• 기사는 매니토바 주의 3월 '약탈적 가격' 금지, 퀘벡 주 가격정확성 정책, 연방 Bill C-36(개인정보·소비자데이터 보호법)을 함께 언급했다. (※ 기사 본문은 ESL을 'RFID 스크린'으로 혼동 표기하는 오류가 있다.)",
+        "implications": "[🔵 트렌드] 언론·전문가 담론에서 ESL이 '감시 가격의 물리적 인프라'로 프레이밍되는 구조가 고착되고 있다. 증거 부재를 인정하면서도 프레임은 유지되는 만큼, 반박은 해명이 아니라 데이터로 해야 한다. SOLUM은 실제 고객사 가격 변경 로그 기반의 '변경 빈도·시간대 분포' 실증 데이터를 백서 형태로 확보해 유통사 PR팀에 제공하는 것이 유효하다. 기사 내 'RFID 스크린' 오표기처럼 기술 이해도가 낮은 보도가 반복되는 점도 업계 공동 팩트시트 배포 필요성을 시사한다.",
+        "imageUrl": "https://www.cp24.com/resizer/v2/HP7HNV62RJFEJNHMRTXSXIIOFY.jpg?smart=true&auth=4e1266924be75a571aaf9e7bcd0aae97f650027c934228b370d92d38f5d87e93&width=1200&height=630",
+        "pubDate": "2026-07-22",
+        "sourceUrl": "https://www.cp24.com/local/toronto/2026/07/22/toronto-is-looking-to-ban-surveillance-pricing-in-grocery-stores-but-what-is-this-pricing-practice/",
+        "sourceName": "CP24"
+      }
+    ],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [],
+    "technology": []
+  }
+}
