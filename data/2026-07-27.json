@@ -1,0 +1,32 @@
+{
+  "weekId": "2026-07-27",
+  "weekLabel": "2026.07.27 ~ 2026.08.02",
+  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 2건—이번 주(월~목)는 ESL 신규 딜·공급사 발표가 드물었고, 미국 규제·가격 정책 담론이 중심. 뉴욕주·NJ 관련 다수 보도는 7/23~24 발행(전주 범위)이라 제외했고, 7/27 발행 확인된 invidis(NJ 모라토리엄 심층 분석)와 The Packer(신선식품 동적 마크다운) 2건만 채택. RTIH ESL 태그 페이지 최신 글은 5/26자로 신규 없음. 트러블슈팅: RTIH `/home` 페이지 토큰 초과→Grep으로 날짜 패턴 확인, invidis·The Packer는 메타태그 published_time으로 날짜 검증.",
+  "sections": {
+    "industryTrends": [
+      {
+        "title": "미국 소매업계, 전자가격표시기(ESL) 규제 논란의 중심에 서다",
+        "summary": "• 뉴저지주가 미국 최초로 신규 ESL 설치를 1년간 중단시키는 모라토리엄을 도입, ESL 논쟁이 리테일 기술 영역을 넘어 미국 주류 정치 이슈로 확산됐다.\n• Mikie Sherrill 주지사가 서명한 '공정가격보호법(Fair Price Protection Act)'은 개인 데이터를 활용한 '감시 가격(surveillance pricing)'을 겨냥하며, 뉴저지혁신청이 1년간 ESL의 영향을 연구하게 된다.\n• 노동조합(UFCW)과 소비자 단체는 즉각적 디지털 가격 변경이 항공·호텔식 동적 가격제로 이어질 수 있다고 우려하나, Walmart 등은 야간에만 가격을 갱신하며 개인화 가격 의도·역량이 없다고 반박했다.\n• 시장 1위 Vusion(구 SES-imagotag)은 60개국에 6.5억 개 이상 ESL을 공급했으며, 표준 ESL은 개인 식별용 센서·카메라가 없어 감시 가격이 기술적으로 불가능하다고 강조했다. UFCW는 12개 주에서 유사 입법을 추진 중이다.",
+        "implications": "[🔴 위협] 미국 내 규제 리스크가 현실화되며 SOLUM 등 공급사의 신규 설치 수주에 지역별 제약이 생길 수 있다. [⚡ 액션] SOLUM은 '표준 ESL은 개인화 가격 불가' 메시지를 선제적으로 커뮤니케이션하고, 미국 진출 시 주별 입법 동향(특히 UFCW 캠페인 12개 주) 모니터링 체계를 갖출 필요가 있다. [🔵 트렌드] 유럽·아시아에서는 인프라로 정착한 기술이 미국에서는 인플레이션·고용 불안과 얽혀 '신뢰' 문제로 번지는 지역 격차가 뚜렷하다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/07/JYSK_Bjerringbro4625_1-1.jpg",
+        "pubDate": "2026-07-27",
+        "sourceUrl": "https://invidis.com/news/2026/07/us-retail-electronic-shelf-labels-under-fire/",
+        "sourceName": "invidis"
+      }
+    ],
+    "customerAdoption": {},
+    "majorCompanies": [],
+    "solutionProviders": [],
+    "technology": [
+      {
+        "title": "동적 마크다운 가격, 신선식품 마진을 지키는 열쇠로 부상",
+        "summary": "• Retail Insight의 최고제품책임자 Alex Considine Tong은 기존의 광범위한 일괄 할인(카테고리·품목군 단위) 방식이 신선식품의 마진을 잠식하고 소비자도 실망시킨다고 지적했다.\n• 신선식품은 품종·계절·매장 위치에 따라 유통기한 프로파일이 달라, 재고량·지역 경쟁·행사 여부 등을 반영한 '점포·품목(item-level) 단위' 정밀 마크다운이 필요하다.\n• 정밀 할인은 소비자 혜택과 소매업체 마진 방어의 균형을 맞추며, 마크다운 시점·진열 위치를 다양화해 '할인 사냥꾼' 패턴화를 방지한다.\n• 카테고리 내에서도 조기 선제 할인·막판 공격적 할인·기부 전환 등 유통기한 단계별로 다른 전략을 적용해 폐기를 줄이고 법적 준수와 마진을 동시에 달성한다.",
+        "implications": "[🟢 기회] 동적 가격·마크다운 최적화는 ESL의 실시간 가격 반영 역량이 있어야 실행 가능한 영역으로, SOLUM의 ESL+가격 최적화 소프트웨어(예: Competera 연동) 번들 제안의 근거가 된다. [🔵 트렌드] 미국에서 '감시 가격' 논란과 별개로, 폐기 절감·마진 방어 목적의 '소비자 친화적 하향 동적 가격'은 수용성이 높아 ESL 도입 명분으로 활용 가능하다. [⚡ 액션] 신선식품 특화 마크다운 유스케이스를 SOLUM 세일즈 자료에 반영해 규제 우려를 상쇄하는 긍정 서사로 포지셔닝할 필요가 있다.",
+        "imageUrl": "https://assets.farmjournal.com/dims4/default/c6a2feb/2147483647/strip/true/crop/1200x675+0+63/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fb7%2Fd1%2F8889ad2e49d5a06c96099d6714ff%2Fadobestock-371432561.jpg",
+        "pubDate": "2026-07-27",
+        "sourceUrl": "https://www.thepacker.com/news/retail/how-dynamic-pricing-saving-fresh-produce-margins",
+        "sourceName": "The Packer"
+      }
+    ]
+  }
+}
