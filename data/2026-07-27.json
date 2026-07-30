@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-27",
   "weekLabel": "2026.07.27 ~ 2026.08.02",
-  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 2건—이번 주(월~목)는 ESL 신규 딜·공급사 발표가 드물었고, 미국 규제·가격 정책 담론이 중심. 뉴욕주·NJ 관련 다수 보도는 7/23~24 발행(전주 범위)이라 제외했고, 7/27 발행 확인된 invidis(NJ 모라토리엄 심층 분석)와 The Packer(신선식품 동적 마크다운) 2건만 채택. RTIH ESL 태그 페이지 최신 글은 5/26자로 신규 없음. 트러블슈팅: RTIH `/home` 페이지 토큰 초과→Grep으로 날짜 패턴 확인, invidis·The Packer는 메타태그 published_time으로 날짜 검증.",
+  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 3건. 미국 규제·가격 정책 담론이 중심이며 invidis(NJ 모라토리엄 심층 분석)·The Packer(신선식품 동적 마크다운)를 채택, 이후 보완으로 RTIH의 Vusion→In-Store Media 인수(RMN 확장) 기사 추가. 뉴욕주·NJ 다수 보도는 7/23~24 발행(전주 범위)이라 제외. **디버깅 메모:** RTIH를 SKILL 지침(`/home` 피드 직접 읽기)이 아닌 'Electronic shelf labels' 태그 페이지로 확인해 ESL 태그가 없는 Vusion 인수 기사(Acquisitions/Retail media 태그)를 1차에 놓침. 또한 3B의 RMN 전용 검색 쿼리(`\"retail media\" SOLUM OR Vusion OR Hanshow OR Pricer`)를 실행하지 않아 ESL 키워드 검색만으로는 미포착. 다음 주부터 RTIH는 `/home` 피드로 확인하고 RMN 쿼리를 반드시 실행할 것.",
   "sections": {
     "industryTrends": [
       {
@@ -16,7 +16,17 @@
     ],
     "customerAdoption": {},
     "majorCompanies": [],
-    "solutionProviders": [],
+    "solutionProviders": [
+      {
+        "title": "Vusion, 인스토어 리테일 미디어 기업 In-Store Media 인수…\"다음 대형 디지털 미디어는 오프라인 매장\"",
+        "summary": "• ESL 시장 1위 Vusion이 스페인 바르셀로나 소재 인스토어 리테일 미디어 전문기업 In-Store Media(ISM) 인수 계약을 체결했다. 거래 금액은 비공개이며, 규제 승인 등 통상적 종결 조건이 남아 있고 부채로 자금을 조달할 예정이다.\n• Thierry Gadou Vusion 회장 겸 CEO는 \"다음 대형 디지털 미디어는 오프라인 매장\"이라며, 리테일 미디어가 온라인 커머스 경제를 바꿨듯 다음 개척지는 대부분의 쇼퍼 트래픽과 구매 결정이 일어나는 매장이라고 강조했다.\n• Vusion의 커넥티드 스토어 플랫폼에 ISM의 실행 역량·소매업체/브랜드 관계를 결합해, 매장 트래픽을 측정 가능한 미디어 가치와 신규 수익원으로 전환하는 것이 목표다.\n• Vusion은 앞서 2026년 4월 Retail Technology Show(RTS) 2026 혁신상을 수상했으며, EdgeSense를 데이터와 오프라인 리테일이 수렴하는 지점으로 포지셔닝하고 있다.",
+        "implications": "[🔴 위협] 시장 1위 Vusion이 ESL을 넘어 인스토어 리테일 미디어(RMN)로 수직 확장하며, 단순 가격표 공급을 넘어 '매장 수익화 플랫폼' 사업자로 격차를 벌리고 있다. SOLUM의 하드웨어 중심 포지션에 전략적 위협이다. [⚡ 액션] SOLUM도 ESL·디지털 사이니지를 광고·리테일 미디어 수익 모델과 연계하는 RMN 전략과 파트너십/인수 옵션을 검토할 필요가 있다. [🔵 트렌드] ESL 공급사들의 사업 모델이 '가격 인프라'에서 '매장 미디어·데이터 플랫폼'으로 이동하는 흐름이 뚜렷해지고 있다.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/a01555ca-ef49-455a-98f3-f84490533b42/ISM.jpg",
+        "pubDate": "2026-07-27",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/27/the-next-big-digital-media-is-the-physical-store-says-vusion-as-it-makes-aquisition-announcement",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
     "technology": [
       {
         "title": "동적 마크다운 가격, 신선식품 마진을 지키는 열쇠로 부상",
