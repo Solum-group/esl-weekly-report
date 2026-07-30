@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-27",
   "weekLabel": "2026.07.27 ~ 2026.08.02",
-  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 3건. 미국 규제·가격 정책 담론이 중심이며 invidis(NJ 모라토리엄 심층 분석)·The Packer(신선식품 동적 마크다운)를 채택, 이후 보완으로 RTIH의 Vusion→In-Store Media 인수(RMN 확장) 기사 추가. 뉴욕주·NJ 다수 보도는 7/23~24 발행(전주 범위)이라 제외. **디버깅 메모:** RTIH를 SKILL 지침(`/home` 피드 직접 읽기)이 아닌 'Electronic shelf labels' 태그 페이지로 확인해 ESL 태그가 없는 Vusion 인수 기사(Acquisitions/Retail media 태그)를 1차에 놓침. 또한 3B의 RMN 전용 검색 쿼리(`\"retail media\" SOLUM OR Vusion OR Hanshow OR Pricer`)를 실행하지 않아 ESL 키워드 검색만으로는 미포착. 다음 주부터 RTIH는 `/home` 피드로 확인하고 RMN 쿼리를 반드시 실행할 것.",
+  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 3건. 미국 규제·가격 정책 담론이 중심이며 invidis(NJ 모라토리엄 심층 분석)·The Packer(신선식품 동적 마크다운)를 채택, 이후 보완으로 RTIH의 Vusion→In-Store Media 인수(RMN 확장) 기사 추가. 뉴욕주·NJ 다수 보도는 7/23~24 발행(전주 범위)이라 제외. **디버깅 메모:** RTIH를 SKILL 지침(`/home` 피드 직접 읽기)이 아닌 'Electronic shelf labels' 태그 페이지로 확인해 ESL 태그가 없는 Vusion 인수 기사(Acquisitions/Retail media 태그)를 1차에 놓침. 또한 3B의 RMN 전용 검색 쿼리(`\"retail media\" SOLUM OR Vusion OR Hanshow OR Pricer`)를 실행하지 않아 ESL 키워드 검색만으로는 미포착. 다음 주부터 RTIH는 `/home` 피드로 확인하고 RMN 쿼리를 반드시 실행할 것. **[보완 7/30]** 사용자 요청으로 모리슨스-인스타카트 '캐퍼 카트' 영국 최초 도입(7/29, 프레스턴) 1건 추가(+majorCompanies). 최초 수집 시 'smart trolley'·'Caper Cart'·'Instacart' 키워드 부재와 The Grocer JS 렌더링으로 미포착.",
   "sections": {
     "industryTrends": [
       {
@@ -15,7 +15,17 @@
       }
     ],
     "customerAdoption": {},
-    "majorCompanies": [],
+    "majorCompanies": [
+      {
+        "title": "모리슨스, 영국 최초 AI 스마트 트롤리 시범 도입…인스타카트 '캐퍼 카트' 프레스턴 매장 가동",
+        "summary": "• 영국 대형 슈퍼마켓 모리슨스가 미국 인스타카트(NASDAQ: CART)의 AI 스마트 쇼핑 트롤리 '캐퍼 카트(Caper Cart)'를 영국 최초로 프레스턴 리버스웨이(Riversway) 매장에 도입, 7월 29일 시범 운영을 시작했다.\n• 카트에는 4개의 엣지 AI 카메라와 내장 저울, 디지털 터치스크린이 탑재돼 상품을 담는 즉시 인식하고, 신선식품 무게 측정·실시간 지출 추적·셀프계산대 바코드 결제까지 지원한다. 초기 약 30대를 More Card 로열티 회원에게 제공한다.\n• 3개월간 시범 운영 후 확대 여부를 결정하며, 모리슨스는 테스코·세인즈버리·웨이트로즈가 쓰는 핸드헬드 스캔 방식의 대안으로 이 기술을 본다.\n• 캐퍼 카트 스크린은 실시간 맞춤 프로모션·상품 추천을 노출하는 '인아일(in-aisle) 리테일 미디어 접점'으로, 소매업체에 신규 광고 수익화·객단가 상승 기회를 제공한다. 현재 미국 15개 주 약 100개 도시(Coles·Kroger·Schnucks·Wakefern 등)에 배치돼 있다.",
+        "implications": "[🔵 트렌드] 스마트 카트가 가격·프로모션을 표시하는 매장 내 디지털 접점으로 부상하며, ESL과 함께 '매장 디지털화·인스토어 미디어' 경쟁이 셸프를 넘어 카트로 확산되고 있다. [🔴 위협] 카트 스크린이 ESL의 프로모션·가격 커뮤니케이션 역할 일부를 대체·보완할 수 있어, 인스토어 미디어 수익화 주도권 경쟁이 심화된다. [⚡ 액션] SOLUM은 ESL·전자라벨을 스마트 카트/셀프체크아웃 스크린과 통합하는 리테일 미디어 시나리오와 파트너십을 검토해 매장 디지털 접점 전반을 아우르는 포지셔닝을 강화할 필요가 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-07-29",
+        "sourceUrl": "https://www.thegrocer.co.uk/news/morrisons-kicks-off-uk-first-ai-smart-trolley-trial/721841.article",
+        "sourceName": "The Grocer"
+      }
+    ],
     "solutionProviders": [
       {
         "title": "Vusion, 인스토어 리테일 미디어 기업 In-Store Media 인수…\"다음 대형 디지털 미디어는 오프라인 매장\"",
