@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-27",
   "weekLabel": "2026.07.27 ~ 2026.08.02",
-  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 3건. 미국 규제·가격 정책 담론이 중심이며 invidis(NJ 모라토리엄 심층 분석)·The Packer(신선식품 동적 마크다운)를 채택, 이후 보완으로 RTIH의 Vusion→In-Store Media 인수(RMN 확장) 기사 추가. 뉴욕주·NJ 다수 보도는 7/23~24 발행(전주 범위)이라 제외. **디버깅 메모:** RTIH를 SKILL 지침(`/home` 피드 직접 읽기)이 아닌 'Electronic shelf labels' 태그 페이지로 확인해 ESL 태그가 없는 Vusion 인수 기사(Acquisitions/Retail media 태그)를 1차에 놓침. 또한 3B의 RMN 전용 검색 쿼리(`\"retail media\" SOLUM OR Vusion OR Hanshow OR Pricer`)를 실행하지 않아 ESL 키워드 검색만으로는 미포착. 다음 주부터 RTIH는 `/home` 피드로 확인하고 RMN 쿼리를 반드시 실행할 것. **[보완 7/30]** 사용자 요청으로 모리슨스-인스타카트 '캐퍼 카트' 영국 최초 도입(7/29, 프레스턴) 1건 추가(+majorCompanies). 최초 수집 시 'smart trolley'·'Caper Cart'·'Instacart' 키워드 부재와 The Grocer JS 렌더링으로 미포착.",
+  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 3건. 미국 규제·가격 정책 담론이 중심이며 invidis(NJ 모라토리엄 심층 분석)·The Packer(신선식품 동적 마크다운)를 채택, 이후 보완으로 RTIH의 Vusion→In-Store Media 인수(RMN 확장) 기사 추가. 뉴욕주·NJ 다수 보도는 7/23~24 발행(전주 범위)이라 제외. **디버깅 메모:** RTIH를 SKILL 지침(`/home` 피드 직접 읽기)이 아닌 'Electronic shelf labels' 태그 페이지로 확인해 ESL 태그가 없는 Vusion 인수 기사(Acquisitions/Retail media 태그)를 1차에 놓침. 또한 3B의 RMN 전용 검색 쿼리(`\"retail media\" SOLUM OR Vusion OR Hanshow OR Pricer`)를 실행하지 않아 ESL 키워드 검색만으로는 미포착. 다음 주부터 RTIH는 `/home` 피드로 확인하고 RMN 쿼리를 반드시 실행할 것. **[보완 7/30]** 사용자 요청으로 모리슨스-인스타카트 '캐퍼 카트' 영국 최초 도입(7/29, 프레스턴) 1건 추가(+majorCompanies). 최초 수집 시 'smart trolley'·'Caper Cart'·'Instacart' 키워드 부재와 The Grocer JS 렌더링으로 미포착. **8월 3일(월) 보완:** 목·금·주말(7/30~8/2) 신규 1건 추가—Vusion 2026 상반기 실적(7/30 발표, IFRS 매출 €820m·+34%, VAS +39%·반복 VAS +73%, VusionCloud 연결 ESL 5억 개 돌파, 관세 환급 ~$60M, 연간 가이던스 재확인). 월요일(8/3) 발행 신규 기사는 없어 신규 주차 파일은 생성하지 않음. Hanshow-Microsoft 전략적 파트너십(7/15)·Pricer Q2 실적(7/16)은 보완 범위(목~일) 밖이라 제외.",
   "sections": {
     "industryTrends": [
       {
@@ -35,6 +35,15 @@
         "pubDate": "2026-07-27",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/27/the-next-big-digital-media-is-the-physical-store-says-vusion-as-it-makes-aquisition-announcement",
         "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Vusion, 2026 상반기 매출 €820m(+34%)…VusionCloud 연결 ESL 5억 개 돌파·연간 가이던스 재확인",
+        "summary": "• ESL 시장 1위 Vusion이 7월 30일 2026년 상반기(H1) 실적을 발표, IFRS 매출 €820m(+34%), 조정 기준 €839m(+29%, 환율·관세 불변 시 +37%)로 창사 이래 최고 반기 실적을 기록했다. EMEA(+6%)와 아메리카·APAC(+39%) 전 지역이 성장했다.\n• 소프트웨어·서비스(VAS) 매출은 €125m(+39%)이며 이 중 반복 매출이 €61m(+73%)로 급증했다. VusionCloud 연결 ESL 설치 기반은 5.22억 개로 '5억 개' 상징적 이정표를 돌파했다(전년 동기 2.2억 개).\n• 상반기 수주는 €681m로 전년 대비 22% 감소(2025년 월마트 대형 수주의 역기저 효과)했으나, 2분기 수주는 전년比 +7%·전분기比 +16%로 회복세다. 상반기 중 Carrefour(2월, 프랑스 전 점포·유럽 3년 독점)·Walmex·JYSK·Decathlon·Gratis 등 신규 계약이 이어졌다.\n• 미 대법원의 관세 무효 결정으로 7월 중 약 6천만 달러의 관세 환급을 수령(연간 최대 8천만 달러 예상). 2026년 가이던스(조정 매출 +15~20%, VAS ~+40%, 조정 EBITDA 마진 100bp+ 개선)를 재확인했으며, 7월 27일 발표한 In-Store Media(ISM) 인수도 리테일 미디어 축으로 재확인했다.",
+        "implications": "[🔴 위협] 시장 1위 Vusion이 반기 €800m대 매출과 5억 개 클라우드 연결 기반, 리테일 미디어 인수까지 더하며 하드웨어 공급을 넘어 '매장 데이터·미디어 플랫폼'으로 격차를 벌리고 있다. SOLUM은 규모·소프트웨어 반복매출 격차 확대에 대한 대응 전략이 필요하다. [🔵 트렌드] 성장 동력이 ESL 단품이 아니라 VAS(클라우드·컴퓨터비전·리테일 미디어)의 반복매출로 이동하고 있음이 수치(반복 VAS +73%)로 확인된다. [⚡ 액션] SOLUM은 VusionCloud에 대응하는 클라우드·SaaS 반복매출 모델과 컴퓨터비전(Captana 대비) 라인업을 강화하고, 관세 환급·월마트 대규모 레퍼런스가 만드는 미국 시장 모멘텀에 대비한 진입 전략을 재점검할 필요가 있다.",
+        "imageUrl": "https://www.vusion.com/wp-content/uploads/2024/01/Vusion_dark_V.png",
+        "pubDate": "2026-07-30",
+        "sourceUrl": "https://www.vusion.com/newsroom/first-semester-2026-sales-strong-revenue-growth-first-semester-strategic-acquisition-retail-media-full-year-guidance-confirmed/",
+        "sourceName": "Vusion"
       }
     ],
     "technology": [
