@@ -1,0 +1,42 @@
+{
+  "weekId": "2026-08-03",
+  "weekLabel": "2026.08.03 ~ 2026.08.09",
+  "searchAnalysis": "**08월 06일(목) 수집:** 주간(08.03~08.06) 기사 3건—규제(미국 감시가격·전자라벨 입법 확산) 1, 기술(Focal Systems 컴퓨터 비전 재고) 1, 주요 유통사(B&M POS 전면 교체) 1. [커버리지] RTIH=방문·2건(Focal 8/4, B&M 8/3) / SOLUM·Hanshow·Pricer·Vusion·ZKONG=범위 내 신규 무기사 / ESM·Retail Optimiser=방문·범위 내 신규 없음 / Digitimes·Grocery Dive·Retail Dive=방문·범위 내 신규 없음. [3.6-G Provenance] 스케줄 실행 환경에서 WebFetch가 provenance로 전면 차단돼 WebSearch 스니펫 기반으로 발행일 검증·수집(각 기사 summary에 표기). [STALE] 해당 없음. [감사] site: 열거 교차대조—범위 내 미수집 0건 확인. 참고: Vusion H1 실적(7/30)·HomeBase-Simbe 체인와이드(7/29)·Grocery TV-Esri(7/29)·NJ Fair Price Protection Act 서명(7/23)은 모두 전주(≤08.02)라 이번 주 범위 밖으로 제외.",
+  "sections": {
+    "industryTrends": [
+      {
+        "title": "미국 '감시가격' 규제 급물살—상원 청문회 개최, 16개 주에 전자 가격표 규제 법안 28건 계류",
+        "summary": "• 2026년 8월 4일 미 상원 법사위 산하 소위가 'Your Data, Their Profit: The Consumer Cost of AI Surveillance Pricing' 청문회를 열어 AI 기반 개인화·감시가격의 소비자 부담을 다룸.\n• Holland & Knight의 8월 5일 법률 분석에 따르면 현재 24개 주 이상에 감시가격 관련 법안 40건 이상, 16개 주에 전자 가격표(digital shelf label) 규제 법안 28건이 계류돼 규제 지형이 급격히 다층화·분절화되고 있음.\n• 앞서 뉴저지가 7월 23일 Fair Price Protection Act 서명으로 전국 최초 ESL 신규 설치 1년 모라토리엄(2027.2.1 발효)을 도입했고, 메릴랜드·코네티컷도 유사한 다이내믹 프라이싱 규제를 시행.\n• FTC의 개인화 가격 공시 관련 ANPR(2026.4)과 주 법무장관들의 기존 소비자보호법 활용이 겹치며, 다주(多州) 사업자에 대한 컴플라이언스 부담이 커지고 있음.\n*(검색 스니펫 기반)*",
+        "implications": "[🔴 위협] 미국 내 ESL 규제 입법이 주 단위로 확산되며 신규 설치 모라토리엄·다이내믹 프라이싱 금지가 SOLUM 등 공급사의 미국 시장 확대에 직접적 리스크로 작용. 다만 규제의 표적은 '개인화·감시가격'이지 ESL 기술 자체 금지가 아니므로, '가격 정확성·노동 절감·종이 폐기물 감축' 등 소비자 편익 메시지와 개인화 미연동형(규제 준수) 솔루션 포지셔닝으로 방어 가능. [⚡ 액션] 16개 주 계류 법안을 상시 트래킹하고, 규제 준수 레퍼런스·FAQ를 사전 마련해 영업 리스크에 대비 권장.",
+        "imageUrl": "",
+        "pubDate": "2026-08-05",
+        "sourceUrl": "https://www.hklaw.com/en/insights/publications/2026/08/surveillance-pricing-and-dynamic-pricing-what-general-counsels",
+        "sourceName": "Holland & Knight"
+      }
+    ],
+    "customerAdoption": {},
+    "majorCompanies": [
+      {
+        "title": "英 밸류 리테일러 B&M, 790여 개 전 매장 POS 교체 완료—PMC와 협력",
+        "summary": "• 영국 밸류 리테일러 B&M이 리테일 기술 파트너 PMC와 협력해 790개 이상 전 매장에 하드웨어·소프트웨어를 아우르는 신규 POS(계산대) 시스템 배치를 완료함(RTIH, 8월 3일).\n• 매장 결제·계산대 인프라를 전면 현대화하는 프로젝트로, 대형 오프라인 리테일러의 매장 디지털화 투자 흐름의 일부.\n• POS 등 매장 IT 인프라 교체는 통상 전자 셸프 엣지(ESL)·매장 실행 자동화 도입과 병행되거나 선행하는 신호로 읽힘.\n*(검색 스니펫 기반)*",
+        "implications": "[🔵 트렌드] POS 등 매장 IT 인프라 현대화 투자는 ESL·전자 셸프 엣지 도입의 선행/병행 지표로, 리테일러의 매장 디지털화 CAPEX가 지속되고 있음을 보여줌. [🟢 기회] 인프라 교체·현대화 사이클 시점에 ESL·인스토어 리테일 미디어를 번들로 제안할 여지가 있어, SOLUM은 이런 매장 현대화 프로젝트를 겨냥한 채널·파트너십 전략을 검토할 가치가 있음.",
+        "imageUrl": "",
+        "pubDate": "2026-08-03",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/3/value-retailer-bandm-wraps-point-of-sale-roll-out-across-790-uk-stores-in-partnership-with-pmc",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
+    "solutionProviders": [],
+    "technology": [
+      {
+        "title": "Focal Systems, 선반 위 재고까지 보는 컴퓨터 비전 모듈 'Top Stock' 출시—Village Super Market 파일럿서 재고 $2.4만 발굴·감사 노동 75%↓",
+        "summary": "• 컴퓨터 비전·셸프 인텔리전스 기업 Focal Systems가 매장 직원의 사다리·수기 스캔·감사 없이 '선반 상단(top stock)' 재고를 시간 단위로 자동 파악하는 모듈 'Top Stock'을 발표함(RTIH, 8월 4일).\n• Village Super Market 1개월 파일럿에서 그동안 미집계됐던 재고 $24,000을 발굴·회수했고, 주간 감사 노동을 4시간→1시간으로 75% 절감, 온셸프 가용성은 기존 97% 기준에서 추가 1%p 개선.\n• 기존 Focal 'Action Tool'과 연동해 매장별 top stock 위치를 매핑하고, 케이스(카톤) 단위로 진열이 가능할 때만 보충 작업을 지시해 불필요한 노동을 최소화.\n• 컴퓨터 비전·셸프 스캔이 ESL과 함께 '매장 실행(store execution)' 자동화 스택으로 통합되는 흐름을 보여주는 사례.\n*(검색 스니펫 기반)*",
+        "implications": "[🔵 트렌드] 온셸프 가용성·재고 정확성을 겨냥한 컴퓨터 비전 솔루션이 ESL 인접 영역에서 빠르게 성장하며, 셸프 엣지 하드웨어(ESL)와 셸프 인텔리전스(비전)가 하나의 매장 실행 플랫폼으로 수렴 중. [🟢 기회] SOLUM은 ESL을 재고 카메라·컴퓨터 비전(예: Captana형 셸프 카메라)·리테일 미디어와 묶은 통합 매장 실행 플랫폼으로 확장해 Vusion·Focal·Simbe 대비 차별화된 번들 가치를 제안할 필요가 있음.",
+        "imageUrl": "",
+        "pubDate": "2026-08-04",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/4/village-super-market-tests-out-new-focal-systems-computer-vision-powered-inventory-technology",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ]
+  }
+}
