@@ -1,7 +1,7 @@
 {
   "weekId": "2026-07-27",
   "weekLabel": "2026.07.27 ~ 2026.08.02",
-  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 3건. 미국 규제·가격 정책 담론이 중심이며 invidis(NJ 모라토리엄 심층 분석)·The Packer(신선식품 동적 마크다운)를 채택, 이후 보완으로 RTIH의 Vusion→In-Store Media 인수(RMN 확장) 기사 추가. 뉴욕주·NJ 다수 보도는 7/23~24 발행(전주 범위)이라 제외. **디버깅 메모:** RTIH를 SKILL 지침(`/home` 피드 직접 읽기)이 아닌 'Electronic shelf labels' 태그 페이지로 확인해 ESL 태그가 없는 Vusion 인수 기사(Acquisitions/Retail media 태그)를 1차에 놓침. 또한 3B의 RMN 전용 검색 쿼리(`\"retail media\" SOLUM OR Vusion OR Hanshow OR Pricer`)를 실행하지 않아 ESL 키워드 검색만으로는 미포착. 다음 주부터 RTIH는 `/home` 피드로 확인하고 RMN 쿼리를 반드시 실행할 것. **[보완 7/30]** 사용자 요청으로 모리슨스-인스타카트 '캐퍼 카트' 영국 최초 도입(7/29, 프레스턴) 1건 추가(+majorCompanies). 최초 수집 시 'smart trolley'·'Caper Cart'·'Instacart' 키워드 부재와 The Grocer JS 렌더링으로 미포착. **8월 3일(월) 보완:** 목·금·주말(7/30~8/2) 신규 1건 추가—Vusion 2026 상반기 실적(7/30 발표, IFRS 매출 €820m·+34%, VAS +39%·반복 VAS +73%, VusionCloud 연결 ESL 5억 개 돌파, 관세 환급 ~$60M, 연간 가이던스 재확인). 월요일(8/3) 발행 신규 기사는 없어 신규 주차 파일은 생성하지 않음. Hanshow-Microsoft 전략적 파트너십(7/15)·Pricer Q2 실적(7/16)은 보완 범위(목~일) 밖이라 제외. **[재조사 8/3]** 정본 SKILL.md를 리포에 미러링 후 전체 방법론(2.5 뉴스룸 순회·RTIH 전용 경로·리테일 로봇/재고관리 블록)으로 재점검. [감사] RTIH 7/30 주간 라운드업에서 HomeBase USA→Simbe 'Tally' 셸프 스캐닝 로봇 전점 확대(7/29, 가격오류 92%↓·결품 58%↓) 1건 추가 포착(→technology). 최초 보완이 축소 폴백 SKILL(뉴스룸 순회·로봇/재고 블록 부재)로 실행돼 RTIH 라운드업·인접 로봇 기사를 놓친 것이 원인. 라운드업 내 M&S 전기트럭·Butlin's·Starship 소송·Coach·Kiehl's 스마트미러는 ESL 인접성 낮아 제외.",
+  "searchAnalysis": "**7월 30일(목) 수집:** 주간 기사 3건. 미국 규제·가격 정책 담론이 중심이며 invidis(NJ 모라토리엄 심층 분석)·The Packer(신선식품 동적 마크다운)를 채택, 이후 보완으로 RTIH의 Vusion→In-Store Media 인수(RMN 확장) 기사 추가. 뉴욕주·NJ 다수 보도는 7/23~24 발행(전주 범위)이라 제외. **디버깅 메모:** RTIH를 SKILL 지침(`/home` 피드 직접 읽기)이 아닌 'Electronic shelf labels' 태그 페이지로 확인해 ESL 태그가 없는 Vusion 인수 기사(Acquisitions/Retail media 태그)를 1차에 놓침. 또한 3B의 RMN 전용 검색 쿼리(`\"retail media\" SOLUM OR Vusion OR Hanshow OR Pricer`)를 실행하지 않아 ESL 키워드 검색만으로는 미포착. 다음 주부터 RTIH는 `/home` 피드로 확인하고 RMN 쿼리를 반드시 실행할 것. **[보완 7/30]** 사용자 요청으로 모리슨스-인스타카트 '캐퍼 카트' 영국 최초 도입(7/29, 프레스턴) 1건 추가(+majorCompanies). 최초 수집 시 'smart trolley'·'Caper Cart'·'Instacart' 키워드 부재와 The Grocer JS 렌더링으로 미포착. **8월 3일(월) 보완:** 목·금·주말(7/30~8/2) 신규 1건 추가—Vusion 2026 상반기 실적(7/30 발표, IFRS 매출 €820m·+34%, VAS +39%·반복 VAS +73%, VusionCloud 연결 ESL 5억 개 돌파, 관세 환급 ~$60M, 연간 가이던스 재확인). 월요일(8/3) 발행 신규 기사는 없어 신규 주차 파일은 생성하지 않음. Hanshow-Microsoft 전략적 파트너십(7/15)·Pricer Q2 실적(7/16)은 보완 범위(목~일) 밖이라 제외. **[재조사 8/3]** 정본 SKILL.md를 리포에 미러링 후 전체 방법론(2.5 뉴스룸 순회·RTIH 전용 경로·리테일 로봇/재고관리 블록)으로 재점검. [감사] RTIH 7/30 주간 라운드업에서 HomeBase USA→Simbe 'Tally' 셸프 스캐닝 로봇 전점 확대(7/29, 가격오류 92%↓·결품 58%↓) 1건 추가 포착(→technology). 최초 보완이 축소 폴백 SKILL(뉴스룸 순회·로봇/재고 블록 부재)로 실행돼 RTIH 라운드업·인접 로봇 기사를 놓친 것이 원인. 라운드업 내 M&S 전기트럭·Butlin's·Starship 소송·Coach·Kiehl's 스마트미러는 ESL 인접성 낮아 제외. [소급 07/29 추가] Grocery TV–Esri 인스토어 리테일 미디어 데이터 타깃팅 파트너십 — 2026-08-06 run에서 신규 규칙(과거 미수집분 소급 반영)에 따라 뒤늦게 포착·추가.",
   "sections": {
     "industryTrends": [
       {
@@ -64,6 +64,15 @@
         "pubDate": "2026-07-29",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/7/29/homebase-usa-opts-to-deploy-simbe-store-intelligence-technology-chainwide-following-pilot-success",
         "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Grocery TV, Esri와 손잡고 인스토어 리테일 미디어에 '데이터 기반 타깃팅' 도입",
+        "summary": "• 인스토어 리테일 미디어 플랫폼 Grocery TV가 지리정보(GIS) 기업 Esri와 파트너십을 맺고, 전국 리테일러 소유 네트워크 6,700여 개 매장에 행동·심리 기반 타깃팅을 강화한다고 발표(7월 29일).\n• Esri의 'Market Potential' 데이터셋을 통해 자동차·금융·건강/웰니스·통신·CPG 등 3,500개 이상의 오디언스 속성을 광고 플래닝에 반영, 광고주가 '배치'가 아닌 '오디언스' 기준으로 매장 리스트를 구성할 수 있게 됨.\n• Grocery TV는 120개 이상 리테일 파트너, 9,500만 명 고유 쇼퍼에 도달하며, 인스토어 미디어가 광범위 인구통계에서 디지털·TV 수준의 정밀 타깃팅으로 진화하는 흐름을 보여줌.\n*(검색 스니펫 기반)*",
+        "implications": "[🔵 트렌드] 인스토어 리테일 미디어(디지털 사이니지)가 데이터 기반 오디언스 타깃팅으로 고도화되며 매장 수익화 경쟁이 심화. [🟢 기회] SOLUM은 ESL·전자 셸프 엣지를 인스토어 미디어 인벤토리(셸프 엣지 광고·오디언스 데이터)와 연계해, Grocery TV·Vusion(In-Store Media 인수)과 차별화된 '셸프 엣지 기반 리테일 미디어' 가치를 제안할 여지가 있음.",
+        "imageUrl": "",
+        "pubDate": "2026-07-29",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/grocery-tv-and-esri-partner-to-bring-data-driven-media-planning-to-in-store-retail-media-302837240.html",
+        "sourceName": "PR Newswire (Grocery TV)"
       }
     ]
   }
