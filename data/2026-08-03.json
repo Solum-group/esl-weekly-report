@@ -1,7 +1,7 @@
 {
   "weekId": "2026-08-03",
   "weekLabel": "2026.08.03 ~ 2026.08.09",
-  "searchAnalysis": "**08월 06일(목) 수집:** 주간(08.03~08.06) 기사 3건—규제(미국 감시가격·전자라벨 입법 확산) 1, 기술(Focal Systems 컴퓨터 비전 재고) 1, 주요 유통사(B&M POS 전면 교체) 1. [커버리지] RTIH=방문·2건(Focal 8/4, B&M 8/3) / SOLUM·Hanshow·Pricer·Vusion·ZKONG=범위 내 신규 무기사 / ESM·Retail Optimiser=방문·범위 내 신규 없음 / Digitimes·Grocery Dive·Retail Dive=방문·범위 내 신규 없음. [3.6-G Provenance] 스케줄 실행 환경에서 WebFetch가 provenance로 전면 차단돼 WebSearch 스니펫 기반으로 발행일 검증·수집(각 기사 summary에 표기). [STALE] 해당 없음. [감사] site: 열거 교차대조—범위 내 미수집 0건 확인. 참고(소급 라우팅): 전주 발행분은 pubDate 주차로 라우팅—Vusion H1 실적(7/30)·HomeBase-Simbe 체인와이드(7/29)·Vusion In-Store Media 인수(7/27)는 이미 2026-07-27.json에 존재, NJ Fair Price Protection Act(7/23)는 2026-07-20.json에 존재. Grocery TV-Esri(7/29)는 미수집 신규로 확인돼 신규 규칙에 따라 2026-07-27.json에 소급 추가함.",
+  "searchAnalysis": "**08월 06일(목) 수집:** 주간(08.03~08.06) 기사 3건—규제(미국 감시가격·전자라벨 입법 확산) 1, 기술(Focal Systems 컴퓨터 비전 재고) 1, 주요 유통사(B&M POS 전면 교체) 1. [커버리지] RTIH=방문·2건(Focal 8/4, B&M 8/3) / SOLUM·Hanshow·Pricer·Vusion·ZKONG=범위 내 신규 무기사 / ESM·Retail Optimiser=방문·범위 내 신규 없음 / Digitimes·Grocery Dive·Retail Dive=방문·범위 내 신규 없음. [3.6-G Provenance] 스케줄 실행 환경에서 WebFetch가 provenance로 전면 차단돼 WebSearch 스니펫 기반으로 발행일 검증·수집(각 기사 summary에 표기). [STALE] 해당 없음. [감사] site: 열거 교차대조—범위 내 미수집 0건 확인. 참고(소급 라우팅): 전주 발행분은 pubDate 주차로 라우팅—Vusion H1 실적(7/30)·HomeBase-Simbe 체인와이드(7/29)·Vusion In-Store Media 인수(7/27)는 이미 2026-07-27.json에 존재, NJ Fair Price Protection Act(7/23)는 2026-07-20.json에 존재. Grocery TV-Esri(7/29)는 미수집 신규로 확인돼 신규 규칙에 따라 2026-07-27.json에 소급 추가함. | **08월 10일(월) 보완 수집:** 전주 마감분(08.06~08.09) 및 미수집 신규 4건 추가—규제(상원 AI 감시가격 청문회 후속·호울리 법안 예고) 1, 산업(아홀드 델하이즈 자동화 물류 계획 철회) 1, 주요 유통사(모리슨스 Everseen 셀프계산대 컴퓨터 비전 200개점) 1, 기술(알버슨스 ChatGPT Safeway 플러그인) 1. [커버리지] RTIH=site: 열거·방문(8월 기사 전수 확인) / Grocery Dive=원문 fetch 성공·발행일 메타 검증 / SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사 / ESM·Retail Optimiser·Retail Detail=범위 내 신규 없음 / 한국어·중국어·일본어 키워드=범위 내 신규 없음. [3.6-G Provenance] WebFetch가 SKILL.md 미등록 URL(Google News RSS 쿼리형·Vusion/Pricer 뉴스룸)에서 전면 차단돼 WebSearch 언락 후 개별 기사 원문 fetch 경로로 우회. [감사] RTIH 8월 site: 열거 교차대조—범위 내 미수집 0건 확인(Asda-Auror 8/4 기사는 4월 전사 확대 발표와 발행일 상충으로 보류).",
   "sections": {
     "industryTrends": [
       {
@@ -12,6 +12,24 @@
         "pubDate": "2026-08-05",
         "sourceUrl": "https://www.hklaw.com/en/insights/publications/2026/08/surveillance-pricing-and-dynamic-pricing-what-general-counsels",
         "sourceName": "Holland & Knight"
+      },
+      {
+        "title": "미 상원 'AI 감시가격' 청문회 후폭풍—호울리 의원 독자 규제법안 예고, FMI \"소비자 신뢰가 관건\"",
+        "summary": "• 미 상원 법사위 범죄·대테러 소위가 8월 4일 개최한 'AI 감시가격' 청문회 이후 식품 유통업계의 가격 책정 관행에 대한 연방 차원 압박이 본격화됐다고 Grocery Dive가 8월 7일 보도.\n• 소위원장 조시 호울리(공화·미주리) 의원은 \"AI 업계와 거대 기업의 결탁은 미국 역사상 최대 사기 중 하나\"라며 감시가격을 '스파이·바가지·일자리 박탈의 삼위일체'로 규정했고, 청문회 직후 자체 감시가격 규제법안 발의를 예고.\n• 증인으로는 UFCW 정책 전문가와 前 Visa 최고데이터책임자가 출석해 기업이 소비자 데이터를 수집·매매·분석해 개인별 가격을 결정하는 구조를 지적.\n• 연방 차원의 One Fair Price Act, No Rigged Grocery Prices Act, Stop Price Gouging in Grocery Stores Act는 아직 진전이 없는 상태이며, FMI(식품산업협회)는 ESL 옹호 입장을 유지하면서도 \"소비자 신뢰 유지가 최우선\"이라는 성명을 발표.",
+        "implications": "[🔴 위협] 주(州) 단위를 넘어 연방 입법·청문회로 규제 논의가 확산되면서 ESL이 '감시가격 인프라'로 프레이밍될 리스크가 커짐. 특히 여야를 막론한 정치적 공감대가 형성되고 있다는 점이 구조적 위협. [⚡ 액션] SOLUM은 ESL을 '개인별 차등가격 도구'가 아닌 '가격 정확성·노동 절감·전 고객 동일가격'으로 명확히 포지셔닝하는 커뮤니케이션 자료를 미국 영업 채널에 배포하고, FMI 등 업계 단체의 대응 논리와 보조를 맞출 필요가 있음.",
+        "imageUrl": "https://imgproxy.divecdn.com/oFhfMab3hdiIWPwashiNkQLi-PwNmkJSa9My51Ogc1s/g:nowe:0:328/c:3200:1807/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg0OTU5NTg5X1FycDQwMzUuanBn.webp",
+        "pubDate": "2026-08-07",
+        "sourceUrl": "https://www.grocerydive.com/news/the-friday-checkout-senate-hearing-artificial-intelligence-surveillance-pr/827315/",
+        "sourceName": "Grocery Dive"
+      },
+      {
+        "title": "아홀드 델하이즈, 자동화 냉동물류센터 2곳 계획 철회—Americold 3억 달러대 손상차손",
+        "summary": "• 아홀드 델하이즈 USA(ADUSA)와 콜드체인 물류기업 Americold가 7월 21일 합의를 통해 펜실베이니아 랭커스터 물류센터 운영을 종료하고 코네티컷 플레인빌 신설 계획을 중단하기로 했다고 Americold의 SEC 공시를 인용해 Grocery Dive가 8월 5일 보도.\n• 랭커스터는 2026년 12월 31일까지 단계적 종료(상호 합의 시 6개월 연장 가능), 플레인빌은 즉시 유휴화되며, Americold는 두 시설에 대해 약 3.05억~3.20억 달러 규모 비현금 손상차손을 인식할 예정.\n• 두 시설은 2020년 양사가 발표한 완전자동화 냉동창고 계획의 일부로, 아홀드 델하이즈의 자체 물류(self-distribution) 전환 전략의 핵심이었음.\n• 다만 ADUSA는 2025년 10월 노스캐롤라이나 벌링턴에 8.6억 달러 규모 자동화 물류센터 투자를 발표했고 2029년 가동 예정이어서, 자동화 자체를 포기한 것은 아님.",
+        "implications": "[🔵 트렌드] 대형 유통사의 자동화 CAPEX가 무조건 확대되는 국면에서 '선별적 재조정' 국면으로 넘어가고 있음을 보여주는 신호. 초대형 자동화 물류 투자는 회수기간·운영 난이도 문제로 재검토되는 반면, 매장 단(ESL·셸프 비전)처럼 투자 규모가 작고 ROI 회수가 빠른 기술은 상대적으로 우위. [🟢 기회] SOLUM은 ESL의 '저CAPEX·빠른 ROI(라벨 교체 노동 절감, 가격 정확성)' 논리를 물류 자동화 대비 강점으로 부각해 예산 재배분 국면을 공략할 수 있음.",
+        "imageUrl": "https://imgproxy.divecdn.com/alcARBITT_2289PxEuZRqIgqEOzUeqnEyk3Thpdhnjk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mb29kLWxpb24tc3RvcmUtZXh0ZXJpb3IuanBn.webp",
+        "pubDate": "2026-08-05",
+        "sourceUrl": "https://www.grocerydive.com/news/ahold-delhaize-americold-warehouse-automated-facility-distribution/827008/",
+        "sourceName": "Grocery Dive"
       }
     ],
     "customerAdoption": {},
@@ -23,6 +41,15 @@
         "imageUrl": "",
         "pubDate": "2026-08-03",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/3/value-retailer-bandm-wraps-point-of-sale-roll-out-across-790-uk-stores-in-partnership-with-pmc",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "英 모리슨스, 200개 매장 셀프계산대에 Everseen 컴퓨터 비전 도입—미스캔 실시간 감지",
+        "summary": "• 모리슨스가 Everseen의 AI 컴퓨터 비전 솔루션 'Evercheck'를 200개 매장 셀프계산대에 도입한다고 8월 6일 발표, 영국 슈퍼마켓 중 최초의 대규모 배치.\n• 머리 위 카메라가 스캔된 품목과 장바구니에 실제로 담긴 품목을 실시간 대조해 미스캔이 감지되면 화면에 해당 장면 영상을 재생하고 재시도를 요청하는 방식.\n• 신선 농산물 시각 인식 정확도를 앞세워 고객이 품목을 수동 선택할 필요를 줄이고, 양파를 골라 아보카도를 담는 식의 저가 품목 대체 입력도 차단.\n• Everseen 솔루션은 현재 전 세계 1만여 매장·15만여 계산대에 배치돼 있으며 크로거·울워스 호주·마이어 등 글로벌 톱20 유통사 중 11곳이 사용 중.\n*(RTIH·The Grocer 보도 기반)*",
+        "implications": "[🔵 트렌드] 매장 내 컴퓨터 비전이 셸프(재고·플래노그램)를 넘어 계산대(손실 방지·체크아웃 경험)로 확산되며, 매장 전체가 하나의 비전 데이터 레이어로 묶이는 흐름. [🟢 기회] SOLUM은 ESL·셸프 카메라·사이니지를 통합한 SSP(Store Platform) 관점에서 '셸프-체크아웃 연계 데이터'를 제안할 여지가 있으며, 특히 ESL 가격 데이터와 계산대 스캔 데이터의 정합성 검증은 차별화 포인트가 될 수 있음. [🔴 위협] Everseen·Focal 같은 비전 전문 업체가 매장 실행 플랫폼 헤게모니를 먼저 잡으면 ESL 공급사는 하드웨어 공급자로 격하될 위험.",
+        "imageUrl": "",
+        "pubDate": "2026-08-06",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/6/retail-technology-innovation-of-the-week-morrisons-boosts-checkout-experience-with-everseen-platform",
         "sourceName": "Retail Technology Innovation Hub"
       }
     ],
@@ -36,6 +63,15 @@
         "pubDate": "2026-08-04",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/4/village-super-market-tests-out-new-focal-systems-computer-vision-powered-inventory-technology",
         "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "알버슨스, ChatGPT에 'Safeway 플러그인' 출시—대화형 AI가 장바구니를 만든다",
+        "summary": "• 알버슨스가 8월 5일 ChatGPT용 Safeway 플러그인을 발표, 고객이 '@Safeway'를 입력한 뒤 \"주간 장보기 목록 재주문\"·\"4인 파스타 저녁 준비\" 같은 프롬프트로 상품을 탐색하고 장바구니를 구성할 수 있게 됨(결제는 Safeway 플랫폼으로 이동).\n• 이는 알버슨스가 연초 제시한 2026년 4대 AI 우선순위 중 '디지털 고객 경험 강화'의 연장선으로, 기존 AI 쇼핑 어시스턴트·Ask AI 기반 위에 구축됨.\n• Dunnhumby의 2026년 2월 소비자 트렌드 조사에서 미국 소비자의 15%가 이미 ChatGPT 등 AI 도구를 장보기에 활용한다고 응답했으며, 쇼핑 리스트 작성과 가격 비교가 주요 용도.\n• 알버슨스는 지난 2월 OpenAI의 대화형 광고 포맷 파일럿에도 참여했고, 2025년 12월에는 자체 에이전틱 AI 쇼핑 어시스턴트를 전 배너 웹사이트에 출시한 바 있음.",
+        "implications": "[🔵 트렌드] 상품 탐색의 진입점이 유통사 앱·웹에서 범용 AI 챗봇으로 이동하는 '에이전틱 커머스' 국면. 온라인 여정이 AI로 흡수될수록 오프라인 매장의 차별화 축은 '실물 경험·즉시성·매장 내 정보 밀도'로 이동한다. [🟢 기회] SOLUM 관점에서 ESL·전자 셸프 엣지는 오프라인에서 AI가 만든 리스트를 실제 매대로 연결하는 접점(픽킹·내비게이션·재고 표시)이 될 수 있어, 'AI 리스트 → 매장 내 상품 위치 안내' 유스케이스를 SSP에 결합할 여지가 큼. [⚡ 액션] ESL 기반 상품 위치 안내·픽킹 내비게이션을 에이전틱 AI 장보기 흐름과 연동하는 레퍼런스 시나리오 개발 검토.",
+        "imageUrl": "https://imgproxy.divecdn.com/OyTwfk5mXNQqwd-qWHKqP_h-POeE75Qsa2ExlcdFzfo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGJlcnRzb25zX0FJLmpwZw==.webp",
+        "pubDate": "2026-08-06",
+        "sourceUrl": "https://www.grocerydive.com/news/albertsons-ai-safeway-plugin-chatgpt-technology/827147/",
+        "sourceName": "Grocery Dive"
       }
     ]
   }
