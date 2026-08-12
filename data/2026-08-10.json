@@ -1,12 +1,69 @@
 {
   "weekId": "2026-08-10",
   "weekLabel": "2026.08.10 ~ 2026.08.16",
-  "searchAnalysis": "**08월 10일(월) 수집:** 월요일 발행 기사 0건—수집 기사 없음. [커버리지] RTIH(site: 8/10 열거)·Grocery Dive·Retail Dive·Supermarket News·ESM·Retail Optimiser·SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink 모두 확인했으나 08.10 발행 신규 기사 미확인(월요일 오전 실행 시점 특성상 당일 기사 미색인). 목요일 run에서 08.10~08.13 기간으로 확장 수집 예정.",
+  "searchAnalysis": "**08월 13일(목) 수집:** 주간(08.10~08.13) 기사 6건—공급사(Hanshow×Supermercados El Jamón 스페인 300만 ESL) 1, 주요 유통사(Kroger Simbe Tally 500대·Target 첫 CAIO) 2, 기술(Edgify 엣지AI 900만$·SPAR×Quail Digital 헤드셋·Just Eat 음성 AI) 3. [커버리지] RTIH=방문·경로①site:2026/8 열거+경로③ESLs/Stores 태그 교차확인·6건 포착 / SOLUM=범위 내 신규 무기사 / Hanshow=El Jamón 1건 / Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사 / ESM·The Grocer·Retail Detail EU·Retail Optimiser=방문·범위 내 신규 없음 / Grocery Dive·Retail Dive·Supermarket News·Progressive Grocer=방문·범위 내 ESL 신규 없음 / Digitimes=범위 내 신규 없음. [3.6-G Provenance] 공급사 뉴스룸 직접 WebFetch가 provenance로 전면 차단 → WebSearch 언락 경로로 대체 확인. [3.6-H STALE] RTIH ESLs/Stores 태그 페이지 최신 08.12까지만 반영 → 08.13 발행분은 site: 열거로 교차 확인(결과 0건). [주의] RTIH URL 슬러그 날짜와 실제 발행 바이라인이 1일 차이 나는 사례 다수(예: 슬러그 8/11=바이라인 8/12) → pubDate는 바이라인 기준으로 확정. [감사] 범위 내 미수집 0건 확인. 소급 1건(Shelby Report 08.03 기술 트렌드 설문)은 2026-08-03.json에 반영.",
   "sections": {
     "industryTrends": [],
     "customerAdoption": {},
-    "majorCompanies": [],
-    "solutionProviders": [],
-    "technology": []
+    "majorCompanies": [
+      {
+        "title": "Kroger, Simbe 재고 로봇 'Tally' 500대 돌파…Smith's Marketplace 신규점에서 마일스톤 달성",
+        "summary": "• Simbe Robotics의 재고 스캔 로봇 Tally가 Kroger 매장 네트워크 전체에서 500대 가동을 돌파했다. 500번째 로봇은 신규 오픈한 Smith's Marketplace 매장에 투입됐다.\n• Smith's Food & Drug Centers의 Shaun Buck은 \"재고 충족률(in-stock)과 셸프 정확도를 강화하고, 직원이 고객 응대에 더 많은 시간을 쓸 수 있게 하는 기술\"이라고 밝혔다.\n• 같은 기사에서 Homebase USA는 파일럿 성과(가격 오류 92% 감소, 통제 가능 결품 58% 감소, 총 결품률 1% 미만, 연간 실사 3일→1일 미만)를 바탕으로 텍사스·와이오밍·캔자스·미주리 매장으로 Tally 전면 확대를 결정했다.\n• Tesco도 Morrisons에 이어 Simbe Tally 매장 재고 스캔 로봇 테스트에 나선 상태다.",
+        "implications": "[🔴 위협] Tally의 핵심 성과 지표가 '가격 오류 92% 감소'라는 점이 중요하다. 셸프 비전 로봇이 ESL의 대표 가치제안인 '가격 정확도'를 대체 경로로 해결하기 시작했다는 의미다. [🟢 기회] 반대로 로봇은 라벨 오류를 '탐지'만 할 뿐 '정정'은 못 하므로, ESL(즉시 정정)과 비전(즉시 탐지)의 결합은 명확한 상호보완 조합이다. SOLUM은 Simbe·Focal 같은 비전 벤더와의 연동 레퍼런스를 확보할 필요가 있다. [🔵 트렌드] Kroger 500대·Homebase 전점 확대는 미국 대형 유통의 매장 인텔리전스 투자가 파일럿을 지나 표준 인프라 단계로 진입했음을 보여준다.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/b52a94b7-3133-45c6-98d3-71c21a7505e6/Kroger+Tally.jpeg",
+        "pubDate": "2026-08-10",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/9/milestone-for-simbes-tally-solution-as-500th-robot-goes-live-across-krogers-store-network",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Target, 첫 최고AI책임자(CAIO)로 Lowe's 출신 Chandhu Nair 영입",
+        "summary": "• Target이 Lowe's Companies에서 6년 반간 근무한 Chandhu Nair를 창사 이래 첫 최고AI책임자(Chief AI Officer)로 영입했다. Nair는 Lowe's에서 SVP - Stores, Data, AI & Innovation을 맡았다.\n• Nair는 Prat Vemana 최고정보·제품책임자(EVP CIPO) 및 Target 기술 조직·경영진과 함께 AI 활용 범위를 확장하는 역할을 맡는다.\n• Nair는 \"최고의 기술 논의는 회의실이 아니라 매장에서 일어난다\"며, AI의 진짜 성과는 모델이나 벤치마크가 아니라 매장 현장에서 측정될 것이라고 밝혔다.\n• 그는 AI의 목표를 \"고객 경험 개선, 직원 역량 강화, 업무 단순화, 사람을 중심에 둔 전사 지능화\"로 정의했다.",
+        "implications": "[🔵 트렌드] 미국 대형 유통사가 CIO와 별도로 CAIO 직책을 신설하는 흐름이 시작됐다. AI가 IT 하위 기능이 아니라 독립 경영 어젠다로 격상되고 있다는 신호다. [🟢 기회] Nair가 강조한 '매장 현장에서 측정되는 AI'는 셸프 엣지·가격·재고 데이터를 실시간으로 공급하는 ESL 인프라의 전제 조건과 정확히 맞물린다. SOLUM은 CAIO 조직을 대상으로 '매장 AI의 데이터 레이어로서의 ESL' 메시지를 재구성할 여지가 있다. [⚡ 액션] Target을 포함한 대형 유통 CAIO 조직 신설 동향을 추적해, 기존 IT/머천다이징 채널 외 신규 의사결정 라인을 영업 대상으로 매핑할 필요가 있다.",
+        "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a7b80408a723b14f668fd09/1786512650319/Target_BacktoSchoolCollege_2026_13.png?format=1500w",
+        "pubDate": "2026-08-12",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/11/target-raids-lowes-companies-to-bring-in-chandhu-nair-as-retailers-first-ever-chief-ai-officer",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
+    "solutionProviders": [
+      {
+        "title": "Hanshow, 스페인 Supermercados El Jamón과 파트너십…3년간 ESL 약 300만 개 설치",
+        "summary": "• 스페인 남부 유통사 Supermercados El Jamón이 매장 디지털 전환 다음 단계를 위해 Hanshow의 전자선반라벨(ESL) 솔루션을 선정했다.\n• 향후 3년간 전 매장 네트워크에 약 300만 개(nearly three million)의 ESL을 설치하는 대형 프로젝트다.\n• El Jamón은 창립 60년, 슈퍼마켓 370개 이상을 운영하는 지역 밀착형 식품 유통사로, 고객과 매장 직원 모두에게 더 나은 매장 환경을 만드는 데 초점을 맞추고 있다.\n• Hanshow는 \"기술 혁신을 사람을 위해 쓰는 현대적·효율적·지속가능한 슈퍼마켓 모델에 대한 El Jamón의 의지를 재확인한 프로젝트\"라고 밝혔다.",
+        "implications": "[🔴 위협] Tesco 3,000개점, 그리스 Sklavenitis, 영국 Superdrug에 이어 Hanshow가 스페인에서 300만 개 규모 단일 계약을 확보하며 유럽 대형 롤아웃을 연속 수주하고 있다. 유럽 시장에서 SOLUM과의 직접 경합 강도가 계속 높아지는 신호다. [⚡ 액션] 스페인·포르투갈 이베리아 지역 중견 식품 유통사(370개점급 지역 체인)를 SOLUM의 우선 타깃 세그먼트로 재정의하고, 3년 단계 롤아웃·현지 파트너 설치 역량을 묶은 제안 패키지를 준비할 필요가 있다. [🔵 트렌드] 유럽 ESL 수주가 '대형 1위 체인 전수 전환'과 '지역 중견 체인 다년 롤아웃' 두 축으로 동시 확대되고 있다.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/21c5b229-a2d4-4167-ab6b-ed4b06890c25/Hanshow.jpeg",
+        "pubDate": "2026-08-10",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/10/hanshow-partners-with-spanish-retailer-supermercados-el-jamon-to-advance-in-store-digitalisation-efforts",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
+    "technology": [
+      {
+        "title": "엣지 AI 로스 프리벤션 기업 Edgify, 900만 달러 시리즈 A+ 유치…누적 2,500만 달러",
+        "summary": "• 런던 소재 Edgify가 매장 내 손실 방지(loss prevention) AI 플랫폼 확산을 위해 900만 달러 규모 시리즈 A+를 유치했다. Rank Ventures와 Mangrove Capital Partners가 참여했고 누적 조달액은 2,500만 달러다.\n• Edgify의 핵심은 '클라우드로 데이터를 보내지 않는' 엣지 학습 구조다. Nadav Israel CEO는 \"지능은 데이터가 생성되는 곳에 있어야 하며, 기기들은 하나처럼 학습해야 한다\"고 밝혔다.\n• 플랫폼은 하드웨어 비종속(hardware agnostic) 방식으로 Zebra Technologies·Bizerba 등 기존 매장 장비 위에서 구동된다.\n• 식품·편의점을 넘어 QSR, 물류센터, 의류 리테일로 확장할 계획이다. Mitchell Goldman COO는 \"리테일은 사이트당 스마트 기기 밀도가 가장 높아 엣지 AI의 궁극적 시험장\"이라고 말했다.",
+        "implications": "[🔵 트렌드] 매장 지능화의 무게중심이 클라우드에서 엣지로 이동하고 있다. 지연·비용·프라이버시 제약이 큰 매장 환경에서 온디바이스 학습이 표준 아키텍처로 부상하는 흐름이다. [🟢 기회] ESL 게이트웨이·AP는 이미 매장 전역에 분산 배치된 상시 전원 네트워크 노드다. 여기에 엣지 연산 역할을 부여하면 SOLUM은 '가격표 공급사'에서 '매장 엣지 인프라 사업자'로 포지션을 확장할 수 있다. [⚡ 액션] Zebra·Bizerba처럼 하드웨어 비종속 소프트웨어 벤더가 붙는 개방형 엣지 생태계에서 SOLUM 게이트웨이가 서드파티 AI 워크로드를 수용할 수 있는지 기술 검토가 필요하다.",
+        "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a79d2a0ecc28b6fffbf51ba/1786425235785/Edgify.jpeg?format=1500w",
+        "pubDate": "2026-08-11",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/10/ai-powered-loss-prevention-specialist-edgify-secures-9-million-in-funding-for-growth-beyond-retail",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "SPAR International, Quail Digital를 우선 공급사로 선정…영국·아일랜드 500개점에 헤드셋 3,000대 배치",
+        "summary": "• SPAR International이 영국·아일랜드 500개 이상 매장에 리테일 헤드셋 3,000대 이상을 배치한 성과를 바탕으로 Quail Digital을 우선 공급사(preferred supplier)로 선정했다.\n• 이는 양국 SPAR 매장 약 2,700개 중 5곳당 1곳에 해당하며, 영국 컨비니언스 부문 최대 규모 리테일 커뮤니케이션 헤드셋 롤아웃 중 하나라고 Quail Digital은 밝혔다.\n• 활용 용도는 진열 보충 조율, 고객 요청 대응, 직원 간 소통 개선, 일상 매장 운영 지원 등이며, SPAR 네트워크 전체에서 하루 수천 건의 커뮤니케이션이 오간다.\n• 영국 북부 SPAR 도매·물류사 James Hall & Co.의 Dave Pickford는 \"매장 효율이 크게 개선됐고, 지금 헤드셋을 없앤다면 직원들이 반발할 것\"이라고 평가했다.",
+        "implications": "[🟢 기회] SPAR International은 SOLUM이 ESL·디지털 사이니지 우선 공급사 계약을 연장한 핵심 계정이다(2026-02). 같은 그룹이 매장 커뮤니케이션 인프라까지 국제 우선 공급사 체계로 표준화하고 있다는 것은, SOLUM도 SPAR 내 적용 범위를 ESL 너머로 넓힐 명분이 생겼다는 뜻이다. [⚡ 액션] SPAR International 계정에서 ESL·사이니지 데이터와 직원 커뮤니케이션·태스크 관리(헤드셋·모바일)를 연계하는 통합 제안을 검토할 필요가 있다. 예: 결품·가격 변경 알림을 셸프 엣지에서 직원 단말로 직접 라우팅. [🔵 트렌드] 컨비니언스·중형 슈퍼 부문에서 '국제 본부가 우선 공급사를 지정하고 각국 파트너가 롤아웃'하는 조달 모델이 확산되고 있다.",
+        "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a7b2f9db73f4e67b56a243f/1786512183875/SPAR_Girl+5.jpg?format=1500w",
+        "pubDate": "2026-08-12",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/11/milestone-for-quail-digital-as-spar-international-picks-retail-headsets-firm-as-preferred-international-supplier",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Just Eat Takeaway.com, AI 음성 어시스턴트 유럽 전역 확대…\"탐색 속도 40% 빨라\"",
+        "summary": "• Just Eat이 AI 음성 어시스턴트를 유럽 전 시장으로 확대 출시했다. 회사는 대화형 AI 어시스턴트를 유럽 시장에 대규모로 배포한 첫 대형 온디맨드 배달 플랫폼이라고 주장한다.\n• 올해 초 영국·독일에서 먼저 출시됐으며 iOS·안드로이드에서 모두 이용 가능하다. 자연어 대화로 인근 레스토랑·식료품점·상점을 탐색하도록 설계됐다.\n• 영국 출시 초기 데이터에 따르면 음성 AI 이용 고객은 텍스트 전용 AI 어시스턴트 이용자보다 원하는 것을 약 40% 빠르게 찾았다.\n• 또한 기존 검색 방식 대비 추천 레스토랑·메뉴를 선택할 확률이 30% 높았다. Jörg Gerbig CCDO는 \"음식 배달의 진짜 난제는 검색이 아니라 결정\"이라고 말했다.",
+        "implications": "[🔵 트렌드] 리테일·식품 커머스의 진입점이 '검색·브라우징'에서 '대화형 AI 추천'으로 이동하고 있다. 추천 클릭률 30% 상승은 AI가 구매 결정 자체를 좌우하기 시작했다는 실증 데이터다. [🟢 기회] 오프라인 매장에서 이에 대응하는 접점은 셸프 엣지다. ESL·매장 사이니지가 AI 추천·개인화 프로모션의 물리적 출력 장치가 될 수 있으며, SOLUM은 ESL을 '매장 내 AI 추천 표시 레이어'로 포지셔닝할 여지가 있다. [🔵 트렌드] 온라인이 대화형 개인화로 앞서갈수록, 오프라인 매장의 정적 종이 라벨과의 경험 격차가 커져 ESL 전환 압력이 구조적으로 강화된다.",
+        "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a7ace356752ce2fd6de369a/1786434443056/Just+Eat.png?format=1500w",
+        "pubDate": "2026-08-11",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/11/just-eat-takeawaycom-rolls-out-ai-voice-assistant-across-europe-building-on-uk-and-germany-launches",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ]
   }
 }

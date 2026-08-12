@@ -1,7 +1,7 @@
 {
   "weekId": "2026-08-03",
   "weekLabel": "2026.08.03 ~ 2026.08.09",
-  "searchAnalysis": "**08월 06일(목) 수집:** 주간(08.03~08.06) 기사 3건—규제(미국 감시가격·전자라벨 입법 확산) 1, 기술(Focal Systems 컴퓨터 비전 재고) 1, 주요 유통사(B&M POS 전면 교체) 1. [커버리지] RTIH=방문·2건(Focal 8/4, B&M 8/3) / SOLUM·Hanshow·Pricer·Vusion·ZKONG=범위 내 신규 무기사 / ESM·Retail Optimiser=방문·범위 내 신규 없음 / Digitimes·Grocery Dive·Retail Dive=방문·범위 내 신규 없음. [3.6-G Provenance] 스케줄 실행 환경에서 WebFetch가 provenance로 전면 차단돼 WebSearch 스니펫 기반으로 발행일 검증·수집(각 기사 summary에 표기). [STALE] 해당 없음. [감사] site: 열거 교차대조—범위 내 미수집 0건 확인. 참고(소급 라우팅): 전주 발행분은 pubDate 주차로 라우팅—Vusion H1 실적(7/30)·HomeBase-Simbe 체인와이드(7/29)·Vusion In-Store Media 인수(7/27)는 이미 2026-07-27.json에 존재, NJ Fair Price Protection Act(7/23)는 2026-07-20.json에 존재. Grocery TV-Esri(7/29)는 미수집 신규로 확인돼 신규 규칙에 따라 2026-07-27.json에 소급 추가함. | **08월 10일(월) 보완 수집:** 전주 마감분(08.06~08.09) 및 미수집 신규 4건 추가—규제(상원 AI 감시가격 청문회 후속·호울리 법안 예고) 1, 산업(아홀드 델하이즈 자동화 물류 계획 철회) 1, 주요 유통사(모리슨스 Everseen 셀프계산대 컴퓨터 비전 200개점) 1, 기술(알버슨스 ChatGPT Safeway 플러그인) 1. [커버리지] RTIH=site: 열거·방문(8월 기사 전수 확인) / Grocery Dive=원문 fetch 성공·발행일 메타 검증 / SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사 / ESM·Retail Optimiser·Retail Detail=범위 내 신규 없음 / 한국어·중국어·일본어 키워드=범위 내 신규 없음. [3.6-G Provenance] WebFetch가 SKILL.md 미등록 URL(Google News RSS 쿼리형·Vusion/Pricer 뉴스룸)에서 전면 차단돼 WebSearch 언락 후 개별 기사 원문 fetch 경로로 우회. [감사] RTIH 8월 site: 열거 교차대조—범위 내 미수집 0건 확인(Asda-Auror 8/4 기사는 4월 전사 확대 발표와 발행일 상충으로 보류).",
+  "searchAnalysis": "**08월 06일(목) 수집:** 주간(08.03~08.06) 기사 3건—규제(미국 감시가격·전자라벨 입법 확산) 1, 기술(Focal Systems 컴퓨터 비전 재고) 1, 주요 유통사(B&M POS 전면 교체) 1. [커버리지] RTIH=방문·2건(Focal 8/4, B&M 8/3) / SOLUM·Hanshow·Pricer·Vusion·ZKONG=범위 내 신규 무기사 / ESM·Retail Optimiser=방문·범위 내 신규 없음 / Digitimes·Grocery Dive·Retail Dive=방문·범위 내 신규 없음. [3.6-G Provenance] 스케줄 실행 환경에서 WebFetch가 provenance로 전면 차단돼 WebSearch 스니펫 기반으로 발행일 검증·수집(각 기사 summary에 표기). [STALE] 해당 없음. [감사] site: 열거 교차대조—범위 내 미수집 0건 확인. 참고(소급 라우팅): 전주 발행분은 pubDate 주차로 라우팅—Vusion H1 실적(7/30)·HomeBase-Simbe 체인와이드(7/29)·Vusion In-Store Media 인수(7/27)는 이미 2026-07-27.json에 존재, NJ Fair Price Protection Act(7/23)는 2026-07-20.json에 존재. Grocery TV-Esri(7/29)는 미수집 신규로 확인돼 신규 규칙에 따라 2026-07-27.json에 소급 추가함. | **08월 10일(월) 보완 수집:** 전주 마감분(08.06~08.09) 및 미수집 신규 4건 추가—규제(상원 AI 감시가격 청문회 후속·호울리 법안 예고) 1, 산업(아홀드 델하이즈 자동화 물류 계획 철회) 1, 주요 유통사(모리슨스 Everseen 셀프계산대 컴퓨터 비전 200개점) 1, 기술(알버슨스 ChatGPT Safeway 플러그인) 1. [커버리지] RTIH=site: 열거·방문(8월 기사 전수 확인) / Grocery Dive=원문 fetch 성공·발행일 메타 검증 / SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사 / ESM·Retail Optimiser·Retail Detail=범위 내 신규 없음 / 한국어·중국어·일본어 키워드=범위 내 신규 없음. [3.6-G Provenance] WebFetch가 SKILL.md 미등록 URL(Google News RSS 쿼리형·Vusion/Pricer 뉴스룸)에서 전면 차단돼 WebSearch 언락 후 개별 기사 원문 fetch 경로로 우회. [감사] RTIH 8월 site: 열거 교차대조—범위 내 미수집 0건 확인(Asda-Auror 8/4 기사는 4월 전사 확대 발표와 발행일 상충으로 보류). [소급 08/03 추가] LOC Software·Shelby Report 기술 트렌드 설문(ESL 투자계획 26%) — 2026-08-13 run에서 뒤늦게 포착.",
   "sections": {
     "industryTrends": [
       {
@@ -30,6 +30,15 @@
         "pubDate": "2026-08-05",
         "sourceUrl": "https://www.grocerydive.com/news/ahold-delhaize-americold-warehouse-automated-facility-distribution/827008/",
         "sourceName": "Grocery Dive"
+      },
+      {
+        "title": "美 식품유통 기술 투자 설문: AI 추천 28%·전자선반라벨 26%…마진·인력난이 도입 압력",
+        "summary": "• LOC Software가 The Shelby Report·PDG Insights와 공동 실시한 '2026 Exploring Grocery Technology Trends' 설문 결과가 공개됐다. 100명 이상의 식품유통 관리자·임원이 응답했다.\n• 최대 과제는 가격·인플레이션·마진 압박 63%, 인력난·직원 유지 57%, 운영비 상승 51% 순이었고, 재고관리 최대 과제로 인력 부족을 꼽은 응답이 49%였다.\n• 향후 투자 계획 1위는 AI 기반 상품 추천·개인화 오퍼 28%였고, 전자선반라벨(ESL)이 26%로 근소한 2위였다. 더 빠른 가격 갱신과 인력 부담 경감이 도입 이유로 꼽혔다.\n• 도입 결정 기준은 ROI 59%, 통합 용이성 50%였다. 응답자의 3/4은 향후 3~5년 내 AI가 운영에 영향을 줄 것이라 봤지만, 신기술 통합 준비가 됐다고 답한 비율은 10% 미만이었다.",
+        "implications": "[🟢 기회] ESL이 AI 추천에 이어 투자 계획 2위(26%)에 올랐다는 것은 중소·중견 식품 유통에서도 ESL이 '검토 대상'을 넘어 '예산 항목'으로 이동했음을 보여준다. [⚡ 액션] 구매 결정 기준이 ROI 59%·통합 용이성 50%인 만큼, SOLUM의 제안서는 기술 사양보다 인건비 절감 회수기간과 기존 POS·ERP 연동 난이도 최소화를 전면에 배치해야 한다. 실제 사례로 인용된 Cape Cod Markets는 \"전자 가격표의 인건비 절감 회수 효과가 기대를 크게 상회했다\"고 밝혔다. [🔵 트렌드] '신기술 통합 준비 완료' 응답이 10% 미만이라는 점은 하드웨어 단품보다 통합·운영 서비스를 묶은 패키지 수요가 크다는 신호다.",
+        "imageUrl": "https://theshelbyreport.com/wp-content/uploads/2026/07/Cape-Cod-Markets.jpg",
+        "pubDate": "2026-08-03",
+        "sourceUrl": "https://theshelbyreport.com/2026/08/03/tech-trends-survey-grocers-eye-ai-esls-as-margin-labor-pressures-mount/",
+        "sourceName": "The Shelby Report"
       }
     ],
     "customerAdoption": {},
