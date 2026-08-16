@@ -1,9 +1,28 @@
 {
   "weekId": "2026-08-10",
   "weekLabel": "2026.08.10 ~ 2026.08.16",
-  "searchAnalysis": "**08월 13일(목) 수집:** 주간(08.10~08.13) 기사 6건—공급사(Hanshow×Supermercados El Jamón 스페인 300만 ESL) 1, 주요 유통사(Kroger Simbe Tally 500대·Target 첫 CAIO) 2, 기술(Edgify 엣지AI 900만$·SPAR×Quail Digital 헤드셋·Just Eat 음성 AI) 3. [커버리지] RTIH=방문·경로①site:2026/8 열거+경로③ESLs/Stores 태그 교차확인·6건 포착 / SOLUM=범위 내 신규 무기사 / Hanshow=El Jamón 1건 / Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사 / ESM·The Grocer·Retail Detail EU·Retail Optimiser=방문·범위 내 신규 없음 / Grocery Dive·Retail Dive·Supermarket News·Progressive Grocer=방문·범위 내 ESL 신규 없음 / Digitimes=범위 내 신규 없음. [3.6-G Provenance] 공급사 뉴스룸 직접 WebFetch가 provenance로 전면 차단 → WebSearch 언락 경로로 대체 확인. [3.6-H STALE] RTIH ESLs/Stores 태그 페이지 최신 08.12까지만 반영 → 08.13 발행분은 site: 열거로 교차 확인(결과 0건). [주의] RTIH URL 슬러그 날짜와 실제 발행 바이라인이 1일 차이 나는 사례 다수(예: 슬러그 8/11=바이라인 8/12) → pubDate는 바이라인 기준으로 확정. [감사] 범위 내 미수집 0건 확인. 소급 1건(Shelby Report 08.03 기술 트렌드 설문)은 2026-08-03.json에 반영.",
+  "searchAnalysis": "**08월 13일(목) 수집:** 주간(08.10~08.13) 기사 6건—공급사(Hanshow×Supermercados El Jamón 스페인 300만 ESL) 1, 주요 유통사(Kroger Simbe Tally 500대·Target 첫 CAIO) 2, 기술(Edgify 엣지AI 900만$·SPAR×Quail Digital 헤드셋·Just Eat 음성 AI) 3. [커버리지] RTIH=방문·경로①site:2026/8 열거+경로③ESLs/Stores 태그 교차확인·6건 포착 / SOLUM=범위 내 신규 무기사 / Hanshow=El Jamón 1건 / Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사 / ESM·The Grocer·Retail Detail EU·Retail Optimiser=방문·범위 내 신규 없음 / Grocery Dive·Retail Dive·Supermarket News·Progressive Grocer=방문·범위 내 ESL 신규 없음 / Digitimes=범위 내 신규 없음. [3.6-G Provenance] 공급사 뉴스룸 직접 WebFetch가 provenance로 전면 차단 → WebSearch 언락 경로로 대체 확인. [3.6-H STALE] RTIH ESLs/Stores 태그 페이지 최신 08.12까지만 반영 → 08.13 발행분은 site: 열거로 교차 확인(결과 0건). [주의] RTIH URL 슬러그 날짜와 실제 발행 바이라인이 1일 차이 나는 사례 다수(예: 슬러그 8/11=바이라인 8/12) → pubDate는 바이라인 기준으로 확정. [감사] 범위 내 미수집 0건 확인. 소급 1건(Shelby Report 08.03 기술 트렌드 설문)은 2026-08-03.json에 반영.\n\n**08월 17일(월) 보완 수집:** 전주 마감분(08.13 목~08.16 일) +5건—산업동향(ISN 유럽 ESL 시장 종합·NRF Europe 2026 프리뷰) 2, 주요 유통사(AS Watson×NCR Voyix 글로벌 커머스 플랫폼) 1, 기술(AutoStore×Amazon 글로벌 자동화 공급 기본계약·Delivery Hero 에이전틱 AI 어시스턴트) 2. [커버리지] RTIH=경로①site:2026/8 열거+8/16 주간 라운드업 2건 fetch·Grep 파싱 / ISN=Retail Technology 카테고리 방문·2건 포착 / Grocery Dive·Retail Dive·Supermarket News·Progressive Grocer=범위 내 ESL 신규 무기사 / Chain Store Age=범위 내 ESL 무기사(5/22 SOLUM 기고문 소급 반영) / SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink=범위 내 신규 PR 무기사. [3.6-G provenance] Google News RSS 쿼리형 URL 6종 전부 차단(SKILL.md 등록 URL이나 web_fetch provenance 미통과) → 3A 백본(site: 열거+원문 발행일 검증)으로 대체. [3.6-B 토큰초과] RTIH 기사 4건이 7만자 초과 → Grep 패턴 추출로 대체. [감사] site: 열거 대조 결과 범위 내 미수집 0건 확인. 8/16 RTIH 발행분은 주간 라운드업 2건뿐이라 개별 기사 없음.",
   "sections": {
-    "industryTrends": [],
+    "industryTrends": [
+      {
+        "title": "전자가격표시기, 주류 기술로 부상—\"가격표에서 슈퍼마켓의 디지털 두뇌로\"",
+        "summary": "• International Supermarket News가 8월 13일 유럽 ESL 시장 판도를 종합 분석하며, ESL이 시범 도입 단계를 넘어 슈퍼마켓 핵심 인프라로 자리 잡았다고 진단함.\n• 주요 롤아웃 현황: Tesco 약 3,000개점(Hanshow), Co-op 약 2,400개점(VusionGroup), Asda Express 250개점 이상·매장당 약 2,800개·총 70만 개 이상(VusionGroup), Waitrose 200개점 돌파(SOLUM Newton Pro), Carrefour 프랑스 1,200개점 이상 포함 1,600개점 이상(Pricer).\n• Carrefour는 2026년 2월 프랑스에서 Pricer 외 추가 공급사를 도입하기로 확정—유럽 대형 리테일러의 멀티 벤더 전환 신호로 해석됨. Pricer는 누적 3억 8천만 개 ESL을 80개국 28,000개 매장에 공급했다고 밝힘.\n• 유럽 슈퍼마켓 ESL 보급률은 약 80%로 미국(5~10%)을 크게 앞서며, 다음 경쟁 축은 ESL을 AI·재고·프로모션·온라인 피킹·리테일 미디어와 연결하는 '디지털 운영 레이어'로 이동 중.",
+        "implications": "[🟢 기회] SOLUM이 Waitrose 200개점 사례로 Hanshow·Vusion·Pricer와 나란히 '빅4'로 명시된 점은 유럽 레퍼런스 자산 가치가 커졌음을 뜻함—NRF Europe(9월 파리)을 겨냥한 레퍼런스 마케팅 강화 여지. [🔴 위협] Tesco 3,000점(Hanshow)·Co-op 2,400점(Vusion)·Asda(Vusion) 등 초대형 UK 계약이 경쟁사에 집중돼 유럽 설치 기반 격차가 벌어지고 있음. [⚡ 액션] Carrefour의 멀티 벤더 전환은 '단일 공급사 종속 회피' 수요를 보여주므로, SOLUM은 기존 경쟁사 독점 계정에 '세컨드 소스' 포지션으로 진입하는 영업 시나리오를 구체화할 필요.",
+        "imageUrl": "https://internationalsupermarketnews.com/wp-content/uploads/Pricer-US-Market-Report-23.jpg",
+        "pubDate": "2026-08-13",
+        "sourceUrl": "https://internationalsupermarketnews.com/electronic-shelf-labels-go-mainstream-from-price-tags-to-the-digital-brain-of-the-supermarket/",
+        "sourceName": "International Supermarket News"
+      },
+      {
+        "title": "NRF Europe 2026 프리뷰—리테일 테크 경쟁이 본격화된다",
+        "summary": "• NRF 2026 Retail's Big Show Europe가 9월 15~17일 파리에서 63개국 약 12,000명의 리테일 전문가를 모아 개최됨(ISN, 8월 14일).\n• ISN은 올해 관전 포인트로 ESL·로보틱스·컴퓨터 비전·결제·재고를 아우르는 리테일 테크 시장이 '메가 마켓'이 되면서, 전문 공급사와 거대 빅테크가 정면 충돌하는 구도를 지목함.\n• 로보틱스는 창고를 넘어 매장 진열대 보충 등 매장 내부 작업으로 확장 중이며, 스타트업 허브에만 60개 이상 초기 기업이 참가 예정.\n• AI 논의는 '무엇을 할 수 있나'에서 '무엇을 절감·개선·자동화·판매하나'로 이동했고, 소비자가 AI 에이전트로 검색·비교·구매하면서 경쟁 무대가 '매장 진열대에서 알고리즘으로' 옮겨갈 수 있다고 전망함.",
+        "implications": "[🔵 트렌드] ESL이 독립 카테고리가 아니라 AI·로보틱스·컴퓨터 비전과 묶인 '매장 운영 레이어' 경쟁의 일부로 재편되고 있음. [⚡ 액션] SOLUM은 NRF Europe에서 단순 라벨 스펙이 아니라 ESL+매장 실행+리테일 미디어를 잇는 통합 데모로 차별화해야 하며, 빅테크의 리테일 진입에 대비해 '매장 현장 이해도'를 핵심 메시지로 삼을 필요.",
+        "imageUrl": "https://internationalsupermarketnews.com/wp-content/uploads/7a1d9856-b74d-4458-b271-d13c57ca3e8f.png",
+        "pubDate": "2026-08-14",
+        "sourceUrl": "https://internationalsupermarketnews.com/nrf-europe-2026-retail-technology-competition-is-about-to-get-serious/",
+        "sourceName": "International Supermarket News"
+      }
+    ],
     "customerAdoption": {},
     "majorCompanies": [
       {
@@ -22,6 +41,15 @@
         "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a7b80408a723b14f668fd09/1786512650319/Target_BacktoSchoolCollege_2026_13.png?format=1500w",
         "pubDate": "2026-08-12",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/11/target-raids-lowes-companies-to-bring-in-chandhu-nair-as-retailers-first-ever-chief-ai-officer",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Superdrug 모회사 AS Watson, NCR Voyix와 다년 계약—Voyix 커머스 플랫폼 글로벌 도입",
+        "summary": "• NCR Voyix가 헬스·뷰티 리테일러 AS Watson과 리테일 기술 파트너십을 확대하는 다년 계약을 체결했다고 발표함(RTIH, 8월 14일).\n• AS Watson은 Voyix Commerce Platform을 채택해 Voyix POS·셀프체크아웃·로열티·매니지드 서비스를 유럽과 아시아의 다수 브랜드·시장에 배치할 예정.\n• 대상 브랜드에는 홍콩·말레이시아·필리핀의 Watsons, 영국의 Superdrug·Savers 등이 포함됨.\n• 글로벌 다국가 리테일 그룹이 매장 결제·체크아웃 인프라를 단일 플랫폼으로 통합하는 대표 사례.",
+        "implications": "[🔵 트렌드] 다국가 리테일 그룹의 매장 IT 표준화(POS·셀프체크아웃·로열티 통합)는 ESL 도입 의사결정도 국가별에서 그룹 본사 단위로 옮아가고 있음을 시사. [⚡ 액션] SOLUM은 이런 그룹 단위 인프라 교체 사이클에 맞춰 POS·체크아웃 벤더와의 연동 레퍼런스를 준비하고, AS Watson처럼 헬스·뷰티·드럭스토어 포맷(소형 SKU 밀집)을 겨냥한 소형 라벨 제안을 검토할 만함.",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a7eac1d17d2d66ebcb87ea8/1786687237693/SuperdrugStoreOpeningBirminghamEdit_11.JPG?format=1500w",
+        "pubDate": "2026-08-14",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/14/superdrug-owner-as-watson-ramps-up-ncr-voyix-as-it-inks-global-voyix-commerce-platform-agreement",
         "sourceName": "Retail Technology Innovation Hub"
       }
     ],
@@ -62,6 +90,24 @@
         "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a7ace356752ce2fd6de369a/1786434443056/Just+Eat.png?format=1500w",
         "pubDate": "2026-08-11",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/11/just-eat-takeawaycom-rolls-out-ai-voice-assistant-across-europe-building-on-uk-and-germany-launches",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "AutoStore, 아마존과 글로벌 자동화 기술 공급 기본계약 체결",
+        "summary": "• 노르웨이 창고 자동화 기업 AutoStore가 아마존에 자사 제품·솔루션을 글로벌 단위로 공급하는 기본계약(framework agreement)을 체결했다고 공식 발표함(RTIH, 8월 13일).\n• 계약은 아마존의 추가 AutoStore 시스템 조달 조건을 규정하지만, 현시점에서 구매 확약(purchasing commitment)은 포함하지 않는다고 보도자료에 명시됨.\n• 올해 초 아마존이 AutoStore 경험자를 채용 공고에 올리면서 제기된 협업 관측이 공식 확인된 것.\n• RTIH는 아마존이 과거 Balyo 등과 유사한 계약을 맺고도 유의미한 매출로 이어지지 않은 전례가 있다고 지적함(Balyo는 2026년 소프트뱅크가 비상장 전환, 소프트뱅크는 AutoStore 주요 주주이기도 함).",
+        "implications": "[🔵 트렌드] 아마존이 외부 자동화 벤더를 글로벌 프레임워크로 편입하는 흐름은 리테일 자동화 조달이 '자체 개발'에서 '표준 벤더 다중 소싱'으로 이동하고 있음을 시사. [🟢 기회] 대형 리테일러가 매장·물류 자동화 예산을 확대할수록 셸프 엣지 데이터(ESL·전자라벨)를 자동화 스택에 연결하려는 수요가 커지므로, SOLUM은 자동화·로보틱스 벤더와의 데이터 연동 파트너십 기회를 점검할 가치가 있음.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/8d4bd5d0-b4e7-427e-8755-b70397e18ec2/grocery-everyday-essentials-unpacked.jpg",
+        "pubDate": "2026-08-13",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/13/autostore-announces-deal-with-amazon-to-supply-automation-technology-products-and-solutions",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "딜리버리히어로, 동네 상점·식당용 에이전틱 AI 어시스턴트 공개",
+        "summary": "• 독일 기반 글로벌 음식 주문·배달 기업 딜리버리히어로(Delivery Hero)가 동네 상점·레스토랑을 겨냥한 신규 에이전틱 AI 어시스턴트를 공개함(RTIH, 8월 13일).\n• 요하네스 브루더(Johannes Bruder) CPO는 \"소상공인은 처리할 일이 많은데, 이 AI 어시스턴트는 업무 부담을 늘리지 않으면서 성장 속도를 높여준다\"고 설명함.\n• 향후 플랫폼 전반으로 롤아웃될 예정으로, 파트너 사업자의 운영·마케팅 업무를 자동화하는 방향.\n• 리테일·푸드 플랫폼에서 '에이전틱 AI'가 데모 단계를 넘어 파트너 대상 실사용 도구로 확산되는 흐름을 보여줌.",
+        "implications": "[🔵 트렌드] 에이전틱 AI가 소상공인 운영 자동화까지 내려오면서, 매장 운영 도구 전반에 'AI 어시스턴트' 레이어가 기본 사양으로 기대되는 국면. [⚡ 액션] SOLUM도 ESL 관리 콘솔에 자연어 기반 가격·프로모션 설정 어시스턴트를 얹는 방향을 제품 로드맵에서 검토할 가치가 있음(인접 트렌드).",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/t/6a7d72ebee0be1675486c8c5/1786606315153/AiAssistantPR5.webp?format=1500w",
+        "pubDate": "2026-08-13",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/13/delivery-hero-launch-ai-assistant-for-local-shops-and-restaurants-with-roll-out-due-across-platform",
         "sourceName": "Retail Technology Innovation Hub"
       }
     ]
