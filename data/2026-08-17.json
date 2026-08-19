@@ -1,12 +1,266 @@
 {
   "weekId": "2026-08-17",
   "weekLabel": "2026.08.17 ~ 2026.08.23",
-  "searchAnalysis": "**08월 17일(월) 수집:** 월요일 발행분 0건—월요일 오전 1시 실행 시점 기준 당일 발행 기사가 아직 없음. [커버리지] RTIH=site:2026/8/17 열거·당일 발행 무기사 / ISN·Grocery Dive·Retail Dive·Supermarket News·Chain Store Age=당일 무기사 / SOLUM·Hanshow·Pricer·Vusion·ZKONG=당일 PR 무기사. [3.6-G] Google News RSS 쿼리형 URL provenance 차단 → site: 열거 백본으로 대체. [감사] 범위 내 미수집 0건 확인. 이번 주 본수집은 08/20(목) run에서 08.17~08.20 기간으로 수행 예정.",
+  "searchAnalysis": "**08월 20일(목) 수집:** 주간(08.17~08.20) 기사 27건—산업동향 7(FTC 개인화 가격 집행정책 초안·NJ 3번째 주 감시가격 법제화+ESL 1년 모라토리엄·시애틀 조례·상원 초당적 연방입법·NCSL 결의안 부결·RUNTO 상반기 전자종이 출하 -41.4%), 고객도입 3, 주요유통사 4(Target Proxima 디지털트윈·2Q 실적·Home Depot·Sainsbury's Facewatch), 공급사 4(솔루엠 2Q 최대실적·미국 증자·한슈어 관세환급·합력태 전자종이 반기), 기술 9(e-paper 사이니지 생태계·도쿄역 Spectra 6·프라하 E-Ink·에이전틱 DOOH·프로그래매틱 등). [커버리지] RTIH=경로①site:2026/8 열거+연쇄fetch로 8/17~8/19 전수 스캔·5건 채택 / SOLUM=국내 매체 2건 / Hanshow=공시 1건 / Pricer·Vusion·ZKONG=범위 내 신규 무기사(Vusion 뉴스룸 최신 7/30, Pricer 최신 2024-12) / E Ink=대만 매체 2건 / ESM·The Grocer·Retail Detail EU·Retail Optimiser·Grocery Dive·Retail Dive·Supermarket News·Chain Store Age·Digital Signage Today·Digitimes=방문. [3.6-G] 정본 SKILL.md를 Read로 로드한 탓에 문서 내 URL이 provenance에 미등록 → 뉴스룸 직접 WebFetch 전면 차단. WebSearch 언락(G-2)+연쇄 fetch(G-3) 백본으로 전환해 수행. [감사] 3.7 커버리지 감사 완료—범위 내 미수집 ESL 관련 0건(RTIH 인사이동·신규매장 5건은 스코프 외 판단). [소급] 08/11 Forbes·08/13 ESM Consum·08/14 Digitimes E Ink 3건을 2026-08-10 주차에 소급 저장. NJ.com 기고문(08/16 추정)은 원문·발행일 검증 불가로 제외.",
   "sections": {
-    "industryTrends": [],
-    "customerAdoption": {},
-    "majorCompanies": [],
-    "solutionProviders": [],
-    "technology": []
+    "industryTrends": [
+      {
+        "title": "美 FTC, '개인화 가격(personalized pricing)' 집행정책 성명 초안 공개…의견수렴 착수",
+        "summary": "• 미국 연방거래위원회(FTC)가 8월 19일 개인화 가격 책정에 관한 집행정책 성명(enforcement policy statement) 초안을 공개하고 공개 의견수렴에 들어갔다.\n• FTC는 개인화 가격을 '기업이 개별 소비자가 지불할 의향이 있다고 판단하는 금액에 맞춰 개인 데이터를 활용해 가격을 설정하는 행위'로 정의했다.\n• Andrew Ferguson 위원장은 \"소비자가 표시된 가격을 볼 때는 그것이 모두에게 동일한 가격이라고 기대하지, 소매업체가 추정한 지불의사 금액이라고 생각하지 않는다\"고 밝혔다.\n• FTC는 개인화 가격을 전면 금지할 법적 권한은 없으나, 개인 데이터가 가격 설정에 어떻게 쓰이는지 고지하지 않은 기업은 FTC법 위반이 될 수 있다고 경고했다.\n• 연방관보 게재 후 30일간 의견을 접수하며, 위원회 표결은 2-0으로 통과했다.",
+        "implications": "[🔴 위협] 미 연방 차원의 감시가격 규제가 '가이드라인'을 넘어 집행정책 단계로 진입했다. ESL 자체를 겨냥한 것은 아니지만, 여론과 입법 논의에서 ESL과 개인화 가격이 묶여 소비되는 흐름이 강화될 위험이 크다. [⚡ 액션] SOLUM은 ESL이 개인 데이터를 수집하지 않는 단방향 표시 장치임을 명확히 하는 기술 백서·FAQ를 미국 영업 자료에 상시 탑재하고, FTC 의견수렴(30일)에 업계 단체를 통한 의견 제출을 검토할 필요가 있다.",
+        "imageUrl": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
+        "pubDate": "2026-08-19",
+        "sourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing",
+        "sourceName": "Federal Trade Commission"
+      },
+      {
+        "title": "뉴저지, 감시가격 규제 3번째 주로…신규 ESL 설치 1년 모라토리엄 병행",
+        "summary": "• Mikie Sherrill 뉴저지 주지사가 7월 'Fair Price Protection Act'에 서명하면서, 뉴저지는 감시가격(surveillance pricing)을 제한하는 법을 제정한 세 번째 주가 됐다.\n• 앞서 메릴랜드와 코네티컷이 올해 유사 법안을 통과시켰으며, 메릴랜드는 식품 소매·배달 서비스에 초점을, 코네티컷은 소매판매업 전반으로 범위를 넓혔다.\n• 뉴저지는 영향 연구를 위해 신규 전자가격표시기(ESL) 설치에 1년 모라토리엄을 부과했다. 다만 이미 도입한 소매업체는 계속 사용할 수 있다.\n• Collective Bias 창업자 John Andrews는 \"다이내믹 프라이싱은 수십 년 됐고 대부분 쇼퍼가 마지못해 받아들이지만, 감시가격은 더 새롭고 조용하며 '가격표가 곧 가격'이라는 기본적 공정성 가정을 깬다\"고 지적했다.\n• 기사는 종이 태그를 즉시 갱신되는 무선 화면으로 대체하는 ESL 확산이 감시가격 실행을 더 쉽게 만든다는 프레임을 그대로 반복했다.",
+        "implications": "[🔴 위협] 주(州) 단위 규제가 3개로 늘었고, 뉴저지는 ESL 신규 설치 자체를 1년간 멈춰 세웠다. 미국 신규 수주 파이프라인에 직접적인 지역 리스크가 생긴 것이다. [⚡ 액션] SOLUM 미주 영업은 (1) 모라토리엄 주(州) 리스트를 실시간 트래킹하는 규제 맵을 운영하고, (2) 기존 도입 고객의 '계속 사용 가능' 조항을 활용한 확장(리플레이스·VAS) 중심으로 파이프라인을 재편할 필요가 있다.",
+        "imageUrl": "https://www.thestreet.com/.image/MTcxNDEwMDM0ODgwNjg1NzQ3/supermarket-staff_2.jpg?profile=share16-9",
+        "pubDate": "2026-08-19",
+        "sourceUrl": "https://www.thestreet.com/retail/another-state-just-banned-a-controversial-retail-pricing-practice",
+        "sourceName": "TheStreet"
+      },
+      {
+        "title": "시애틀, 대형 식료품 체인 '알고리즘 기반 가격차별' 금지 조례 추진",
+        "summary": "• Katie Wilson 시애틀 시장이 Alexis Mercedes Rinck·Dionne Foster 시의원과 함께 대형 식료품 체인의 '알고리즘 기반 가격차별'을 금지하는 조례안을 발의했다.\n• 조례안은 전 세계 20개 이상 매장을 운영하는 체인(Safeway, QFC, Target 등)에 적용되며, 온라인 쇼핑 서비스와 오프라인 매장 모두를 대상으로 한다.\n• Wilson 시장은 \"같은 매장의 같은 상품은 누가 카트를 밀든 같은 가격이어야 한다\"며 개인 데이터를 이용한 추가 수취를 차단하는 정책이라고 설명했다.\n• 시애틀 메트로 상공회의소 Lars Erickson은 \"시애틀에서 영업하는 소매업체들은 그런 관행을 하지 않는다고 분명히 밝혀왔다. 가격 변동이 곧 감시가격의 증거는 아니다\"라고 반박했다.\n• Northwest Grocery Retail Association의 Amanda Dalton 회장은 조례가 오히려 시의회의 '시애틀 물가 안정' 목표에 역행한다고 주장했다.",
+        "implications": "[🔴 위협] 규제가 주(州)를 넘어 시(市) 단위로 내려오면서 규제 지형이 파편화되고 있다. 소매업체 입장에서는 지역별 컴플라이언스 부담이 커져 ESL 신규 투자 의사결정이 지연될 수 있다. [🔵 트렌드] 다만 업계·상공회의소가 '가격 변동≠감시가격'이라는 반론을 조직적으로 펴기 시작한 점은 ESL 진영에 우호적 신호다.",
+        "imageUrl": "https://npr.brightspotcdn.com/dims4/default/3bf9efc/2147483647/strip/true/crop/7850x4121+0+556/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F11%2Ff338bbe54ead84d9b0e4ea96315d%2Fap26131789657476.jpg",
+        "pubDate": "2026-08-19",
+        "sourceUrl": "https://www.knkx.org/government/2026-08-19/seattle-leaders-push-to-restrict-surveillance-pricing-at-grocery-stores",
+        "sourceName": "KNKX Public Radio"
+      },
+      {
+        "title": "美 상원 법사위 청문회, AI 감시가격 연방 입법에 초당적 공감대 확인",
+        "summary": "• 미 상원 법사위 범죄·대테러 소위원회가 8월 4일 'Your Data, Their Profit: The Consumer Cost of AI Surveillance Pricing' 청문회를 개최했다.\n• Josh Hawley(공화·미주리) 상원의원이 위원장을, Richard Durbin(민주·일리노이) 의원이 간사를 맡아 초당적 구도로 진행됐다.\n• 증인으로 Groundwork Collaborative의 Lindsay Owens CEO, MIT 디지털 펠로우이자 前 Visa 최고데이터책임자 Robert Hedges, American Economic Liberties Project의 Lee Hepner, UFCW의 Hillary Caron, 와튼스쿨 Z. John Zhang 교수가 출석했다.\n• Richard Blumenthal 의원은 \"우리에게는 법이 필요하다. 연방법, 연방 기준, 국가적 안전장치가 필요하다\"며 Hawley 의원과 이미 입법 프레임워크를 마련했다고 밝혔다.\n• Hawley 의원도 청문회 후 독자 법안 발의 의사를 시사해, 연방 차원 입법 가능성이 높아졌다.",
+        "implications": "[🔴 위협] 주·시 단위를 넘어 연방 입법이 초당적으로 추진되면 미국 전역의 ESL 도입 논의에 구조적 불확실성이 생긴다. [⚡ 액션] SOLUM은 NRF·NACS 등 소매업계 단체와 공동으로 'ESL은 데이터 수집 장치가 아니다'라는 입법 로비 포지셔닝에 참여하고, 법안 초안 문구에서 ESL이 감시가격과 동일 취급되지 않도록 조기 대응해야 한다.",
+        "imageUrl": "https://natlawreview.com/sites/default/files/styles/article_image/public/2026-08/hacker.cybersecurity.data_.password.jog_.jpg.webp?itok=BsWaXUAU",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://natlawreview.com/article/senate-judiciary-hearing-reveals-bipartisan-support-federal-action-ai-driven",
+        "sourceName": "The National Law Review"
+      },
+      {
+        "title": "美 주의회협의회(NCSL), 디지털 가격기술 규제 결의안 부결…편의점 업계 환영",
+        "summary": "• 미국 주의회협의회(NCSL)가 식료품 소매의 디지털 가격기술을 겨냥한 결의안을 부결시켰으며, 전미편의점협회(NACS)가 이를 환영했다.\n• 'Supporting Price Transparency, Consumer Privacy and Fairness in the Grocery Retail Marketplace' 결의안은 7월 27일 NCSL 은행·금융서비스·보험 위원회에서 심의됐다.\n• 결의안이 통과됐다면 ESL 등 디지털 가격기술 사용을 제한하는 향후 입법의 길을 열어줄 수 있었다.\n• NACS는 이 결의안이 '디지털 가격기술이 소비자 개인정보를 이용해 가격을 조정한다'는 잘못된 전제에 기반했다며 반대했다.\n• NACS에 따르면 유타·켄터키·매사추세츠의 주 편의점협회와 위원회 위원들이 반대 결집에 핵심 역할을 했다.",
+        "implications": "[🟢 기회] 규제 확산 흐름 속에서 나온 드문 반대 사례다. '디지털 가격기술 ≠ 개인정보 기반 가격조정'이라는 반박 논리가 실제로 표결에서 통했다는 점이 중요하다. [⚡ 액션] SOLUM은 NACS가 사용한 반박 프레임(데이터 미수집·단방향 표시)을 자사 미주 마케팅·정책 대응 자료의 표준 메시지로 채택할 만하다.",
+        "imageUrl": "https://storage.ghost.io/c/d5/56/d5565e70-3c67-4547-9c79-7758ce6fc700/content/images/size/w1200/2026/08/nacs_twitter.jpg",
+        "pubDate": "2026-08-17",
+        "sourceUrl": "https://massmarketretailers.com/ncsl-committee-rejects-resolution-targeting-digital-pricing-technology/",
+        "sourceName": "Mass Market Retailers"
+      },
+      {
+        "title": "상반기 글로벌 전자종이 모듈 출하 2.02억 개, 전년비 -41.4%…월마트 물량 종료 영향",
+        "summary": "• 洛图科技(RUNTO) 집계 기준 2026년 상반기 글로벌 전자종이 모듈 출하량은 2.02억 개로 전년 동기 대비 41.4% 감소했다. 전자종이 가격표(ESL) 완제품 출하는 1.7억 개로 41.9% 줄었다.\n• 급락의 주된 원인은 월마트 ESL 발주 물량의 마무리다. 월마트는 2023년부터 글로벌 리테일 디지털화를 추진해 2026년 2월 전면 개조를 사실상 완료했다.\n• 브랜드 점유율은 Vusion이 37.2%로 1위를 유지했으나 월마트 물량 종료 여파로 전년 동기 대비 4.5%p 하락했다. 이어 汉朔(Hanshow), 韩国 Solum, Rainus가 2~4위를 차지했다.\n• TOP4 브랜드 합산 점유율은 85.9%로 2025년 상반기 대비 4.2%p 상승해 상위 집중도가 높아졌다.\n• 모듈 부문은 BOE·DKE·SEEKINK·HKC 4개사 합산 79.7%이며, 2026년부터 HKC가 10%에 근접한 점유율로 4위에 진입했다.\n• 보고서는 카메라·인터랙티브 단말과 달리 전자종이 가격표는 정보를 단방향 표시할 뿐 사용자 프라이버시를 수집하지 않아 데이터 최소화·추적가능성 컴플라이언스 흐름에 부합한다고 평가했다.",
+        "implications": "[🔵 트렌드] 상반기 -41% 역성장은 월마트라는 초대형 단일 프로젝트의 기저효과이며 시장 구조 붕괴가 아니라는 점이 핵심이다. 다만 '분산적·비연속적' 수요 국면으로 전환된다는 전망은 대형 단건 수주 의존도가 높은 사업 구조에 경고 신호다. [🟢 기회] SOLUM은 3위를 유지했고 TOP4 집중도가 오히려 높아졌다. 또한 '전자종이 가격표는 프라이버시를 수집하지 않는다'는 평가는 현재 미국 감시가격 규제 논쟁에 그대로 활용 가능한 제3자 근거다. [⚡ 액션] 단일 초대형 고객 편중을 줄이는 중견 유통사·신흥시장 다변화와 VAS 매출 비중 확대가 필요하다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-17",
+        "sourceUrl": "http://m.pjtime.com/2026/8/m271961169214.shtml",
+        "sourceName": "投影时代 (PJTime, 데이터: 洛图科技 RUNTO)"
+      },
+      {
+        "title": "Grocery Dive, 2026년 하반기 식료품 산업 7대 쟁점 제시…'다이내믹 프라이싱 규제 확산' 포함",
+        "summary": "• Grocery Dive가 2026년 남은 기간의 식료품 산업 7대 질문을 정리하며 '다이내믹 프라이싱 규제가 얼마나 넓게 확산될 것인가'를 핵심 쟁점으로 꼽았다.\n• 시애틀 등 여러 주와 도시가 유사 입법을 검토 중이며, 연방 의원들도 8월 초 청문회를 열었다고 정리했다.\n• 뉴저지 신규법은 로열티 프로그램 회원 대상 가격이나 교사·재향군인 등 '광범위하게 정의된 집단'에 대한 할인에는 영향을 주지 않는다.\n• 메릴랜드 법은 통과 전 상당한 수정을 거쳤고, 일부 단체는 그 수정이 소비자 보호 범위를 축소했다고 주장한다.\n• 소비 지표도 악화됐다. 컨설팅사 Acosta 보고서 기준 일반적인 식료품 장보기 바구니 가격은 2020~2026년 사이 약 27% 올라 366달러가 됐다.\n• Bain & Company가 집계한 NielsenIQ 데이터에 따르면 6월 미국 식료품 판매 수량은 전년 동월 대비 약 2% 감소해 5개월 연속 마이너스 성장을 기록했다.",
+        "implications": "[🔴 위협] 규제 리스크와 소비 위축이 동시에 진행 중이다. 5개월 연속 판매 수량 감소는 유통사 CAPEX 축소로 이어져 ESL 신규 투자 결정을 늦출 수 있다. [🟢 기회] 반대로 물가 부담과 수량 감소 국면에서는 가격 민첩성·인건비 절감이라는 ESL의 ROI 논리가 더 강해진다. [⚡ 액션] 미주 제안서에서 '비용절감·인력 재배치 ROI'를 규제 리스크 대응 메시지와 묶어 제시하는 접근이 유효하다.",
+        "imageUrl": "https://imgproxy.divecdn.com/P_-zxR5GaCQuhv4nk_JECjC1iTyQtdt1OytWTRTkWe4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3MzU4NDI3LmpwZw==.webp",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://www.grocerydive.com/news/7-big-grocery-industry-questions-2026-snap-inflation-mergers-dynamic-pricing/826644/",
+        "sourceName": "Grocery Dive"
+      }
+    ],
+    "customerAdoption": {
+      "식료품": [
+        {
+          "title": "Hy-Vee, 26.5만 상품 속성 표준화…AI 예측·대체상품 추천으로 디지털 진열 고도화",
+          "summary": "• 미국 중서부 식료품·편의점·드럭스토어 체인 Hy-Vee가 약 26만 5,000개 상품을 1,200개 이상 속성 유형과 5,800개 활성 카테고리로 구조화했다. SKU당 평균 7개 속성이 부여됐다.\n• 예측(predictions) 기능이 고객이 검색하기 전에 필요할 상품을 미리 예상하는 선행적 인텔리전스를 더한다.\n• 선호 상품이 품절일 때 대체안을 제시하는 substitutions 경험도 함께 제공한다.\n• Hy-Vee는 Prodx Aisles 앱을 활용해 디지털 머천다이징 경험을 직접 통제하고, 개별 쇼퍼 단위 개인화와 A/B 테스트를 수행한다.\n• Hy-Vee는 미 중서부 8개 주에서 560개 이상 매장을 운영하는 종업원 지주회사로 연매출 140억 달러 이상 규모다.",
+          "implications": "[🔵 트렌드] 상품 마스터데이터 표준화는 ESL·디지털 사이니지·리테일 미디어가 제대로 작동하기 위한 전제 인프라다. 유통사들이 '가격표 이전 단계'인 데이터 정합성에 먼저 투자하고 있다는 신호다. [🟢 기회] SOLUM은 ESL 도입 제안 시 상품 속성·마스터데이터 연동 역량을 차별화 포인트로 앞세울 수 있다. 속성 데이터가 정비된 고객은 VAS(품절 알림·대체상품 표시) 확장 여지가 크다.",
+          "imageUrl": "https://chainstoreage.com/images/v/16_x_9_480/s3fs-public/2024-03/hy-vee.jpg",
+          "pubDate": "2026-08-18",
+          "sourceUrl": "https://chainstoreage.com/news-briefs/2026-08-18?article=hy-vee-standardizes-product-attributes",
+          "sourceName": "Chain Store Age"
+        }
+      ],
+      "편의점": [
+        {
+          "title": "美 편의점 체인 Weigel's, 테네시 90개 전 매장에 Tote AI 네이티브 POS 도입",
+          "summary": "• 테네시 소재 편의점 체인 Weigel's가 테네시 전역 90개 전 매장에 Tote의 AI 네이티브 POS 솔루션을 배포한다.\n• 이 플랫폼은 POS·백오피스·푸드서비스·매장 운영을 단일 클라우드 아키텍처로 통합하며, 기술 발전에 따라 지속 개선되도록 설계됐다.\n• Doug Yawberry Weigel's 사장 겸 CEO는 \"Tote AI는 우리 사업만큼 빠르게 성장·진화할 수 있는 플랫폼을 제공한다\"고 말했다.\n• Tote AI 솔루션을 도입한 다른 편의점 사업자로는 Huck's Market과 매장 직원용 AI 에이전트 'Tote Genie'를 도입한 Loop Neighborhood Markets가 있다.\n• 1931년 설립된 Weigel's는 편의점 90곳과 커미서리·유가공·베이커리를 운영하는 가족기업이다.",
+          "implications": "[🔵 트렌드] 편의점 세그먼트에서 POS·백오피스·매장운영을 하나의 클라우드로 묶는 '통합 매장 플랫폼' 수요가 뚜렷하다. ESL은 이 통합 스택 안의 한 레이어로 편입될 때 채택 확률이 높아진다. [⚡ 액션] SOLUM은 북미 편의점 공략 시 독립형 ESL이 아니라 Tote·Toshiba·NCR 등 POS 플랫폼과의 표준 연동(API·인증)을 선제 확보하는 파트너십 전략이 필요하다.",
+          "imageUrl": "https://chainstoreage.com/images/v/16_x_9_480/2020-12/Weigels_0.jpg",
+          "pubDate": "2026-08-19",
+          "sourceUrl": "https://chainstoreage.com/news-briefs/2026-08-19?article=regional-convenience-retailer-weigels-unifies-store-operations-pos",
+          "sourceName": "Chain Store Age"
+        }
+      ],
+      "도매·캐시앤캐리": [
+        {
+          "title": "英 캐시앤캐리 도매업체 Parfetts, Cerve 에이전틱 AI 도입…공급사 데이터 통합",
+          "summary": "• 영국 캐시앤캐리 도매업체 Parfetts가 Cerve와 다년 계약을 맺고 공급사 데이터 전반에 에이전틱 AI를 도입한다.\n• Cerve는 이메일·파일·시스템에 직접 연결해 추출한 데이터를 가격·프로모션·거래조건·상품 실적의 통합 뷰로 변환한다.\n• Cheryl Hope Parfetts 트레이딩 디렉터는 \"공급사에 추가 행정 부담을 주지 않으면서 더 명확하고 일관된 인사이트를 제공해 더 빠른 의사결정과 강력한 공동사업계획을 지원할 것\"이라고 밝혔다.\n• Guy Swindell 공동 상무이사는 \"매출 10억 파운드 달성이라는 목표는 지능적·지속적으로 성장할 역량에 대한 투자에 달려 있다\"고 말했다.\n• 도출된 인사이트는 Go Local 소매점의 상품 구색·프로모션·재고 가용성 강화에도 활용된다. 롤아웃이 진행 중이며 10월 가동 예정이다.",
+          "implications": "[🔵 트렌드] 에이전틱 AI가 프론트엔드가 아니라 가격·프로모션·거래조건 같은 백엔드 상거래 데이터에 먼저 적용되고 있다. ESL이 표시하는 '가격'의 소스가 되는 영역이다. [🟢 기회] SOLUM ESL 플랫폼이 이런 AI 기반 프라이싱·프로모션 엔진의 출력단(execution layer)으로 자리잡으면, 가격 변경 빈도 증가 → ESL 가치 증대로 직결된다. 도매·캐시앤캐리는 아직 ESL 침투율이 낮은 미개척 세그먼트다.",
+          "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a833fa092964a0d98b59f6a/1787027068554/Depot1.JPG?format=1500w",
+          "pubDate": "2026-08-17",
+          "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/17/cash-and-carry-wholesaler-parfetts-targets-data-led-growth-as-it-taps-cerve-agentic-ai-platform",
+          "sourceName": "Retail Technology Innovation Hub"
+        }
+      ]
+    },
+    "majorCompanies": [
+      {
+        "title": "Target, 재고 디지털 트윈 'Proxima' 가동…신선식품 진열 가용성 2.5% 개선",
+        "summary": "• Target이 미들마일 재고 포지셔닝 시스템의 디지털 트윈인 'Proxima'를 도입했다. 물류센터 간·매장 간 상품 이동 결정을 담당하는 시스템을 복제한 것이다.\n• Proxima는 실제 재고 플랫폼과 동일한 데이터·로직을 사용해, 재고팀이 결정을 실행하기 전에 결과를 시뮬레이션할 수 있게 한다.\n• 식품 63개 품목 대상 소규모 파일럿에서 재고 흐름 변경을 시뮬레이션해 사전에 문제를 교정했고, 그 결과 신선식품의 진열 가용성(on-shelf availability)을 2.5% 개선했다.\n• Target 최초의 111만 5천㎡(120만 sq ft)급 신규 시설에는 6개 지역 물류센터와 플로우 센터를 지원하는 재고 보관 능력이 확보됐으며, 개장 전 Proxima로 약 98% 정확도의 재고 흐름 시뮬레이션을 수행했다.\n• Target은 Proxima가 생성하는 인사이트가 향후 AI 기반 에이전틱 의사결정 지원으로 확장돼 대안 평가·우선순위 결정·운영 대응 자동화를 도울 수 있다고 밝혔다.",
+        "implications": "[🔵 트렌드] '온셸프 가용성(OSA)'이 유통사 기술 투자의 최상위 KPI로 굳어지고 있다. 디지털 트윈은 공급망 상류에서, ESL·셸프 카메라는 매장 말단에서 같은 지표를 겨냥한다. [🟢 기회] SOLUM은 ESL이 단순 가격 표시가 아니라 OSA 개선 데이터 소스(픽투라이트·재고 알림·전자 라벨 기반 스캔)임을 Target식 KPI 언어로 재정의해 제안할 수 있다. [⚡ 액션] 디지털 트윈·에이전틱 재고 플랫폼과의 데이터 연계 시나리오를 상품기획에 반영할 시점이다.",
+        "imageUrl": "https://imgproxy.divecdn.com/1x2hRQR5ekDy_-QgNnZ1eE6DIUUGBkRUgGKD34FTSnk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90YXJnZXRfSVljUWpLZi5qcGc=.webp",
+        "pubDate": "2026-08-17",
+        "sourceUrl": "https://www.retaildive.com/news/target-inventory-management-digital-twins/827995/",
+        "sourceName": "Retail Dive"
+      },
+      {
+        "title": "Target 2분기 매출 265억 달러·동일점 3.8% 성장…리모델링 CAPEX 30% 증액",
+        "summary": "• Target의 2026년 2분기 순매출은 265억 달러로 전년 동기 대비 5.3% 증가했고, 동일점 매출은 3.6%의 방문객 증가에 힘입어 3.8% 성장했다.\n• 회사는 \"10년 넘는 기간 중 최대 규모의 식품 전환을 최근 완료해, 센터스토어 식품 구색의 거의 절반의 진열 방식을 바꾸고 엔드캡과 통로 내 진열을 재구성했다\"고 밝혔다.\n• 재고 디지털 트윈 Proxima가 2분기 재고 확보율 개선을 뒷받침했으며, 회사는 이를 '수년 내 최고 수준'이라고 표현했다.\n• OpenAI·Google 등 외부 AI 플랫폼에서 유입되는 디지털 트래픽이 전년 대비 업계 평균의 3.5배 이상 속도로 증가하고 있다.\n• 연간 자본지출은 약 50억 달러로 2025년 대비 30% 가까이 늘어날 전망이며, 2026년 130개 매장 전면 리모델링이 계획돼 있다.",
+        "implications": "[🟢 기회] 미국 대형 유통사의 매장 리모델링 CAPEX가 30% 증가하고 130개 전면 리모델링이 예정돼 있다는 점은 ESL·매장 디지털화 벤더에 직접적인 수주 기회다. [⚡ 액션] SOLUM 미주 영업은 리모델링 사이클(설계 단계)에 맞춘 조기 접촉이 필요하다. 엔드캡·통로 진열 재구성은 전자 라벨·전자 사이니지 교체 수요와 시점이 겹친다. [🔵 트렌드] AI 플랫폼발 트래픽 급증은 온·오프라인 가격 일관성 요구를 높여 ESL의 실시간 동기화 가치를 강화한다.",
+        "imageUrl": "https://www.retailtouchpoints.com/wp-content/uploads/2026/08/Target-2.png",
+        "pubDate": "2026-08-19",
+        "sourceUrl": "https://www.retailtouchpoints.com/news/targets-grocery-and-fun-101-merchandising-overhaul-shows-traction/621069/",
+        "sourceName": "Retail TouchPoints"
+      },
+      {
+        "title": "Home Depot, 2,000개 매장을 풀필먼트 허브로…미 전역 'Express Delivery' 개시",
+        "summary": "• Home Depot이 미국 전역에서 Express Delivery 서비스를 개시했다. 별도 구독이나 멤버십 없이 소액 정액 요금만 내면 이용할 수 있다.\n• 2,000개 이상의 미국 매장을 풀필먼트 허브로 활용하는 공급망 네트워크를 기반으로 한다.\n• 전문 시공 프로젝트용 자재·부자재를 포함해 3시간 이내 배송을 제공한다.\n• 고객은 상품 페이지와 장바구니 결제 단계에서 Express Delivery 적용 여부를 확인할 수 있다.\n• Jordan Broggi 인터커넥티드 리테일 부문 EVP는 \"고객은 필요한 시점과 장소에 상품이 있기를 기대하며, Express Delivery는 빠르고 신뢰할 수 있는 방식으로 그 기대에 부응한다\"고 밝혔다.",
+        "implications": "[🔵 트렌드] 매장을 풀필먼트 허브로 전환하는 흐름이 홈임프루브먼트까지 확산됐다. 매장 재고 정확도와 피킹 효율이 매출에 직결되면서, 로케이션 표시·픽투라이트 등 ESL 부가 기능의 필요성이 커진다. [🟢 기회] SOLUM은 DIY·건자재 등 비식품 대형 포맷 매장을 ESL 확장 세그먼트로 볼 수 있다. SKU가 많고 가격 변동이 잦으며 피킹 동선이 긴 특성이 ESL ROI에 유리하다.",
+        "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a84970ecc9dba132d0a6f3a/1787115535900/The+Home+Depot.png?format=1500w",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/18/the-home-depot-leverages-store-network-as-retailer-rolls-out-express-delivery-service-across-america",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Sainsbury's, 오인 적발 논란에도 Facewatch 얼굴인식 200개점 확대 강행",
+        "summary": "• Sainsbury's가 이달 초 고객이 절도범으로 잘못 지목돼 퇴장 요구를 받은 사건에도 불구하고, 2026년 중 약 200개 매장으로 Facewatch 얼굴인식 기술 도입을 계속하겠다고 밝혔다.\n• Sainsbury's 대변인은 \"이번 사건은 얼굴인식 기술이 아니라 사람의 실수 때문이며, Facewatch 시스템의 정확도는 99.98%이고 모든 매칭은 훈련받은 관리자가 검토한다\"고 설명했다.\n• Facewatch 측도 \"자사 실시간 얼굴인식 기술에 결함은 없었고, 올바른 경보가 발송됐으나 소매업체의 처리·전달 과정에서 사람의 실수가 있었다\"고 밝혔다.\n• 46세 Matt Arnold는 East Dulwich 매장 셀프체크아웃에서 상품을 구매하던 중 매장 관리자에게 제지당했으며, BBC 런던에 \"직원이 AI가 나를 식별했고 카메라가 나를 플래그했다고 말했다\"고 전했다.\n• Sainsbury's는 앞서 Elephant and Castle 매장에서 발생한 별개 사건에 대해서도 해당 고객에게 사과했다고 덧붙였다.",
+        "implications": "[🔴 위협] 매장 내 AI·카메라 기술에 대한 프라이버시 여론이 악화되면 ESL·셸프 카메라·컴퓨터 비전을 묶어 규제하려는 압력이 커질 수 있다. 미국 감시가격 논쟁과 같은 결의 리스크다. [⚡ 액션] SOLUM은 카메라 기반 셸프 모니터링 제품군을 제안할 때 데이터 처리 범위·저장 정책·익명화 수준을 명시한 프라이버시 설계 문서를 표준 제공물로 갖춰야 한다. ESL(비수집)과 비전 솔루션(수집)의 경계를 스스로 명확히 구분해 커뮤니케이션하는 것이 방어에 유리하다.",
+        "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a848ac10810f50e8babbb9a/1787114911528/sainsburyscustomer11.jpg?format=1500w",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/18/sainsburys-keeps-the-faith-with-facewatch-ai-technology-as-customer-is-wrongly-accused-of-shoplifting",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
+    "solutionProviders": [
+      {
+        "title": "솔루엠 2분기 매출 4,918억·영업이익 218억…ESL 상반기 34% 성장, 전성호 회장 40억 자사주 매입",
+        "summary": "• 솔루엠은 2분기 연결 기준 매출 4,918억 원, 영업이익 218억 원을 기록했다. 전년 동기 대비 매출 22%, 영업이익 79% 증가한 수치다.\n• 1분기 영업이익 217억 원에 이어 상반기 누적 435억 원을 거두며 지난해 연간 영업이익(465억 원)에 육박했다.\n• ESL 부문은 2분기 매출 1,799억 원, 상반기 누적 3,401억 원으로 전년 동기 대비 34% 성장했다. 스테이플스(153억 원), 웨이트로즈(137억 원), 아마존 홀푸드(100억 원) 등 신규 글로벌 유통망을 확보했다.\n• 지역별로 미주 44%, 일본 114% 성장하며 ICT 부문 2분기 매출은 42% 증가한 2,039억 원을 기록했다.\n• 포르투갈 전기차 충전 솔루션 기업 i-charging의 MAX 플랫폼에 1.6MW급 초고속 충전용 50kW 모듈 공급사로 선정됐다.\n• 하반기 매출 가이던스로 전년 동기 대비 9% 증가한 9,809억 원을 제시했으며, 전성호 회장은 1~7월 총 23만 2,001주(약 38억 7,340만 원)를 장내 매수했다.",
+        "implications": "[🟢 기회] RUNTO 기준 글로벌 ESL 시장이 상반기 -41.9% 역성장한 가운데 SOLUM ESL은 +34% 성장했다. 월마트 단일 프로젝트 종료의 역풍을 받은 Vusion과 대조되는 실적으로, 고객 포트폴리오 분산 전략이 유효했음을 보여준다. [🔵 트렌드] 스테이플스·웨이트로즈·홀푸드 등 비(非)전통 그로서리와 프리미엄 채널로의 확장이 성장 동인이다. [⚡ 액션] 미주 44%·일본 114% 성장 모멘텀을 유지하되, 미국 감시가격 규제 리스크가 미주 파이프라인에 미칠 영향을 하반기 가이던스 대비 별도 모니터링할 필요가 있다.",
+        "imageUrl": "https://img.etoday.co.kr/pto_db/2026/08/20260814132647_2373417_1195_201.png",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://www.etoday.co.kr/news/view/2614734",
+        "sourceName": "이투데이"
+      },
+      {
+        "title": "솔루엠, 미국 자회사 3,000만 달러 증자·멕시코 신공장…ESL 영업망을 K-뷰티·AI로 확장",
+        "summary": "• 솔루엠은 8월 13일 이사회에서 100% 미국 자회사(SoluM USA Inc.)의 3,000만 달러(약 425억 원) 규모 주주배정 유상증자 참여를 결의했다. 출자 예정일은 28일이다.\n• 멕시코 바하칼리포니아주 티후아나 신공장은 기존 대비 4배 가까이 넓은 9만 5,700㎡ 규모로, 핵심 기지인 베트남 하노이 공장보다 2.4배 크다.\n• 800VDC급 고전압 직류(HVDC) 기반 26kW급 DC-DC 컨버터를 독자 개발했다.\n• 회사는 본업인 ESL 영업망(테스코·까르푸 등)을 K-뷰티 수출 플랫폼으로 전환한다는 구상을 갖고 있다.\n• 1분기 말 기준 ESL 누적 수주 잔고는 2조 3,000억 원이며, 고마진 소프트웨어 부가가치 서비스(VAS) 비중 확대를 추진 중이다.\n• 종속회사 솔루엠코스메틱을 통해 코스닥 상장사 아이큐어 경영권 인수를 추진하며, 총 182억 원 규모 제3자배정 유상증자에 단독 참여해 지분 30.3%를 확보할 예정이다.",
+        "implications": "[🟢 기회] 멕시코 티후아나 신공장(하노이의 2.4배)은 미국 관세·니어쇼어링 리스크에 대한 구조적 대응이며, 미주 ESL 수요 회복 시 즉시 대응할 생산 캐파를 확보한다는 의미다. [🔵 트렌드] 'ESL 하드웨어 → 유통 채널 자산화(K-뷰티)·VAS' 로의 사업 확장은 Vusion의 리테일 미디어 확장과 같은 방향성이지만 접근 경로가 다르다. [⚡ 액션] ESL 수주 잔고 2.3조 원의 실현 속도와 VAS 비중 목표를 분기별로 명시해 시장과 소통하는 것이 밸류에이션에 유리하다.",
+        "imageUrl": "https://cdn.numbers.co.kr/news/photo/202608/21795_32072_1787105178.jpg",
+        "pubDate": "2026-08-19",
+        "sourceUrl": "https://www.numbers.co.kr/news/articleView.html?idxno=21795",
+        "sourceName": "넘버스"
+      },
+      {
+        "title": "Hanshow, 미국 관세 환급 2,310만 달러 수령…2026년 순이익 7,117만 위안 증가 효과",
+        "summary": "• 汉朔科技(Hanshow, 301275.SZ)는 완전자회사 미국 한슈어가 미국 관세 및 이자 환급으로 누적 2,310만 6,400달러(약 1억 5,700만 위안)를 수령했다고 공시했다.\n• 해당 금액은 2026년 당기손익에 반영될 예정이며, 예상 반영액은 회사 2026년 순이익 기준 약 7,117만 1,600위안이다.\n• 이는 최근 감사 기준 순이익의 15.75%에 해당하는 규모다.\n• 같은 시기 利亚德(Leyard)도 1억 1,200만 위안 규모의 관세 환급을 공시하는 등, 중국 디스플레이 업체들의 대미 관세 환급이 잇따르고 있다.",
+        "implications": "[🔴 위협] 관세 환급은 Hanshow의 미국 시장 원가 부담을 사후적으로 낮춰주는 요인으로, 북미 ESL 입찰에서 가격 경쟁력이 재차 강화될 수 있다. [⚡ 액션] SOLUM 미주 영업은 향후 12개월 북미 프로젝트 견적에서 중국 벤더의 실효 원가 하락 시나리오를 반영한 가격 시뮬레이션을 준비하고, 멕시코 생산 기지의 원산지 이점을 컴플라이언스 논거와 함께 부각할 필요가 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://news.qq.com/rain/a/20260818A0CBA200",
+        "sourceName": "财联社 (via 腾讯新闻)"
+      },
+      {
+        "title": "合力泰 상반기 전자종이 매출 8.14억 위안…전체 매출의 87%, 해외 매출 31% 성장",
+        "summary": "• ST 合力泰는 2026년 상반기 매출 9억 3,600만 위안으로 전년 동기 대비 12.30% 증가했으나, 상장사 귀속 순이익은 249만 7,500위안으로 77.90% 급감했다.\n• 전자종이 디스플레이 제품 매출은 8억 1,400만 위안으로 전체 매출의 86.97%를 차지했고, 매출총이익률은 17.84%였다.\n• 전자종이 사업은 지배 손자회사 江西兴泰科技(SEEKINK)가 운영하며 회사 수익과 이익의 핵심 축이다.\n• 회사는 2026년 상반기 글로벌 전자종이 산업이 구조적 조정에 들어갔으며, 전자가격표시기는 고성장을 유지한 반면 전자종이 태블릿 시장은 일시적 압박을 받았다고 평가했다.\n• 兴泰科技는 자체 개발 6색 컬러 전자종이 디스플레이 모듈의 양산 상용화를 달성했고, 베트남 생산기지 2기를 준공·양산했으며 지안시 140무 규모 스마트 단지를 추진 중이다.\n• 해외 매출은 5억 2,200만 위안으로 비중 55.76%, 전년 대비 31.25% 성장했다.",
+        "implications": "[🔵 트렌드] 전자종이 모듈 공급망에서 '가격표는 호황, 태블릿은 부진'이라는 구조 분화가 확인됐다. RUNTO의 상반기 -41% 수치가 ESL 수요 붕괴가 아니라 월마트 기저효과임을 뒷받침하는 교차 증거다. [🟢 기회] 6색 컬러 전자종이 모듈 양산 상용화는 컬러 ESL·전자 사이니지의 원가 하락을 예고한다. SOLUM은 컬러 라인업 로드맵과 모듈 소싱 다변화(BOE·DKE·SEEKINK·HKC)를 재점검할 시점이다. [⚡ 액션] 베트남 2기 증설로 공급망의 탈중국 옵션이 넓어진 점도 조달 협상 레버리지로 활용 가능하다.",
+        "imageUrl": "https://n.sinaimg.cn/spider20260818/189/w700h289/20260818/3dcb-5ccadbc3bc21be818a2ad31a8a529f8a.jpg",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://finance.sina.cn/tech/2026-08-18/detail-ininrzhc6729006.d.html?vt=4",
+        "sourceName": "新浪财经"
+      }
+    ],
+    "technology": [
+      {
+        "title": "전자종이 디스플레이, 새로운 사이니지 생태계로…\"SOLUM·Vusion, ESL 역량을 대형 포맷으로 확장\"",
+        "summary": "• E Ink는 90% 이상의 시장 점유율로 여전히 업계의 사실상 표준이며 PPDS·Dynascan·Sharp·Samsung이 모두 E Ink 패널 기술에 의존한다.\n• 디지털 사이니지용 핵심 기술은 6만 색 이상을 구현하는 Spectra 6이며, 주된 한계는 실내 전용 설계라는 점이다. 옥외용으로는 지난 1년간 Marquee 기술이 포트폴리오에 추가됐다.\n• E Ink는 AUO와의 합작을 포함해 대형 패널 생산능력을 대폭 확대할 계획을 발표했다.\n• Samsung은 전자종이 디스플레이용 자체 컬러 이미징 알고리즘을 개발해 약 250만 색의 시각적 인상을 구현할 수 있다고 주장한다.\n• 기사는 \"Vusiongroup(구 SES-Imagotag)과 Solum 같은 ESL 전문기업들이 수백만 대의 커넥티드 전자 라벨을 관리해온 역량을 더 큰 디스플레이 포맷으로 확장하고 있다\"고 평가했다. 특히 \"삼성 계열사였던 Solum은 전자종이 사이니지를 자사 매장 관리 플랫폼에 통합해 ESL·카메라·센서와 함께 더 넓은 리테일 생태계 안에 편입시켰다\"고 명시했다.\n• 남은 핵심 장벽은 가격이다.",
+        "implications": "[🟢 기회] 디지털 사이니지 전문 매체가 SOLUM을 Vusion과 나란히 '전자종이 사이니지 생태계의 핵심 플레이어'로 명시했다. ESL 벤더에서 매장 디스플레이 플랫폼 사업자로의 포지셔닝 전환이 외부에서도 인정받고 있다는 신호다. [🔵 트렌드] E Ink의 대형 패널 캐파 확대(AUO 합작)와 Samsung의 컬러 알고리즘 경쟁은 대형 전자종이 사이니지의 가격 장벽을 낮출 것이다. [⚡ 액션] 'ESL+사이니지+카메라·센서 통합 플랫폼'이 SOLUM의 차별화 서사로 유효하게 작동하고 있으므로, 대형 포맷 라인업과 통합 관리 소프트웨어를 세일즈 전면에 배치할 만하다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/2026-JB-EN-01-E-Paper.jpg",
+        "pubDate": "2026-08-19",
+        "sourceUrl": "https://invidis.com/news/2026/08/e-paper-displays-a-new-signage-ecosystem/",
+        "sourceName": "invidis"
+      },
+      {
+        "title": "도쿄역, 종이 광고판을 E Ink Spectra 6 풀컬러 전자종이 사이니지로 대체 실증",
+        "summary": "• E Ink 元太科技가 JR東海エージェンシー(JTA)와 협력해 도쿄역 일부 구역의 기존 종이 광고판을 E Ink Spectra 6 기반 풀컬러 전자종이 사이니지로 교체하는 실증을 시작했다. 기간은 현재부터 2027년 3월까지다.\n• 시스템 통합 및 완제품 솔루션은 AUO Display Plus(達擎)와 Sharp(夏普)가 각각 제공한다.\n• 야에스 남쪽 출구에는 AUO Display Plus의 31.5인치 AecoPost와 Sharp의 A2 사이즈 ePoster가, 니혼바시 출구에는 AUO Display Plus 31.5인치 AecoPost가 설치됐다.\n• 해당 구역의 1일 통행 인구는 약 10만 명에 달한다.\n• 洪集茂 元太科技 총경리는 \"이번 실증 계획은 전자종이가 교통 광고를 더 지속가능한 방향으로 이끌 수 있음을 다시 한번 보여준다\"고 밝혔다.",
+        "implications": "[🟢 기회] 일본은 SOLUM ESL 매출이 전년 대비 114% 성장한 시장이다. 도쿄역 실증은 일본 내 전자종이 사이니지 수요 개화의 신호탄으로, ESL 고객사에 사이니지를 교차판매할 타이밍이 왔음을 시사한다. [🔵 트렌드] 리테일 밖(교통·옥외 광고)으로 전자종이 사이니지 응용처가 확장되면서 패널 물량 증가 → 단가 하락 → ESL 원가 개선의 선순환이 기대된다. [⚡ 액션] AUO·Sharp가 완제품 통합을 맡은 구조에서 SOLUM은 '플랫폼(콘텐츠 관리·네트워크) 역량'으로 차별화하는 것이 현실적이다.",
+        "imageUrl": "https://img.technews.tw/wp-content/uploads/2026/08/18172709/Tokyo-Station-pilots-full-color-ePaper-signage-powered-by-E-Ink-Spectra-6.jpg",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://technews.tw/2026/08/18/tokyo-station-pilots-full-color-epaper-signage-powered-by-e-ink-spectra-6/",
+        "sourceName": "TechNews 科技新報"
+      },
+      {
+        "title": "프라하, 버스정류장에 E-Ink 디스플레이 첫 시범 도입…8개 정류장 운영",
+        "summary": "• 프라하가 신설 터널 버스노선 145번을 계기로 버스정류장에 E-Ink 디스플레이를 처음으로 시범 도입했다.\n• 총 8개 정류장의 신규 디지털 보드가 실시간 출발 시각과 주요 안내 정보를 표시한다.\n• 광역교통 조정기관 ROPID가 시영기업 Technologie hlavního města Prahy와 협력해 설치했다.\n• 도심 방향 Vychovatelna 정류장과 외곽 방향 Kuchyňka 정류장에서 시험 운영 중이다.\n• 상시 전력 인입이 경제적으로 타당하지 않은 위치를 의도적으로 선정해 E-Ink 기술을 적용했다.",
+        "implications": "[🔵 트렌드] '전력 인입이 어려운 곳'이라는 선정 기준은 전자종이의 초저전력 특성이 갖는 근본 가치를 잘 보여준다. ESL의 배터리리스·앰비언트 라이트 하베스팅 로드맵과 동일한 논리다. [🟢 기회] 유럽 공공 인프라에서 전자종이 채택이 확대되면 SOLUM의 유럽 사이니지 사업에 레퍼런스 확장 여지가 생긴다.",
+        "imageUrl": "https://pub-94d1cc15a07543a1a84d2eef096b8d24.r2.dev/posts/dsf3808-683x1024-1787120491632-psl6gn-lg.webp",
+        "pubDate": "2026-08-19",
+        "sourceUrl": "https://www.praguedaily.news/2026/08/19/new-tunnel-bus-route-145-prague-tests-e-ink-displays-at-bus-stops-for-the-first-time/",
+        "sourceName": "Prague Daily News"
+      },
+      {
+        "title": "Displayce, 에이전틱 DOOH 출시…MCP로 ChatGPT·Claude 직접 연동",
+        "summary": "• DOOH 전문 기술기업 Displayce가 디지털 옥외광고 캠페인의 기획·집행·분석을 전환하는 AI 에이전트 제품군을 출시했다.\n• AI 에이전트는 초기 브리프와 인벤토리 큐레이션부터 캠페인 사후 분석까지 미디어 의사결정에 직접 관여한다.\n• 대행사와 광고주가 미디어 시나리오를 며칠이 아닌 수 분 내에 생성·비교·검증할 수 있게 한다.\n• 에이전트는 MCP(Model Context Protocol)를 통해 ChatGPT나 Claude 같은 어시스턴트에 직접 통합될 수 있다.\n• Laure Malergue Displayce CEO는 \"DOOH는 여전히 너무 자주 집행 채널로만 취급된다. 우리는 이를 캠페인 설계 단계부터의 의사결정 레버로 바꾸고자 한다\"고 밝혔다.",
+        "implications": "[🔵 트렌드] 인스토어 미디어 판매·운영에 에이전틱 AI가 침투하기 시작했다. MCP 기반 표준 연동은 광고 인벤토리를 보유한 사업자가 외부 AI 어시스턴트에 직접 노출되는 구조를 만든다. [⚡ 액션] SOLUM이 ESL·전자 사이니지를 리테일 미디어 인벤토리로 수익화하려면, 자체 광고 관리 플랫폼에 프로그래매틱 표준(SSP 연동)과 MCP 수준의 개방형 API를 갖추는 것이 중장기 과제가 된다.",
+        "imageUrl": "https://nmgprod.s3.amazonaws.com/media/file/fb/41/fec31963c57a87c6137c16040fd7/cover_image__iCNFrmdM__AdobeStock_1885422522.jpeg.1600x900_q85_crop_upscale.webp",
+        "pubDate": "2026-08-17",
+        "sourceUrl": "https://www.digitalsignagetoday.com/news/displayce-launches-agentic-dooh-offering/",
+        "sourceName": "Digital Signage Today"
+      },
+      {
+        "title": "GSTV, Shinka를 미디에이션 파트너로 선정…옴니채널 프로그래매틱 연결성 강화",
+        "summary": "• 미국 전역 대상 이동 중 비디오 네트워크 GSTV가 수요원 중립적 글로벌 미디에이션 레이어인 Shinka를 미디에이션 파트너로 선정했다.\n• 이 제휴로 GSTV는 Equativ·Madhive·Magnite·Nexxen·OOH Connect 등 옴니채널 SSP·DSP에 대한 연결성을 확대해 전국 네트워크의 프로그래매틱 수익률을 극대화할 수 있게 됐다.\n• Shinka 플랫폼은 전통적 광고 서버 외부에서 경매를 수행하며, 미디어 소유자에게 실시간 입찰 단위 투명성을 제공한다.\n• GSTV는 수익화 전략에 대한 완전한 통제권을 유지하면서 단일·중립 통합 지점을 확보하게 된다.\n• Eric Kozik GSTV 임시 사장 겸 CEO는 \"Shinka를 미디에이션 레이어로 선택함으로써 오늘날 프로그래매틱 시장이 요구하는 투명성과 통제력을 갖춘 채 중요한 옴니채널 SSP·DSP와 중립적으로 연결된다\"고 말했다.",
+        "implications": "[🔵 트렌드] 인스토어·이동 중 미디어 네트워크가 자체 판매에서 프로그래매틱 개방으로 이동하고 있다. 미디에이션 레이어라는 중간 계층이 표준화되는 중이다. [⚡ 액션] SOLUM이 ESL·사이니지 기반 리테일 미디어를 추진할 경우, 자체 영업 대신 이런 중립 미디에이션 레이어에 인벤토리를 연결하는 편이 초기 수익화 속도가 빠르다. Vusion(In-Store Media 인수)과의 경쟁 구도에서 검토할 대안이다.",
+        "imageUrl": "https://nmgprod.s3.amazonaws.com/media/file/8a/dd/e54d7c643485ed83cd8235e5684e/cover_image__sud5r4EA__AdobeStock_2101739789.jpeg.1600x900_q85_crop_upscale.webp",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://www.digitalsignagetoday.com/news/gstv-taps-shinka-to-drive-omnichannel-programmatic-connectivity/",
+        "sourceName": "Digital Signage Today"
+      },
+      {
+        "title": "Broadsign '2026 프로그래매틱 DOOH 트렌드 리포트'…초기 도입자 넘어 성숙 시장 진입",
+        "summary": "• Broadsign의 '2026 Programmatic DOOH Trends Report'가 구매자들이 중시하는 요소와 미디어 소유자가 구매 시그널을 인벤토리 포지셔닝에 활용하는 방법을 분석했다.\n• 보고서는 프로그래매틱 DOOH가 더 이상 소수 얼리어답터에 국한되지 않는다고 진단했다.\n• 현재의 광고주 구성은 광범위한 비즈니스 상황과 활용 사례에서 가치를 입증한 채널을 반영하며, 이는 시장이 성숙하고 있다는 분명한 신호라고 평가했다.\n• 다만 구체적 금액이나 개별 도입 사례 수치는 제시되지 않은 벤더 리포트 요약 성격의 기사다.",
+        "implications": "[🔵 트렌드] 프로그래매틱 DOOH의 주류화는 인스토어 스크린·전자 사이니지의 수익화 경로가 표준화되고 있음을 뜻한다. ESL 벤더에게는 하드웨어 판매 외 광고 수익 셰어 모델의 실현 가능성이 높아진다는 의미다.",
+        "imageUrl": "https://nmgprod.s3.amazonaws.com/media/file/ce/f0/95213f6b00d925fea952e6bc6fe5/cover_image__j9IojlJL__AdobeStock_1697723185.jpeg.1600x900_q85_crop_upscale.webp",
+        "pubDate": "2026-08-19",
+        "sourceUrl": "https://www.digitalsignagetoday.com/news/programmatic-dooh-thriving-investment-strategies-expanding/",
+        "sourceName": "Digital Signage Today"
+      },
+      {
+        "title": "AppCard, 독립 식료품점용 '디지털 전단' 출시…POS 구매 데이터 기반 타깃 광고 결합",
+        "summary": "• AppCard가 온사이트·오프사이트 광고를 내장한 Digital Circular를 출시해, 독립 식료품점이 대형 체인과 경쟁할 수 있는 타깃팅 도구를 제공한다.\n• AppCard의 AI 'Pinky'가 전단을 클릭 가능한 형태로 전환하며, 쇼퍼가 할인 상품을 탭하면 6,500개 이상 라이브러리에서 해당 상품 기반의 검증된 레시피를 제시한다.\n• AppCard는 지출 패턴·우편번호·실제 POS 데이터, 즉 쇼퍼가 실제로 구매한 내역을 활용해 어떤 가구에 전단을 노출할지 정확히 지정한다.\n• 광고는 Google·YouTube·Gmail과 수백만 개 뉴스·스포츠·라이프스타일 사이트에 게재되며, 예산 배분과 성과는 별도 광고 플랫폼 없이 AMS 대시보드에서 관리된다.\n• Amichay Oren AppCard 공동창업자 겸 CTO는 \"추측은 비싸다. 쇼퍼가 실제로 사는 것을 기반으로 전단을 만들면 전단의 모든 요소가 더 열심히 일한다\"고 말했다.",
+        "implications": "[🔵 트렌드] 독립·중소 식료품점까지 리테일 미디어와 개인화 프로모션이 내려오고 있다. 전단(가격 프로모션)과 광고가 하나의 스택으로 합쳐지는 흐름이다. [🟢 기회] 전단 프로모션과 매장 내 가격 표시의 실시간 정합성은 ESL의 대표적 가치다. SOLUM은 중소 유통 대상 SaaS형 ESL+프로모션 연동 패키지로 진입 장벽을 낮추는 상품 기획을 검토할 만하다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://www.supermarketnews.com/grocery-technology/appcard-gives-independent-grocers-another-tool",
+        "sourceName": "Supermarket News"
+      },
+      {
+        "title": "Wonder·Serve Robotics, Grubhub 마켓플레이스에 로봇 배송 도입…시카고·LA·알렉산드리아 확대",
+        "summary": "• Wonder와 Serve Robotics가 Grubhub 마켓플레이스에 로봇 배송을 도입했다.\n• 이번 확대로 시카고 100개 이상, 로스앤젤레스 약 200개 참여 가맹점에서 로봇 배송이 가능해졌으며, Wonder의 알렉산드리아 포토맥 야드 지점에도 기술이 적용됐다.\n• Ali Kashani Serve Robotics 공동창업자 겸 CEO는 \"1년 전만 해도 우리 로봇은 몇몇 동네에서 저녁을 배달했지만, 오늘은 미국 최대 배달 플랫폼 3곳에 서비스하며 산호세에서 수도까지 새로운 도시로 확장하고 있다\"고 밝혔다.\n• Wonder는 최근 프리머니 기업가치 90억 달러에 6억 5,000만 달러 규모 시리즈 D를 유치했다.\n• 기존 투자자 Accel·GV(Google Ventures)·NEA가 참여했고, AllianceBernstein 운용 펀드·ARK Invest·Kayne Anderson Rudnick 운용 펀드가 신규 투자자로 합류했다. 회사는 2027~2028년 상장을 목표로 한다.",
+        "implications": "[🔵 트렌드] 라스트마일 자율 배송이 대형 플랫폼(Grubhub·Uber Eats·DoorDash) 전반으로 표준화되고 있다. ESL과 직접 연관은 약하나, 매장이 배송 허브가 되면서 매장 내 재고 정확도·피킹 효율의 중요성이 커지는 인접 트렌드다. [🟢 기회] 픽업·피킹 지원 기능(위치 표시, 픽투라이트, 주문 배치 표시)을 ESL 부가 서비스로 상품화할 근거가 강해진다.",
+        "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a83f05fa3a3af204bab093e/1787032514862/Wonder+Grubhub.jpeg?format=1500w",
+        "pubDate": "2026-08-18",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/18/wonder-and-serve-robotics-bring-robot-delivery-to-grubhub-marketplace-in-chicago-los-angeles-alexandria",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Zipline·Uber Eats 미국 제휴, 2029년 말까지 하루 100만 건 드론 배송 목표",
+        "summary": "• Zipline과 Uber Technologies가 미국 전역에서 드론 배송을 확장하기 위한 파트너십을 발표했다.\n• 첫 배치는 올해 후반 시작되며, Uber Eats 고객은 Zipline의 자율 서비스를 통해 수 분 내 주문을 받는 옵션을 선택할 수 있다.\n• Uber는 Zipline에 투자도 단행하며, 양사는 2029년 말까지 하루 100만 건의 드론 배송 달성을 목표로 한다.\n• Dara Khosrowshahi Uber CEO는 \"Zipline은 놀라운 기술을 구축했고 Uber는 매일 수백만 명을 지역 상인과 연결한다. 함께 더 빠르고 지속가능한 배송 방식을 만들어 배송의 미래를 만들어가고 있다\"고 밝혔다.\n• Keller Cliffton Zipline 공동창업자는 \"텔레포테이션은 더 이상 공상과학이 아니라 일상의 일부가 되고 있다\"고 말했다.",
+        "implications": "[🔵 트렌드] 초고속 배송 경쟁이 매장 재고 회전과 즉시 가용성 요구를 높인다. 가격·재고 정보의 실시간 동기화 필요성이 커지는 방향이므로 ESL에 간접적으로 우호적이다. [🟢 기회] 매장이 마이크로 풀필먼트 노드가 될수록 전자 라벨의 '위치·상태 표시' 역할이 온라인 주문 처리 효율과 직결된다.",
+        "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a83105769ca7170fa0dbd9c/1787027662196/ULTA_IMAGE_FINAL_UPDATED.jpg?format=1500w",
+        "pubDate": "2026-08-17",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/17/zipline-and-uber-eats-us-tie-up-targets-one-million-drone-deliveries-daily-by-the-end-of-2029",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ]
   }
 }

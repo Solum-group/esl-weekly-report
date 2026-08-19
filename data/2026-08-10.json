@@ -1,7 +1,7 @@
 {
   "weekId": "2026-08-10",
   "weekLabel": "2026.08.10 ~ 2026.08.16",
-  "searchAnalysis": "**08월 13일(목) 수집:** 주간(08.10~08.13) 기사 6건—공급사(Hanshow×Supermercados El Jamón 스페인 300만 ESL) 1, 주요 유통사(Kroger Simbe Tally 500대·Target 첫 CAIO) 2, 기술(Edgify 엣지AI 900만$·SPAR×Quail Digital 헤드셋·Just Eat 음성 AI) 3. [커버리지] RTIH=방문·경로①site:2026/8 열거+경로③ESLs/Stores 태그 교차확인·6건 포착 / SOLUM=범위 내 신규 무기사 / Hanshow=El Jamón 1건 / Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사 / ESM·The Grocer·Retail Detail EU·Retail Optimiser=방문·범위 내 신규 없음 / Grocery Dive·Retail Dive·Supermarket News·Progressive Grocer=방문·범위 내 ESL 신규 없음 / Digitimes=범위 내 신규 없음. [3.6-G Provenance] 공급사 뉴스룸 직접 WebFetch가 provenance로 전면 차단 → WebSearch 언락 경로로 대체 확인. [3.6-H STALE] RTIH ESLs/Stores 태그 페이지 최신 08.12까지만 반영 → 08.13 발행분은 site: 열거로 교차 확인(결과 0건). [주의] RTIH URL 슬러그 날짜와 실제 발행 바이라인이 1일 차이 나는 사례 다수(예: 슬러그 8/11=바이라인 8/12) → pubDate는 바이라인 기준으로 확정. [감사] 범위 내 미수집 0건 확인. 소급 1건(Shelby Report 08.03 기술 트렌드 설문)은 2026-08-03.json에 반영.\n\n**08월 17일(월) 보완 수집:** 전주 마감분(08.13 목~08.16 일) +5건—산업동향(ISN 유럽 ESL 시장 종합·NRF Europe 2026 프리뷰) 2, 주요 유통사(AS Watson×NCR Voyix 글로벌 커머스 플랫폼) 1, 기술(AutoStore×Amazon 글로벌 자동화 공급 기본계약·Delivery Hero 에이전틱 AI 어시스턴트) 2. [커버리지] RTIH=경로①site:2026/8 열거+8/16 주간 라운드업 2건 fetch·Grep 파싱 / ISN=Retail Technology 카테고리 방문·2건 포착 / Grocery Dive·Retail Dive·Supermarket News·Progressive Grocer=범위 내 ESL 신규 무기사 / Chain Store Age=범위 내 ESL 무기사(5/22 SOLUM 기고문 소급 반영) / SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink=범위 내 신규 PR 무기사. [3.6-G provenance] Google News RSS 쿼리형 URL 6종 전부 차단(SKILL.md 등록 URL이나 web_fetch provenance 미통과) → 3A 백본(site: 열거+원문 발행일 검증)으로 대체. [3.6-B 토큰초과] RTIH 기사 4건이 7만자 초과 → Grep 패턴 추출로 대체. [감사] site: 열거 대조 결과 범위 내 미수집 0건 확인. 8/16 RTIH 발행분은 주간 라운드업 2건뿐이라 개별 기사 없음.",
+  "searchAnalysis": "**08월 13일(목) 수집:** 주간(08.10~08.13) 기사 6건—공급사(Hanshow×Supermercados El Jamón 스페인 300만 ESL) 1, 주요 유통사(Kroger Simbe Tally 500대·Target 첫 CAIO) 2, 기술(Edgify 엣지AI 900만$·SPAR×Quail Digital 헤드셋·Just Eat 음성 AI) 3. [커버리지] RTIH=방문·경로①site:2026/8 열거+경로③ESLs/Stores 태그 교차확인·6건 포착 / SOLUM=범위 내 신규 무기사 / Hanshow=El Jamón 1건 / Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사 / ESM·The Grocer·Retail Detail EU·Retail Optimiser=방문·범위 내 신규 없음 / Grocery Dive·Retail Dive·Supermarket News·Progressive Grocer=방문·범위 내 ESL 신규 없음 / Digitimes=범위 내 신규 없음. [3.6-G Provenance] 공급사 뉴스룸 직접 WebFetch가 provenance로 전면 차단 → WebSearch 언락 경로로 대체 확인. [3.6-H STALE] RTIH ESLs/Stores 태그 페이지 최신 08.12까지만 반영 → 08.13 발행분은 site: 열거로 교차 확인(결과 0건). [주의] RTIH URL 슬러그 날짜와 실제 발행 바이라인이 1일 차이 나는 사례 다수(예: 슬러그 8/11=바이라인 8/12) → pubDate는 바이라인 기준으로 확정. [감사] 범위 내 미수집 0건 확인. 소급 1건(Shelby Report 08.03 기술 트렌드 설문)은 2026-08-03.json에 반영.\n\n**08월 17일(월) 보완 수집:** 전주 마감분(08.13 목~08.16 일) +5건—산업동향(ISN 유럽 ESL 시장 종합·NRF Europe 2026 프리뷰) 2, 주요 유통사(AS Watson×NCR Voyix 글로벌 커머스 플랫폼) 1, 기술(AutoStore×Amazon 글로벌 자동화 공급 기본계약·Delivery Hero 에이전틱 AI 어시스턴트) 2. [커버리지] RTIH=경로①site:2026/8 열거+8/16 주간 라운드업 2건 fetch·Grep 파싱 / ISN=Retail Technology 카테고리 방문·2건 포착 / Grocery Dive·Retail Dive·Supermarket News·Progressive Grocer=범위 내 ESL 신규 무기사 / Chain Store Age=범위 내 ESL 무기사(5/22 SOLUM 기고문 소급 반영) / SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink=범위 내 신규 PR 무기사. [3.6-G provenance] Google News RSS 쿼리형 URL 6종 전부 차단(SKILL.md 등록 URL이나 web_fetch provenance 미통과) → 3A 백본(site: 열거+원문 발행일 검증)으로 대체. [3.6-B 토큰초과] RTIH 기사 4건이 7만자 초과 → Grep 패턴 추출로 대체. [감사] site: 열거 대조 결과 범위 내 미수집 0건 확인. 8/16 RTIH 발행분은 주간 라운드업 2건뿐이라 개별 기사 없음. [소급 08/11 추가] 포브스 'ESL과 감시가격 분리' 칼럼 — 08/20 run에서 뒤늦게 포착. [소급 08/13 추가] 스페인 Consum 신선식품 ESL 790만 유로·32.2만 개 — 08/20 run에서 뒤늦게 포착. [소급 08/14 추가] E Ink 2026 가이던스 하향(ESL은 20~25% 성장 유지) — 08/20 run에서 뒤늦게 포착.",
   "sections": {
     "industryTrends": [
       {
@@ -21,9 +21,30 @@
         "pubDate": "2026-08-14",
         "sourceUrl": "https://internationalsupermarketnews.com/nrf-europe-2026-retail-technology-competition-is-about-to-get-serious/",
         "sourceName": "International Supermarket News"
+      },
+      {
+        "title": "포브스 \"소매업계, ESL을 감시가격과 분리해야…연방 압박 커진다\"",
+        "summary": "• 미 상원 법사위 소위가 Josh Hawley 위원장 주재로 'AI 감시가격의 착취적 관행'을 겨냥한 청문회를 열었다.\n• Hawley 의원은 \"AI 감시가격은 미국인이 싫어하는 모든 것의 불경한 삼위일체 — 사람을 감시하고, 돈을 뜯어내고, 일자리를 빼앗는 것\"이라고 발언했다.\n• 그는 Kroger가 지난해 로열티 고객 데이터 판매로 5억 달러 이상을 벌었고, Delta가 AI 감시가격 기업 Fetcher와 제휴 중이라고 지적했다.\n• Hawley는 '디지털 셸프 라벨'(업계 용어로는 전자가격표시기)을 종이 라벨 교체 인력이 필요 없어져 소매 일자리를 없애는 기술로 규정하며 공격했다.\n• GBAO Strategies가 UFCW 후원으로 미국 유권자 1,000명을 조사한 결과, 65%가 종이 가격표를 디지털로 바꾸면 식료품이 더 비싸질 것이라 답했고, 약 70%는 감시가격과 ESL 양쪽 모두의 금지를 지지했다.\n• 필자는 \"ESL에는 소비자 데이터를 수집하거나 즉석에서 가격을 바꾸는 비디오 카메라나 센서가 없다. ESL은 매장 운영을 효율화하고 그를 통해 고객을 더 잘 응대한다\"며 두 개념의 분리를 촉구했다.\n• 이번 사안에서 가장 이해관계가 큰 조직인 전미소매협회(NRF)는 5쪽짜리 서면 의견만 제출한 채 청문회에 불참해 눈에 띄었다.",
+        "implications": "[🔴 위협] 여론 조사상 미국 유권자 70%가 ESL 금지에 찬성한다는 수치는 규제 리스크가 정치적으로 매우 저렴한 선택지가 됐음을 뜻한다. [⚡ 액션] 업계가 '감시가격 ≠ ESL' 프레임을 방어하지 못하면 규제가 기술 자체로 번진다. SOLUM은 미국 시장에서 (1) ESL의 무(無)센서·무수집 구조를 설명하는 제3자 검증 자료, (2) 일자리 대체가 아니라 재배치라는 고객 사례 데이터를 확보해 업계 단체 대응에 제공할 필요가 있다. [🟢 기회] 반대로 이 논쟁을 선점해 '프라이버시 세이프 ESL'을 브랜드 자산으로 만들 여지도 있다.",
+        "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7b347d0cf78780b094844d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "pubDate": "2026-08-11",
+        "sourceUrl": "https://www.forbes.com/sites/pamdanziger/2026/08/11/retailers-must-separate-esls-from-surveillance-pricing-as-federal-pressure-mounts/",
+        "sourceName": "Forbes"
       }
     ],
-    "customerAdoption": {},
+    "customerAdoption": {
+      "식료품": [
+        {
+          "title": "스페인 Consum, 신선식품 매장에 790만 유로 투자…ESL 32만 2천 개 도입",
+          "summary": "• 스페인 슈퍼마켓 협동조합 Consum이 500개 이상 전 매장의 신선식품 코너에 다이내믹 전자가격표시기(ESL)를 설치했다.\n• 790만 유로 규모 사업으로 기존 종이 태그를 32만 2,000개 이상의 디지털 라벨로 교체했다.\n• 매장당 평균 약 640개 전자 태그를 설치했으며, 각 매장 환경에 맞춰 커스터마이징했다.\n• 수산 코너에는 얼음·물에 직접 접촉해도 견디는 방수·내한 사양 디스플레이를 적용했다.\n• 베이커리 부문에서는 라벨이 디지털 저울과 연동돼 새 batch가 나올 때마다 '갓 구운(Freshly Baked)' 배지를 표시한다.\n• 이번 전면 도입은 2019년 5개 파일럿 매장에서 시작된 다단계 시범사업의 결과이며, Consum은 지난해 혁신 프로젝트에 3,400만 유로를 투자했다. 현재는 신선식품에 한정돼 있으나 센터스토어 일반 식품 통로로의 확대를 검토 중이다.",
+          "implications": "[🟢 기회] 신선식품 특화 ESL(방수·내한, 저울 연동, 신선도 배지)이 명확한 차별화 요소로 작동한 사례다. 일반 건식 상품 대비 단가와 마진이 높은 영역이다. [🔵 트렌드] 2019년 파일럿 → 2026년 전면 도입까지 7년이 걸렸다는 점은 유럽 협동조합형 유통사의 의사결정 사이클을 보여준다. [⚡ 액션] SOLUM은 신선식품 전용 라인업(IP 등급, 저울·POS 연동, 유통기한·신선도 표시 VAS)을 유럽 제안서의 별도 모듈로 패키징할 만하다. 또 Consum이 센터스토어 확대를 검토 중이므로 후속 입찰 기회를 트래킹해야 한다.",
+          "imageUrl": "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvZXNtbWFnYXppbmUtcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMDMxMjIyMjlcXFwvQ29uc3VtLUVTTC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvaW1nLnJlc2l6ZWQuY29cXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImFjYmQ4Mzc2NzU5MjdhZWQ0OWFlMjI5ZGVlZGRiZGU5YzcyZWEwZTIifQ==/consum-invests-7-9m-in-electronic-shelf-labels.jpg",
+          "pubDate": "2026-08-13",
+          "sourceUrl": "https://www.esmmagazine.com/technology/consum-invests-e7-9m-in-electronic-shelf-labels-for-fresh-produce-318307",
+          "sourceName": "ESM Magazine"
+        }
+      ]
+    },
     "majorCompanies": [
       {
         "title": "Kroger, Simbe 재고 로봇 'Tally' 500대 돌파…Smith's Marketplace 신규점에서 마일스톤 달성",
@@ -109,6 +130,15 @@
         "pubDate": "2026-08-13",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/13/delivery-hero-launch-ai-assistant-for-local-shops-and-restaurants-with-roll-out-due-across-platform",
         "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "E Ink, 2026년 매출 성장률 전망 하향…ESL은 20~25% 성장 유지, 사이니지가 동력",
+        "summary": "• E Ink(元太科技)가 메모리 가격 상승이 소비자 전자제품 수요를 압박하면서 2026년 매출 성장률 전망을 하향 조정했다.\n• 연간 매출 성장률 전망은 기존 20~25%에서 10~15%로 낮췄으며, 소비자 전자 부문 매출은 두 자릿수 감소 가능성이 제기됐다.\n• 다만 회사는 IoT와 전자종이 사이니지 사업은 여전히 견조하다고 밝혔다.\n• 전자가격표시기(ESL) 사업은 2026년 전년 대비 20~25% 성장을 이어갈 것으로 전망했다.\n• 사이니지 부문은 2026년 한 자릿수 후반 성장, 2027년에는 두 자릿수 성장이 가능하다는 것이 경영진 판단이다.\n• E Ink는 8월 13일 2분기·상반기 실적 발표에서 매출·영업이익·순이익 사상 최대치를 기록했다.\n• *(원문 digitimes.com은 봇 차단으로 본문 직접 확인 불가, 미러 및 검색 스니펫 기반)*",
+        "implications": "[🟢 기회] 전자종이 공급망의 정점에 있는 E Ink가 ESL 부문 20~25% 성장을 유지한다고 본 것은, RUNTO의 상반기 -41.9% 출하 감소가 월마트 기저효과임을 확인해주는 강력한 교차 증거다. [🔵 트렌드] 성장 동력이 ESL 단독에서 ESL+사이니지 이원 구조로 옮겨가고 있다. SOLUM의 전자종이 사이니지 확장 전략과 방향이 일치한다. [⚡ 액션] 메모리 가격 상승이 CE 부문을 압박하는 국면에서 전자종이 패널 조달 단가·리드타임 변동을 하반기 원가 계획에 반영해 점검할 필요가 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-14",
+        "sourceUrl": "https://www.digitimes.com/news/a20260814PD225/2026-e-ink-revenue-signage-outlook.html",
+        "sourceName": "DIGITIMES"
       }
     ]
   }
