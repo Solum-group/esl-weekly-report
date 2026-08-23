@@ -1,7 +1,7 @@
 {
   "weekId": "2026-08-17",
   "weekLabel": "2026.08.17 ~ 2026.08.23",
-  "searchAnalysis": "**08월 20일(목) 수집:** 주간(08.17~08.20) 기사 27건—산업동향 7(FTC 개인화 가격 집행정책 초안·NJ 3번째 주 감시가격 법제화+ESL 1년 모라토리엄·시애틀 조례·상원 초당적 연방입법·NCSL 결의안 부결·RUNTO 상반기 전자종이 출하 -41.4%), 고객도입 3, 주요유통사 4(Target Proxima 디지털트윈·2Q 실적·Home Depot·Sainsbury's Facewatch), 공급사 4(솔루엠 2Q 최대실적·미국 증자·한슈어 관세환급·합력태 전자종이 반기), 기술 9(e-paper 사이니지 생태계·도쿄역 Spectra 6·프라하 E-Ink·에이전틱 DOOH·프로그래매틱 등). [커버리지] RTIH=경로①site:2026/8 열거+연쇄fetch로 8/17~8/19 전수 스캔·5건 채택 / SOLUM=국내 매체 2건 / Hanshow=공시 1건 / Pricer·Vusion·ZKONG=범위 내 신규 무기사(Vusion 뉴스룸 최신 7/30, Pricer 최신 2024-12) / E Ink=대만 매체 2건 / ESM·The Grocer·Retail Detail EU·Retail Optimiser·Grocery Dive·Retail Dive·Supermarket News·Chain Store Age·Digital Signage Today·Digitimes=방문. [3.6-G] 정본 SKILL.md를 Read로 로드한 탓에 문서 내 URL이 provenance에 미등록 → 뉴스룸 직접 WebFetch 전면 차단. WebSearch 언락(G-2)+연쇄 fetch(G-3) 백본으로 전환해 수행. [감사] 3.7 커버리지 감사 완료—범위 내 미수집 ESL 관련 0건(RTIH 인사이동·신규매장 5건은 스코프 외 판단). [소급] 08/11 Forbes·08/13 ESM Consum·08/14 Digitimes E Ink 3건을 2026-08-10 주차에 소급 저장. NJ.com 기고문(08/16 추정)은 원문·발행일 검증 불가로 제외.",
+  "searchAnalysis": "**08월 20일(목) 수집:** 주간(08.17~08.20) 기사 27건—산업동향 7(FTC 개인화 가격 집행정책 초안·NJ 3번째 주 감시가격 법제화+ESL 1년 모라토리엄·시애틀 조례·상원 초당적 연방입법·NCSL 결의안 부결·RUNTO 상반기 전자종이 출하 -41.4%), 고객도입 3, 주요유통사 4(Target Proxima 디지털트윈·2Q 실적·Home Depot·Sainsbury's Facewatch), 공급사 4(솔루엠 2Q 최대실적·미국 증자·한슈어 관세환급·합력태 전자종이 반기), 기술 9(e-paper 사이니지 생태계·도쿄역 Spectra 6·프라하 E-Ink·에이전틱 DOOH·프로그래매틱 등). [커버리지] RTIH=경로①site:2026/8 열거+연쇄fetch로 8/17~8/19 전수 스캔·5건 채택 / SOLUM=국내 매체 2건 / Hanshow=공시 1건 / Pricer·Vusion·ZKONG=범위 내 신규 무기사(Vusion 뉴스룸 최신 7/30, Pricer 최신 2024-12) / E Ink=대만 매체 2건 / ESM·The Grocer·Retail Detail EU·Retail Optimiser·Grocery Dive·Retail Dive·Supermarket News·Chain Store Age·Digital Signage Today·Digitimes=방문. [3.6-G] 정본 SKILL.md를 Read로 로드한 탓에 문서 내 URL이 provenance에 미등록 → 뉴스룸 직접 WebFetch 전면 차단. WebSearch 언락(G-2)+연쇄 fetch(G-3) 백본으로 전환해 수행. [감사] 3.7 커버리지 감사 완료—범위 내 미수집 ESL 관련 0건(RTIH 인사이동·신규매장 5건은 스코프 외 판단). [소급] 08/11 Forbes·08/13 ESM Consum·08/14 Digitimes E Ink 3건을 2026-08-10 주차에 소급 저장. NJ.com 기고문(08/16 추정)은 원문·발행일 검증 불가로 제외.\n\n**08월 24일(월) 보완 수집:** 전주 마감분(08.20 목~08.23 일) 21건 추가—산업동향 5(FTC 개인화가격 집행정책 후속 분석 4건: AP/FMI·RILA의 'ESL은 개인별 가격 변경 안 함' 방어 논리, Grocery Dive의 Instacart 최대 23% 가격차 실증, FKKS의 '매장 진열가는 모든 고객에게 동일해야' 해석, Wiley Rein의 NJ법 'electronic shelving label' 명문 금지·제3연방항소법원 알고리즘 가격 소송 부활 + Ross/TJX 오프프라이스 실적), 고객도입 1(Ocado-nemlig 코펜하겐 자동화 CFC), 주요유통사 7(월마트 Scintilla→Sam's Club·Apple/Google Pay 8/24 개시·2Q 옴니채널·1.1만 품목 롤백, 타깃 최초 CAIO 선임, 홈디포 3시간 배송 전미 확대, 아마존 드론 500개 도시), 공급사 2(NCR Voyix-AS Watson 6개국 계약, Ingenico PIMCO 1.5억 유로 수혈), 기술 6(WARC 리테일미디어 2,004억 달러·인스토어 미개발, 삼성 VXT+Idomoo Lucas, Murphy USA 자율조리, Eyebot 시력검사 키오스크, Michaels 3D/AR, NRF 백투스쿨 생성형AI 61%). [커버리지] RTIH=경로①site:2026/8 열거+연쇄fetch로 8/20~8/21 전수(14건) 스캔·5건 채택 / SOLUM·Hanshow·Pricer·Vusion·ZKONG·E Ink=범위 내 신규 무기사(최신: Hanshow-El Jamon 8/10, VusionGroup 매각검토설 8/5, E Ink 대만매체 8/14) / ESM(최신 ESL 8/13 Consum)·The Grocer·Retail Detail EU·Retail Optimiser·Grocery Dive·Retail Dive·Supermarket News·Chain Store Age·Modern Retail·Retail TouchPoints·invidis·Digital Signage Today·Digitimes·流通ニュース=방문. [3.6-G] 정본 SKILL.md를 Read로 로드해 문서 내 URL이 provenance 미등록 → 뉴스룸 직접 WebFetch 차단. WebSearch 언락(G-2)+연쇄 fetch(G-3) 백본으로 수행. [3.6-C] progressivegrocer.com·retailtouchpoints.com은 Cloudflare JS 챌린지로 인덱스 열거 불가 → 검색 스니펫·미러로 대체. [감사] 3.7 커버리지 감사 완료—범위 내 미수집 ESL 관련 0건. RTIH 인사이동·패션·M&A 등 스코프 외 기사 20여 건은 제외. 08/22(토)·08/23(일)·08/24(월) 발행 기사는 전 소스에서 0건 확인(주말 비발행 + 월요일 새벽 실행).",
   "sections": {
     "industryTrends": [
       {
@@ -66,6 +66,51 @@
         "pubDate": "2026-08-18",
         "sourceUrl": "https://www.grocerydive.com/news/7-big-grocery-industry-questions-2026-snap-inflation-mergers-dynamic-pricing/826644/",
         "sourceName": "Grocery Dive"
+      },
+      {
+        "title": "AP 분석: FTC 개인화 가격 투명성 의무화 추진…식품업계는 \"ESL은 개인별 가격 변경 안 한다\" 방어",
+        "summary": "• 미 FTC가 제안한 집행정책 성명에 따르면 기업은 가격이 개인화됐다는 사실과 그 근거가 된 데이터 유형을 '명확하고 눈에 띄게' 고지해야 한다.\n• 식품산업협회(FMI)는 8월 초 상원에 전자가격표시기(ESL)가 \"개별 쇼퍼에 따라 가격을 자동으로 바꾸지 않는다\"고 설명했고, 소매산업리더협회(RILA)도 같은 논리를 폈다.\n• 그럼에도 뉴저지는 \"ESL이 개인화 가격에 쓰이지 않으며 유통기한 임박 식품 가격을 자동 인하하는 등 소비자에게 도움이 된다\"는 업계 해명에도 불구하고 신규 ESL 설치 1년 모라토리엄을 강행했다.\n• 전미소매협회(NRF) David French 부사장은 로열티·리워드 프로그램을 지키기 위해 \"적극적으로 옹호해 왔고 앞으로도 그럴 것\"이라고 밝혔다.\n• Consumer Reports는 반대로 FTC와 의회에 데이터 기반 개인화 가격의 전면 금지를 요구했다.",
+        "implications": "[🔴 위협] ESL 업계가 \"ESL≠개인화 가격\"이라는 팩트를 이미 의회에 전달했음에도 뉴저지 모라토리엄이 그대로 통과됐다는 점은, 기술적 해명만으로는 입법을 막지 못한다는 것을 보여준다. [⚡ 액션] SOLUM은 FMI·RILA·NRF가 이미 만들어 둔 방어 논리(단방향 표시·유통기한 임박 할인 등 소비자 편익)를 미주 영업 자료·RFP 답변서에 즉시 반영하고, 고객사가 규제 리스크를 이유로 도입을 늦출 때 제시할 '규제 준수 패키지'를 준비해야 한다.",
+        "imageUrl": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/2026/08/AP26231651398676-1.jpg",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://broadbandbreakfast.com/ftc-proposal-would-require-retailers-to-be-transparent-about-personalized-pricing/",
+        "sourceName": "Broadband Breakfast (AP)"
+      },
+      {
+        "title": "FTC 개인화 가격 규제, 식료품 쇼퍼에게 무엇을 의미하나…Instacart 동일 상품 최대 23% 가격차 사례",
+        "summary": "• Holland & Knight 집계에 따르면 24개 이상 주(州)에서 40건 넘는 감시가격 관련 법안이 발의된 상태다.\n• Consumer Reports와 Groundwork Collaborative 공동 조사에서 Instacart의 동일 상품 가격이 고객에 따라 최대 23%까지 차이 난 사례가 확인됐고, Instacart는 이후 유통사에 동시 차등가격 기술 제공을 중단했다.\n• 별도 조사에서는 Uber·Lyft 최저·최고 가격군 사이에 중앙값 약 42%의 격차가 발견됐다.\n• 2024년 Consumer Reports 조사에서 미국 소비자의 3분의 2가 개인화 가격에 반대한다고 답했다.\n• FTC가 성명에 담은 예시에는 외출이 어려운 소비자에게 배달 음식 가격을 더 받는 경우, 장례 목적 여행객에게 호텔 요금을 더 받는 경우 등이 포함됐다.",
+        "implications": "[🔵 트렌드] 규제 논쟁의 실제 증거가 ESL이 아니라 온라인 플랫폼(Instacart·Uber)에서 나오고 있다는 점이 확인됐다. [🟢 기회] SOLUM은 \"실증된 가격차별은 디지털 플랫폼 알고리즘에서 발생했고, ESL은 매장 내 모든 고객에게 동일한 가격을 보여주는 장치\"라는 데이터 기반 반론을 미국 유통사 대상 커뮤니케이션의 핵심 메시지로 삼을 수 있다.",
+        "imageUrl": "https://imgproxy.divecdn.com/eTS1no9nd8sWTJKV7f3vug15iX72Lutf456hU3EYoCM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA4OTU1NTc2X1FSV2RSMEouanBn.webp",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://www.grocerydive.com/news/ftc-personalized-surveillance-pricing-customers/828490/",
+        "sourceName": "Grocery Dive"
+      },
+      {
+        "title": "로펌 분석: FTC \"매장 진열가는 같은 시각 모든 고객에게 동일해야\"…매장 내 개인화 가격 사실상 봉쇄",
+        "summary": "• Frankfurt Kurnit Klein & Selz는 FTC가 FTC법 5조 위반 소지로 지목한 4가지 행위를 정리했다: 개인화된 가격을 일반가처럼 표시, 균일가가 기대되는 상황에서 개인화 사실 미고지, 개인화 근거 허위표시, 사용 데이터 은폐.\n• FTC는 실체적 금지 대신 '고지 규제' 방식을 택했고, 여러 주 법안과 달리 정상적 할인에 대한 명시적 예외를 두지 않았다.\n• 개인화된 가격 '인상'뿐 아니라 '인하'까지 규율 대상에 포함된다는 점도 특징이다.\n• 가장 중요한 대목은 FTC가 \"매장 내 소비자는 진열된 가격이 같은 시각 같은 매장의 다른 모든 소비자에게 제시되는 가격과 동일할 것으로 합리적으로 기대한다\"고 명시한 부분이다.\n• FKKS는 이 문구가 \"눈에 띄는 고지 없이는 매장 내 개인화 가격의 여지를 거의 남기지 않는다\"고 평가했다.",
+        "implications": "[🟢 기회] FTC 문구는 뒤집어 보면 \"모든 고객에게 동일한 가격을 표시하는 장치\"인 ESL의 정당성을 연방 기관이 사실상 승인한 것으로 해석할 수 있다. [⚡ 액션] SOLUM은 이 문장을 인용한 리걸 브리핑 자료를 만들어, ESL을 감시가격과 동일시하는 주(州) 입법 논의에 업계 단체를 통해 제출하는 방안을 검토할 만하다.",
+        "imageUrl": "https://images.passle.net/fit-in/1200x630/Passle/5a0ef6743d9476135040a30c/SearchServiceImages/2026-08-21-01-48-58-992-6a87ae8aec6953efdba19511.jpg",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://advertisinglaw.fkks.com/post/102nqsi/ftc-proposes-policy-statement-on-personalized-pricing",
+        "sourceName": "Frankfurt Kurnit Klein & Selz"
+      },
+      {
+        "title": "뉴저지법, 'electronic shelving label' 사용 자체를 명문 금지…알고리즘 가격 소송도 3연방항소법원에서 부활",
+        "summary": "• Wiley Rein 분석에 따르면 뉴저지 Fair Price Protection Act는 식품 소매점과 제3자 배달 플랫폼이 열람이력·실시간 위치·구매이력·추정 인구통계 등 소비자 데이터를 개인별 가격 설정에 쓰는 것과 함께 '전자 진열 라벨(electronic shelving label)' 사용을 금지한다고 명문화했다.\n• 로열티 프로그램 예외는 고지·동의 조건을 충족해야 인정된다. 뉴저지는 알고리즘 임대료 산정을 금지하는 FAIR Act도 통과시켰다.\n• 소송 측면에서는 제3연방항소법원이 7월 말 Cornish-Adebiyi v. Caesars Entertainment(애틀랜틱시티 수익관리 플랫폼, 권고가 채택률 90%)를 되살려, 제9연방항소법원의 Gibson v. Cendyn Group 판결과 갈라섰다.\n• 하원 에너지·상업위원회 간사도 식료품·소비재·항공 분야 감시가격 조사에 착수했다.\n• 알고리즘 가격에 대한 규제·사법·의회 압박이 동시다발적으로 커지고 있다는 것이 이 리포트의 결론이다.",
+        "implications": "[🔴 위협] 뉴저지법이 ESL을 별도 조항으로 콕 집어 금지 대상에 넣었다는 점은 입법 문안 차원에서 ESL이 감시가격과 한 묶음으로 취급되기 시작했음을 보여준다. 다른 주가 이 문안을 복제할 위험이 크다. [⚡ 액션] SOLUM 미주 법무·대관 라인은 뉴저지 조문을 템플릿으로 삼는 후속 주 법안을 조기 탐지하는 모니터링 체계를 갖추고, ESL 조항 삭제·완화를 위한 업계 공동 대응에 참여할 필요가 있다.",
+        "imageUrl": "https://www.wiley.law/assets/images-t1787321219/4839.jpeg",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://www.wiley.law/alert-Algorithmic-Pricing-Attracts-Widespread-Scrutiny-as-FTC-Seeks-Comment-on-Personalized-Pricing-Policy-Statement",
+        "sourceName": "Wiley Rein LLP"
+      },
+      {
+        "title": "오프프라이스 Ross 2분기 동일매장 +10%…소비 양극화 속 매장 투자 여력 재편",
+        "summary": "• Ross Stores 2분기 매출이 13% 늘어난 63억 달러, 동일매장 매출은 10% 증가했고 순이익은 5억 800만 달러에서 8억 5,100만 달러로 뛰었다.\n• Placer.ai 기준 매장 방문객이 16% 증가했고, 2억 5,300만 달러 관세 환급이 610bp 마진 개선분 중 405bp를 설명했다.\n• Ross는 2026년 115개 신규 매장 출점을 계획하며 연간 전망도 상향했다.\n• 반면 TJX는 Marmaxx 동일매장이 1% 성장에 그쳤고, Ernie Herrman CEO는 \"문제는 자초한 것이며 통제 범위 안에 있다\"고 머천다이징 실책을 인정했다.\n• Wells Fargo의 Ike Boruchow는 \"이제 오프프라이스의 보스는 Ross\"라고 평가했다.",
+        "implications": "[🟢 기회] 오프프라이스 채널이 출점을 늘리고 있다는 것은 신규 매장 CAPEX가 살아 있는 세그먼트가 존재한다는 뜻이다. [🔵 트렌드] 다만 오프프라이스는 가격표 변경 빈도와 SKU 회전이 극단적으로 높아 종이 태그 운영 부담이 큰 반면 ESL 도입률은 낮다. SOLUM에게는 아직 열리지 않은 미개척 세그먼트로, Ross·TJX급 대형 체인 대상 ROI 모델링을 선제적으로 준비할 가치가 있다.",
+        "imageUrl": "https://imgproxy.divecdn.com/78JEofV6Lj1iq34DkLmsarjpzcZWA8eKVIWU_645gHE/g:nowe:83:1/c:1187:670/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjczNS5qcGVn.webp",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://www.retaildive.com/news/off-price-ross-new-boss-soaring-store-comps-earnings/828457/",
+        "sourceName": "Retail Dive"
       }
     ],
     "customerAdoption": {
@@ -99,6 +144,17 @@
           "imageUrl": "https://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a833fa092964a0d98b59f6a/1787027068554/Depot1.JPG?format=1500w",
           "pubDate": "2026-08-17",
           "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/17/cash-and-carry-wholesaler-parfetts-targets-data-led-growth-as-it-taps-cerve-agentic-ai-platform",
+          "sourceName": "Retail Technology Innovation Hub"
+        }
+      ],
+      "온라인 식료품": [
+        {
+          "title": "Ocado, 7월에 예고했던 유럽 파트너로 덴마크 nemlig 공개…코펜하겐 인근 자동화 CFC 구축",
+          "summary": "• Ocado Group이 7월 21일 익명으로 예고했던 유럽 파트너가 덴마크 온라인 식료품 기업 nemlig임을 확정 발표했다.\n• 양사는 코펜하겐 인근에 고객이행센터(CFC)를 구축하며, Ocado의 최신 기술인 600s 봇, On-grid 로보틱 피킹, 완전 자동화 냉동 설비를 적용한다.\n• nemlig는 자사 웹숍과 라스트마일 배송을 그대로 유지하고, 완성된 주문을 제3자 배송 파트너에게 넘기는 구조다.\n• 기존 주문 물량은 2028년 CFC로 이관될 예정이다.\n• Tim Steiner Ocado 창업자 겸 CEO는 \"nemlig는 가격 경쟁이 치열한 시장에서 싸우고 있다. 이번 파트너십은 가장 가격 경쟁적인 유통사에게도 온라인 수익성을 만들어 주는 우리 플랫폼의 역량을 보여준다\"고 말했다.",
+          "implications": "[🔵 트렌드] 북유럽 온라인 식료품이 창고 자동화 투자를 재개하고 있다. [🟢 기회] 자동화 CFC는 라벨 관점에서 다크스토어·창고용 전자라벨(피킹 안내·로케이션 표시) 수요를 만든다. SOLUM은 매장용 ESL 외에 '창고·MFC용 라벨' 라인업의 유럽 레퍼런스 확보 기회로 볼 수 있다.",
+          "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a8702f58c48464595ce7748/1787286775947/nemlig.jpeg?format=1500w",
+          "pubDate": "2026-08-21",
+          "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/20/and-the-european-retailer-is-ocado-group-unveils-nemlig-as-the-partner-announced-back-in-july",
           "sourceName": "Retail Technology Innovation Hub"
         }
       ]
@@ -139,6 +195,69 @@
         "pubDate": "2026-08-18",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/18/sainsburys-keeps-the-faith-with-facewatch-ai-technology-as-customer-is-wrongly-accused-of-shoplifting",
         "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "월마트, 1P 커머스 인텔리전스 플랫폼 'Scintilla'를 2027년 Sam's Club으로 확대",
+        "summary": "• 월마트가 8월 20일 투자자 콜에서 자사 1st-party 커머스 인텔리전스 플랫폼 Scintilla를 2027년 Sam's Club까지 확대한다고 발표했다.\n• John David Rainey CFO는 Scintilla의 Sam's Club 확대가 공급업체들의 최우선 요구사항 중 하나였다고 밝혔다.\n• Scintilla(구 Walmart Luminate)는 2021년 출범한 Walmart Data Ventures 소속으로, 매출·재고 수준·쇼핑 패턴 데이터와 고객 인식 서베이를 제공한다. 2024년 멕시코·캐나다로 확대됐고 지난해 말 대화형 데이터 도구·서베이 요약·마케팅 전략 추천 등 AI 기능이 추가됐다.\n• 4월에는 광고주가 월마트의 1P 운영·리테일 데이터를 에이전시·기술 파트너와 공유할 수 있는 API(Scintilla Media Data Feed)도 출시했다.\n• Sam's Club의 Myron Frazier 최고 머천다이징 책임자는 \"Scintilla가 머천트와 공급업체가 더 잘 듣고 더 빠르게 움직이도록 도울 것\"이라고 말했다.",
+        "implications": "[🔵 트렌드] 미국 최대 유통사가 '매장 데이터의 상품화'를 본격화하고 있다. ESL은 가격·재고·프로모션 실행의 말단 노드로서 이 데이터 파이프라인에 직접 연결되는 자산이다. [🟢 기회] SOLUM SSP(SOLUM Smart Platform)도 단순 라벨 제어를 넘어 '매장 실행 데이터를 공급업체에 파는' 레이어를 제품 로드맵에 반영할 여지가 있다.",
+        "imageUrl": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/measuring-tape-eyes-digiday.webp",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://www.modernretail.co/technology/walmart-extends-scintilla-data-platform-to-sams-club/",
+        "sourceName": "Modern Retail"
+      },
+      {
+        "title": "월마트, 8월 24일부터 Apple Pay·Google Pay 지원 개시…10년 넘는 버티기 종료",
+        "summary": "• 월마트가 8월 24일(월)부터 일부 월마트·Sam's Club 매장에서 Google Pay 기반 탭 투 페이를 시작하고, 2026년 말까지 전 미국 매장, 2027년 중반까지 주유소로 확대한다.\n• 지원 수단은 비접촉 카드, 스마트폰, 스마트워치이며 Apple Pay 지원은 월마트 대변인이, Google Pay 지원은 구글이 각각 확인했다.\n• 구글 결제 담당 Stavan Parikh VP/GM은 이번 조치가 \"구글과 월마트의 기존 파트너십 위에 쌓아 올린 것\"이라고 밝혔다.\n• Apple Pay는 2014년 출시돼 미국 소매점의 85% 이상이 받고 있으나, 월마트는 자사 Walmart Pay와 OnePay 월렛을 밀기 위해 버텨 왔고 2016년 문 닫은 CurrentC 컨소시엄도 주도했다.\n• 월마트는 Walmart Pay와 Sam's Club Scan & Go도 계속 지원하며, 고수익 예금·BNPL·P2P 월렛 등 금융 서비스 확장의 일환이라고 설명했다.",
+        "implications": "[🔵 트렌드] 월마트가 폐쇄형 결제 생태계를 포기하고 개방형으로 선회한 것은 '매장 내 마찰 제거'가 자체 플랫폼 고집보다 우선한다는 판단이다. [⚡ 액션] 같은 논리가 ESL에도 적용된다. 폐쇄형 프로토콜보다 개방형 연동(POS·모바일앱·전자결제)이 우선되는 방향으로 SOLUM의 파트너 생태계 전략을 점검할 시점이다.",
+        "imageUrl": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/05/MR_the-last-mile_phone.webp",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://www.modernretail.co/technology/walmart-finally-starts-supporting-apple-pay-and-google-pay/",
+        "sourceName": "Modern Retail"
+      },
+      {
+        "title": "월마트 CFO \"옴니채널이 될수록 매장은 더 중요해진다\"…e커머스 24% 성장, 매장이 라스트마일 허브",
+        "summary": "• 월마트 미국 e커머스가 24% 성장해 월마트 US 매출의 23%를 넘어섰다. 5년 전의 두 배 수준이다.\n• 동일매장 매출은 2.6% 성장했고, 약가 규제(maximum fair price) 영향을 받은 헬스&웰니스를 제외하면 3.4%였다.\n• John David Rainey CFO는 \"옴니채널이 될수록 매장은 덜 중요해지는 게 아니라 더 중요해진다. 매장은 e커머스 주문의 80%, 신속 배송의 100%를 처리하는 라스트마일 이행 노드\"라고 밝혔다.\n• 총매출은 5.9% 증가한 1,879억 달러, 영업이익은 28.8% 늘어난 94억 달러를 기록했다.\n• 2분기 중 약 220개 매장 리모델링을 완료했다.",
+        "implications": "[🟢 기회] '매장=이행 노드' 전략은 매장 내 재고 정확도와 피킹 효율을 ESL·전자라벨의 핵심 가치로 끌어올린다. [⚡ 액션] SOLUM은 가격 정확도 중심 세일즈 메시지를 넘어, 픽업·배송 피킹 동선 안내(라벨 LED 점멸·위치 인디케이션)와 재고 가시성 기능을 미국 대형 유통사 제안의 전면에 배치할 필요가 있다.",
+        "imageUrl": "https://imgproxy.divecdn.com/R9RgNAwK9r8pSjQk9DFiJ9sF-QCaEOt7Ul3ooHfVo9I/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWxtYXJ0X0dlcm1hbnRvd25fTWFyeWxhbmRfMDYwOTI1LTEuSlBH.webp",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://www.retaildive.com/news/walmarts-stores-omnichannel-tariffs-drug-pricing-regulation/828387/",
+        "sourceName": "Retail Dive"
+      },
+      {
+        "title": "월마트, 2분기 1만 1천여 품목 한시 인하…관세 환급분을 가격 롤백에 투입",
+        "summary": "• 월마트 미국 식료품 부문이 중간 한 자릿수 동일매장 성장률을 기록했다.\n• 2분기 한시 가격 인하 품목이 1만 1,000개를 넘어, 1분기 말 7,200개에서 대폭 늘었다.\n• 관세 환급 약 29억 달러의 상당 부분이 이 롤백 재원으로 투입됐다.\n• e커머스가 미국 매출의 23%를 넘어섰고, 회사는 FY2027 가이던스를 4~5%로 상향했다.\n• John Furner CEO는 \"미국 내 전통 식료품 체인 대비 우리의 가격 격차는 견고하며 계속 벌어지고 있다\"고 말했다.",
+        "implications": "[⚡ 액션] 분기 중 1만 1천 개 품목의 가격을 수시로 바꾸는 운영은 종이 태그로는 사실상 불가능하다. 월마트가 2026년 말 전 매장 ESL 구축을 목표로 하는 이유가 실적 수치로 재확인됐다. [🟢 기회] SOLUM은 '가격 전쟁 대응 속도 = ESL 필요성'이라는 프레임으로, 월마트와 경쟁하는 미국 지역 식료품 체인에 도입 논리를 제시할 수 있다.",
+        "imageUrl": "https://imgproxy.divecdn.com/NmYY87d89lODTMmq3B9ia7eG1PPA4WGKHqJoq8PXc2c/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWxtYXJ0X0dlcm1hbnRvd25fTWFyeWxhbmRfZ3JhYl9hbmRfZ29fMDUyNjI1NDU3Ny5qcGc=.webp",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://www.grocerydive.com/news/walmart-second-quarter-fiscal-2027-earnings-grocery/828292/",
+        "sourceName": "Grocery Dive"
+      },
+      {
+        "title": "타깃, 사상 첫 최고AI책임자(CAIO) 선임…공급망 디지털트윈·AI 유입 트래픽 3.5배 성장",
+        "summary": "• 타깃이 신임 CEO Michael Fiddelke 체제에서 2분기 이익 증가와 10억 달러 관세 환급을 함께 발표했다.\n• Prat Vemana 최고정보·제품책임자는 타깃이 \"수요 예측과 의사결정에 AI를 적용해 신뢰성을 높이고 있다\"며, \"AI 플랫폼에서 유입되는 디지털 트래픽이 전년 대비 업계 평균의 3.5배 이상으로 성장 중\"이라고 밝혔다.\n• 공급망 디지털 트윈으로 \"교란을 미리 예측하고 시나리오를 테스트하며 대규모로 신뢰성을 개선\"하는 작업도 진행 중이다.\n• Lowe's에서 6년 반 근무한 Chandhu Nair가 타깃 최초의 Chief AI Officer로 합류했다.\n• Nair는 \"AI가 리테일을 재편할 때 진짜 임팩트는 모델이나 벤치마크, 기술의 정교함으로 측정되지 않는다. 현장에서 측정될 것\"이라고 말했다.",
+        "implications": "[🔵 트렌드] 미국 대형 유통사의 AI 조직이 CIO 산하 기능에서 C레벨 독립 직책으로 승격되고 있다. 구매 의사결정권자가 바뀐다는 뜻이다. [⚡ 액션] SOLUM 미주 영업은 IT·스토어오퍼레이션 담당뿐 아니라 신설되는 CAIO 조직을 어카운트 맵에 추가하고, ESL이 생성하는 셸프 단위 데이터를 AI 예측 모델의 입력값으로 포지셔닝하는 제안을 준비해야 한다.",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a86fc2f0ac8636969ea2800/1787285497924/target_backtoschoolcollege_2026_19.jpg?format=1500w",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/20/retail-technology-shows-up-in-targets-latest-results-as-us-giant-gets-tariff-refunds-boost",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "홈디포, 3시간 이내 익스프레스 배송 전미 확대…2,000개 매장을 이행 허브로",
+        "summary": "• 홈디포가 3시간 이내 익스프레스 배송을 미국 전역으로 확대하며, 2,000개 이상 미국 매장을 이행 허브로 활용한다.\n• 요금은 대부분 주요 시장에서 정액 7달러, 로스앤젤레스는 10달러이며 멤버십은 필요 없다. 배관·철물·페인트·공구 등 수천 개 대상 SKU가 상품 페이지와 결제 화면에 표시된다.\n• Jordan Broggi 인터커넥티드 리테일 부문 EVP는 \"실제로는 대다수 배송이 1시간 이내에 완료되고 있다\"고 밝혔다.\n• Billy Bastek 머천다이징 EVP에 따르면 홈디포는 18개월간 미국 배송 리드타임을 45% 단축했다.\n• 배송센터 네트워크가 재고 보유 소포의 65% 이상을 당일·익일 처리하고, 익일 가전 배송은 미국 인구의 60%를 커버한다.",
+        "implications": "[🔵 트렌드] 홈임프루브먼트 채널까지 '매장=마이크로풀필먼트 센터' 모델로 전환 중이다. [🟢 기회] 홈디포는 SKU 수가 많고 가격·프로모션 변경이 잦은 대형 하드라인 채널로, 유럽 DIY 체인 대비 ESL 침투율이 낮다. SOLUM에게는 식료품 다음의 확장 세그먼트로 우선순위를 높일 근거가 된다.",
+        "imageUrl": "https://imgproxy.divecdn.com/Qz26vtrAQUIvNHExC6jFow6TBSUwMH563DWVKrh92pU/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI2MDU3ODQzLmpwZw==.webp",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://www.retaildive.com/news/home-depot-express-delivery-3-hours-or-less/828362/",
+        "sourceName": "Retail Dive"
+      },
+      {
+        "title": "아마존, 연내 드론 배송 권역 6배 확대…미국 500개 도시로",
+        "summary": "• 아마존이 2026년 말까지 Prime Air 드론 배송을 미국 약 500개 도시·타운으로 확대한다. 현재 7개 주 약 175제곱마일 대비 6배 규모다.\n• 신규 지역에는 애틀랜타 광역권, 시카고, 클리블랜드, 보이시, 시러큐스가 포함된다.\n• 배송은 최단 30분이며, 대형 신발상자에 들어가는 5파운드 이하 품목이 대상으로 아마존 최다 판매 품목의 60% 이상을 커버한다.\n• 요금은 비프라임 4.99달러, 프라임 2.99달러, 50달러 이상 프라임 주문은 무료다.\n• David Carbon Prime Air 부사장은 \"올해 이미 수십만 건의 패키지를 드론으로 배송했다\"고 밝혔다.",
+        "implications": "[🔵 트렌드] 라스트마일 자동화가 파일럿 단계를 벗어나 규모의 경제 구간에 들어섰다. 오프라인 매장은 '즉시성' 우위를 지키기 위해 재고 정확도와 진열 실행력에 더 투자할 수밖에 없다. [🟢 기회] ESL·셸프 인텔리전스의 가치 제안을 '온라인 대비 즉시성 방어'라는 프레임으로 재구성할 여지가 있다.",
+        "imageUrl": "https://imgproxy.divecdn.com/aEDgSQSPiHj9vsZhUDvbS6WaElEUoGoKxO9GBmdH3WM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDgtMTlfMTAxODEyLnBuZw==.webp",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://www.retaildive.com/news/amazon-expand-drone-delivery-reach-sixfold/828281/",
+        "sourceName": "Retail Dive"
       }
     ],
     "solutionProviders": [
@@ -177,6 +296,24 @@
         "pubDate": "2026-08-18",
         "sourceUrl": "https://finance.sina.cn/tech/2026-08-18/detail-ininrzhc6729006.d.html?vt=4",
         "sourceName": "新浪财经"
+      },
+      {
+        "title": "NCR Voyix, AS Watson과 다년 계약…6개국 드럭스토어 체인에 통합 커머스 플랫폼 배치",
+        "summary": "• NCR Voyix가 AS Watson과 다년 계약을 체결하고 Voyix Commerce Platform(POS·셀프체크아웃·로열티·매니지드 서비스)을 배치한다.\n• 적용 대상은 홍콩·말레이시아·필리핀의 Watsons, 영국의 Superdrug·Savers, 네덜란드 Kruidvat, 라트비아 Drogas다.\n• AS Watson의 Gerrit-Jan Steenbergen 그룹 리테일 테크놀로지 디렉터는 이를 \"O+O(오프라인+온라인) 성장의 다음 단계를 뒷받침할 현대적이고 확장 가능한 클라우드 네이티브 기반\"이라고 표현했다.\n• 같은 주 RTIH 리포트에는 lululemon의 최고AI·기술책임자 Ranju Das가 합류 11개월 만에 퇴사한 소식, Co-op Group CTO Robert Elsey의 10월 퇴임 소식도 실렸다.\n• 세인즈버리는 East Dulwich 매장 오인 적발 논란에도 Facewatch 안면인식을 2026년 약 200개 매장으로 확대하겠다고 재확인하며 \"정확도 99.98%\"라고 주장했다.",
+        "implications": "[🔵 트렌드] 글로벌 드럭스토어 체인이 국가별 개별 시스템에서 단일 클라우드 커머스 플랫폼으로 통합하는 흐름이 뚜렷하다. [⚡ 액션] AS Watson은 아시아·유럽에 걸친 대형 드럭스토어 네트워크로 ESL 도입 여지가 크다. 플랫폼 통합 시점이 ESL 제안의 최적 타이밍이므로, SOLUM은 NCR Voyix와의 연동 인증·파트너십을 선제 검토할 만하다.",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/t/6a86bb8a08de7e4569fe9318/1787214730639/lululemon.png?format=1500w",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/20/ai-and-technology-vacancy-arises-at-lululemon-this-weeks-biggest-retail-technology-stories",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "결제단말 강자 Ingenico, PIMCO 주도 1.5억 유로 수혈…아마존 저스트워크아웃 웨일스 1호점도 개장",
+        "summary": "• 결제 단말기 제조사 Ingenico가 PIMCO 주도로 1억 5,000만 유로 투자를 유치해 자본구조를 재정비한다. 2030년까지 만기 도래하는 부채가 11억 유로에 달하고, 중국 PAX에 점유율을 내주며 2월 무디스 신용등급이 B3에서 Caa2로 강등된 상태였다.\n• 신임 Floris de Kort CEO는 \"탄탄한 재무제표와 신규 자본이 확보된 만큼 더 잘 실행할 수 있다\"고 밝혔다.\n• 같은 주 지표로 Zipline·Uber가 2029년 말까지 하루 100만 건 드론 배송을 목표로 제시했고, Wonder는 2년이 안 돼 32개에서 150개 지점으로 확장했다.\n• 아마존 Just Walk Out 웨일스 1호 매장이 Aramark UK와 함께 카디프 Principality Stadium에 열려 8월 16일 FA 커뮤니티 실드 경기에서 데뷔했다.\n• 리테일 사기 방지 스타트업 Clarity Systems가 LMnT Ventures 주도로 440만 달러 시드를 유치했다. Andy Ruben CEO는 \"리테일 사기는 전문 산업이 됐는데 대부분의 방어체계는 좀도둑 시대에 맞춰 설계됐다\"고 지적했다.",
+        "implications": "[🔴 위협] 매장 하드웨어 공급사가 중국 저가 경쟁에 밀려 자본구조 위기까지 간 사례다. ESL 하드웨어도 동일한 가격 압박 구조에 노출돼 있다. [⚡ 액션] SOLUM은 하드웨어 마진 방어를 소프트웨어·SaaS(SSP) 수익으로 전환하는 속도를 높여야 한다는 경고 신호로 읽을 필요가 있다.",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/t/6a86b54431e02f46bf598266/1787213124460/Sainsburys.png?format=1500w",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/20/hmv-expands-bluewater-footprint-and-wonder-scales-with-speed-presenting-the-retail-technology-week-in-numbers",
+        "sourceName": "Retail Technology Innovation Hub"
       }
     ],
     "technology": [
@@ -260,6 +397,60 @@
         "pubDate": "2026-08-17",
         "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/17/zipline-and-uber-eats-us-tie-up-targets-one-million-drone-deliveries-daily-by-the-end-of-2029",
         "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "WARC: 글로벌 리테일 미디어 광고비 2026년 2,004억 달러…성장률은 둔화 국면 진입",
+        "summary": "• WARC Media 자료 기준 전 세계 리테일 미디어 광고비가 2026년 2,004억 달러에 이르고, 2027년에는 11.5% 성장한 2,234억 달러로 전체 글로벌 광고 투자의 15.2%를 차지할 전망이다.\n• 다만 성장세는 둔화되고 있다. 아마존을 제외하면 2027년 글로벌 리테일 미디어 성장률이 9.8%로, WARC 집계 이래 최저 연간 성장률을 기록할 것으로 예상된다.\n• 미국 RMN 지출은 2028년 749억 달러(+13.6%)로 전망된다. 아마존은 2025년 미국 리테일 미디어 지출의 78%를, 프랑스·독일·이탈리아·스페인·영국에서도 3분의 2 이상을 가져갔다.\n• WARC가 인용한 조사에 따르면 미국 식료품 쇼퍼의 60% 이상이 매장 내 스크린에서 본 상품을 곧바로 구매한 경험이 있으나, 인스토어는 여전히 리테일 미디어에서 가장 덜 개발된 영역이다.\n• Alex Brownsell WARC Media 콘텐츠 총괄은 \"이제 성공은 다른 채널과의 스마트한 통합, 그리고 지속 가능한 성과로 가는 최적 경로를 찾는 데 달렸다\"고 말했다.",
+        "implications": "[🟢 기회] '온라인 리테일 미디어는 성장 둔화, 인스토어는 미개발'이라는 조합은 ESL·셸프엣지 스크린을 광고 인벤토리로 전환하려는 공급사에게 최적의 시장 타이밍이다. Vusion이 In-Store Media를 인수한 배경과 정확히 일치한다. [⚡ 액션] SOLUM도 ESL 기반 인스토어 미디어 수익화 모델(브랜드 프로모션 슬롯, 측정·어트리뷰션)의 상품화 로드맵을 서둘러 구체화할 필요가 있다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/Ikea-2025-06-Ikea-Oxford-Street-LDN-9-840x473-2.jpg",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://invidis.com/news/2026/08/retail-global-retail-media-ad-market-forecast-to-top-200b-in-2026/",
+        "sourceName": "invidis"
+      },
+      {
+        "title": "삼성 사이니지 CMS 'VXT'에 Idomoo AI 영상 에이전트 Lucas 탑재…텍스트 프롬프트로 콘텐츠 생성",
+        "summary": "• Idomoo가 AI 영상 에이전트 Lucas를 삼성의 디지털 사이니지 CMS 플랫폼 VXT에 통합해, CMS 안에서 텍스트 프롬프트만으로 디스플레이용 영상을 생성할 수 있게 했다.\n• Lucas는 스크립트·애니메이션·보이스오버를 한 번에 처리하고 완성 영상을 VXT Canvas에 바로 저장한다. 기존 에셋 업로드와 정지 이미지의 동영상화도 지원한다.\n• 결과물은 레이어 편집이 가능한 구성으로, 수신자별로 텍스트·이미지·장면이 자동 교체되며 현지화·아바타·애널리틱스·ISO 수준 보안 인증을 갖췄다.\n• Yaron Kalish Idomoo CEO는 \"디지털 디스플레이는 보여주는 콘텐츠만큼만 효과적\"이라고 말했다.\n• Lucas는 ISE 2026에서 소개된 삼성 자체 AI Studio에 이은 VXT 생태계의 두 번째 생성형 애플리케이션이다.",
+        "implications": "[🔵 트렌드] 매장 스크린의 병목이 하드웨어에서 '콘텐츠 제작 비용'으로 옮겨갔고, 생성형 AI가 그 병목을 푸는 방향으로 사이니지 CMS 경쟁이 재편되고 있다. [⚡ 액션] SOLUM의 뉴튼 시리즈·사이니지 라인업도 콘텐츠 자동 생성·개인화 레이어를 자체 개발하거나 서드파티 연동으로 확보하지 않으면 CMS 경쟁에서 밀릴 수 있다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/GlobalSamsungVXTupdate.jpg",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://invidis.com/news/2026/08/ai-content-lucas-moves-into-samsung-vxt/",
+        "sourceName": "invidis"
+      },
+      {
+        "title": "Murphy USA, 자율 조리 푸드 플랫폼 도입…White Castle이 첫 런칭 파트너",
+        "summary": "• 1,800개 이상 매장을 운영하는 미국 컨비니언스 체인 Murphy USA가 Automated Retail Technologies(ART)의 자율 푸드서비스 플랫폼을 대형 포맷 일부 매장에 도입한다.\n• 첫 런칭 파트너는 White Castle이다.\n• 고객이 터치스크린으로 주문하면 약 2분 만에 따뜻한 음식이 제공되며, ART가 조리·가열·전달을 자동화한다.\n• 장비는 여러 브랜드를 담을 수 있는 자체 완결형 모듈 유닛 형태다.\n• Scott Woodward Murphy USA SVP 겸 최고 머천다이징 책임자는 \"매장 내 매출·트래픽·객단가의 증분 성장 기회에 고무돼 있다\"고 밝혔다.",
+        "implications": "[🔵 트렌드] 컨비니언스 채널의 인건비 압박이 매장 내 자율 조리 로봇 도입으로 이어지고 있다. [🟢 기회] 자율 유닛은 메뉴·가격 표시를 디지털로 처리해야 하므로 소형 사이니지·전자라벨 수요와 직결된다. SOLUM은 c-store 세그먼트에서 ESL과 소형 디스플레이를 묶은 패키지 제안을 검토할 만하다.",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a87dd86c4f1051327240d62/1787290322017/White_Castle_Kiosk_Boston.jpg?format=1500w",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/21/white-castle-onboard-as-launch-partner-as-murphy-usa-starts-roll-out-of-autonomous-hot-food-platform",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Eyebot, 안경 브랜드 QUAY 매장에 자동 시력검사 키오스크 설치…15분 내 처방전 발급",
+        "summary": "• 자동 시력검사 키오스크 기업 Eyebot이 아이웨어 브랜드 QUAY와 손잡고 남부 캘리포니아 일부 매장에 키오스크를 배치한다.\n• 고객은 안경테를 고르는 동안 15분 이내에 의사 검증을 거친 처방전을 받을 수 있다.\n• Eyebot은 광학 이미징, 자체 시력검사 기술, 라이선스를 보유한 임상 감독을 결합했으며 모든 처방전은 면허 안과의사가 검토·서명한다.\n• Tim Fern Eyebot 최고상업책임자는 \"고객이 새 안경을 살 준비가 됐는데 현재 처방전을 모르거나 갖고 있지 않은 경우가 너무 많다\"고 말했다.\n• 매장 수와 계약 규모는 공개되지 않았다.",
+        "implications": "[🔵 트렌드] 전문 서비스(검안)까지 매장 내 무인 키오스크로 이전되는 흐름이다. 매장이 '상품 진열 공간'에서 '서비스 실행 공간'으로 재정의되고 있다. [🔵 인접 트렌드] ESL 직접 연관성은 낮으나, 매장 내 셀프 서비스 터치포인트 증가는 가격·상품 정보의 실시간 동기화 요구를 함께 키운다는 점에서 주목할 만하다.",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a871e12d137cb7fe6b40339/1787285026573/Photo_Jul_23_2026_10_29_45_AM.jpg?format=1500w",
+        "pubDate": "2026-08-21",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/20/eyebot-and-quay-team-on-automated-in-store-vision-test-kiosks-across-southern-california-locations",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Michaels, 3D·AR 액자 빌더 출시…온라인 구성 후 매장에서 완성하는 O2O 동선",
+        "summary": "• 미국 공예용품 체인 Michaels가 3D·AR을 활용한 온라인 액자 빌더를 공개했다.\n• 쇼퍼는 사이즈·소재·유리·매트를 조합해 액자를 구성한 뒤 QR 코드를 스캔해 자기 집 벽에 액자를 투영해 보고, 매장에서 최종 완성할 수 있다.\n• Architectural Digest와 협업한 몰딩 컬렉션도 함께 선보였다. 출시 시점 5종에서 온·오프라인 15종까지 확대하며 200종 이상 신규 액자를 추가한다.\n• Heather Bennett 사장 겸 최고고객책임자는 \"새단장한 스타일 중심의 매장 경험과 온라인의 몰입형 3D·AR 시각화를 매끄럽게 결합했다\"고 설명했다.\n• 지난달 구글 AI 인프라 기반 AI 쇼핑 어시스턴트 'Ask Mike'를 출시했고, 아칸소 로저스에 세 번째 체험형 매장을 열었다.",
+        "implications": "[🔵 트렌드] 스페셜티 리테일이 온라인 3D·AR 구성 → 매장 완성으로 이어지는 O2O 동선을 표준화하고 있다. [🟢 기회] 이런 동선에서는 매장 진열가와 온라인 구성가가 실시간으로 일치해야 한다. 옴니채널 가격 정합성은 ESL의 대표적 효익이므로, 스페셜티·홈데코 세그먼트 세일즈 메시지로 활용할 수 있다.",
+        "imageUrl": "https://imgproxy.divecdn.com/o76zMbRg49hILFhZJFFO4Ras2S-gKm54YTVG6oM7gFI/g:nowe:1437:27/c:1219:689/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNoYWVsc19mcmFtZS5qcGc=.webp",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://www.retaildive.com/news/michaels-3d-augmented-reality-digital-frame-builder/828381/",
+        "sourceName": "Retail Dive"
+      },
+      {
+        "title": "NRF 조사: 백투스쿨 쇼퍼 61%가 생성형 AI 쇼핑 도구 사용…26%는 매장 간 가격 비교에 활용",
+        "summary": "• 전미소매협회(NRF) 조사에서 올해 백투스쿨 응답자의 61%가 생성형 AI 쇼핑 도구를 사용한 것으로 나타났다.\n• 26%는 상품 추천을 요청했고, 26%는 여러 유통사 사이트를 넘나들며 가격을 비교(price-scan)했으며, 19%는 이미지·비주얼 검색을 이용했다.\n• 조사 시점 기준 백투스쿨 쇼핑은 아직 상당 부분 남아 있는 것으로 집계됐다.\n• 생성형 AI가 검색·추천을 넘어 '가격 비교' 도구로 자리 잡고 있다는 점이 주목된다.\n• AI 쇼핑 도구의 확산은 유통사 사이 가격 투명성을 급격히 높이는 방향으로 작용한다.",
+        "implications": "[🔴 위협] 쇼퍼의 4분의 1이 AI로 매장 간 가격을 실시간 비교하는 환경에서는, 경쟁사 대비 가격을 늦게 반영하는 유통사가 즉시 불이익을 받는다. [🟢 기회] 이는 곧 '가격 반영 속도'가 매출에 직결된다는 뜻으로, ESL 도입의 가장 강력한 상업적 논거다. SOLUM은 AI 가격비교 확산 데이터를 ROI 자료의 도입 논거 섹션에 추가할 것을 권장한다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-20",
+        "sourceUrl": "https://chainstoreage.com/news-briefs/2026-08-20?article=nrf-consumers-have-lot-back-school-shopping-left",
+        "sourceName": "Chain Store Age"
       }
     ]
   }
