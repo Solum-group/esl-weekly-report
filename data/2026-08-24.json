@@ -1,12 +1,165 @@
 {
   "weekId": "2026-08-24",
   "weekLabel": "2026.08.24 ~ 2026.08.30",
-  "searchAnalysis": "**08월 24일(월) 수집:** 월요일 발행 기사 0건—월요일 오전 1시 실행 시점 기준 RTIH·Retail Dive·Grocery Dive·Chain Store Age·Supermarket News·invidis·Digital Signage Today·공급사 뉴스룸 전 소스에서 당일 발행 기사가 아직 색인되지 않음. 목요일 run에서 08.24~08.27 구간으로 확장 수집 예정.",
+  "searchAnalysis": "**08월 27일(목) 수집:** 주간(08.24~08.27) 기사 16건—산업동향 3(ESL 시장 75.1억$ 전망·인티그레이터 쇠퇴·Forté×Vega 인수), 고객도입 2(Officeworks×Snapchat/Zitcha·Barbour 모듈형 집기), 주요 유통사 1(Kroger×Instacart 처방약 통합배송), 공급사 3(ZetaDisplay×SPAR RMN·Carousel·Brightsign), 기술 7(Wi-Charge 폐업·RTIH Hot 100·Viooh×Screenverse·Big Happy×Veridooh·Gatik 2억$·Uber Eats×Coco·OneView 우체국 EPoS). 핵심 이슈는 ZetaDisplay가 SOLUM ESL 고객사인 SPAR의 첫 리테일 미디어 네트워크를 확보한 건이다. [커버리지] RTIH=방문·경로①site:2026/8 열거 + /home 목록 연쇄 fetch로 08.24~08.26 전 기사 열거·7건 포착 / invidis=방문·뉴스 인덱스 신선(최신 08.26)·6건 포착(1건 소급) / SOLUM=범위 내 신규 무기사 / Hanshow=최신 08.10(El Jamón, 기수집) / Pricer=최신 07.16 / Vusion=최신 08.07(의결권 공시, 비뉴스) / ZKONG·E Ink=범위 내 신규 무기사 / Grocery Dive=토픽면 STALE(최신 08.13)→최신기사 링크 연쇄 확인·범위 내 ESL 신규 없음 / Retail Dive·Chain Store Age·Supermarket News·ESM·The Grocer·Retail Detail EU·Retail Optimiser·Digitimes=검색 교차확인·범위 내 신규 없음. [3.6-G Provenance] SKILL.md 기재 URL이 provenance에 없어 뉴스룸 직접 WebFetch가 전면 차단됨 → WebSearch 언락(G-2) + 목록 페이지 연쇄 fetch(G-3)로 우회. [3.6-H STALE] Grocery Dive /topic/technology 최신 08.13, RTIH 개별 기사 일부 SPA 공백 → site: 열거·미러 검색으로 대체. [감사] site: 열거 및 공급사 뉴스룸 교차 대조 결과 범위 내 미수집 0건 확인. 08.18 invidis CRI×Albertsons 1건은 미수집 신규로 08-17 주차에 소급 저장.",
   "sections": {
-    "industryTrends": [],
-    "customerAdoption": {},
-    "majorCompanies": [],
-    "solutionProviders": [],
-    "technology": []
+    "industryTrends": [
+      {
+        "title": "ESL 시장, 2025년 23.9억 달러에서 2034년 75.1억 달러로 성장 전망 (CAGR 13.6%)",
+        "summary": "• 시장조사기관 SRI(Strategic Revenue Insights)는 글로벌 전자가격표시기(ESL) 시장이 2025년 23.9억 달러에서 2034년 75.1억 달러로 확대될 것으로 전망했다. 연평균 성장률은 13.6%다.\n• 보고서는 ESL이 '참신한 도구'에서 '매장 운영의 필수 인프라'로 위치가 바뀌었다고 평가하며, 디지털 전환과 매장 자동화 수요를 성장 동인으로 지목했다.\n• 기술 세그먼트에서는 E Ink 기반 ePaper가 가장 빠르게 성장하는 부문으로 꼽혔다.\n• IoT·AI 결합을 통한 자동 재발주(auto-replenishment)와 다이내믹 프라이싱이 차세대 활용처로 제시됐다.",
+        "implications": "[🔵 트렌드] 두 자릿수 중반 CAGR 전망은 ESL이 성숙 시장이 아니라 여전히 확장 국면임을 시사한다. 다만 시장조사사 발표 수치는 기관별 편차가 크므로 SOLUM 내부 TAM 산정 시 참고치로만 활용해야 한다. [🟢 기회] ePaper가 최고 성장 세그먼트로 지목된 점은 SOLUM의 Newton 라인업·대형 e-paper 사이니지 확장 전략과 방향이 일치한다. [⚡ 액션] 'ESL=가격표'가 아니라 '자동 재발주·다이내믹 프라이싱 인프라'로 시장이 재정의되는 흐름에 맞춰 영업 메시지를 운영 ROI 중심으로 재구성할 필요가 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-24",
+        "sourceUrl": "https://www.openpr.com/news/4611561/electronic-shelf-label-market-to-reach-usd-7-51-billion-by-2034",
+        "sourceName": "openPR"
+      },
+      {
+        "title": "국제 디지털 사이니지 시장, '전통적 시스템 인티그레이터'의 쇠퇴",
+        "summary": "• invidis는 서구권 밖 시장에서 디지털 사이니지 생태계의 주도권이 전통적 AV 시스템 인티그레이터에서 이탈하고 있다고 분석했다.\n• 통신사(telco), POS 플랫폼 사업자, 사무기기 벤더가 새로운 유통·구축 채널로 부상하며 인티그레이터의 역할을 대체하고 있다는 진단이다.\n• 요하네스버그 KFC 메트로스토어 등 신흥 시장 사례를 근거로 제시했다.\n• 매장 하드웨어 판매보다 '운영·콘텐츠·구독' 중심으로 가치사슬이 이동하는 흐름과 맞물린다.",
+        "implications": "[🔵 트렌드] 매장 디지털 하드웨어의 판매 채널이 재편되고 있다. ESL도 동일한 구조적 변화에 노출돼 있으며, POS 벤더·통신사가 ESL 번들 판매의 게이트키퍼가 될 수 있다. [🟢 기회] SOLUM이 신흥시장에서 전통 인티그레이터 대신 POS·통신사 파트너십을 선점하면 채널 비용을 낮추면서 커버리지를 확대할 수 있다. [⚡ 액션] 중동·아프리카·동남아 채널 전략에서 파트너 유형 포트폴리오(인티그레이터 vs POS/텔코) 재점검을 권고한다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/07/2026-06-JNB-Metro-KFC-4.jpg",
+        "pubDate": "2026-08-25",
+        "sourceUrl": "https://invidis.com/news/2026/08/international-digital-signage-the-decline-of-the-traditional-integrator/",
+        "sourceName": "invidis"
+      },
+      {
+        "title": "Forté, 아시아태평양 최대 ProAV 인티그레이터 Vega Global 인수",
+        "summary": "• Forté가 아시아태평양 최대 규모 ProAV 시스템 인티그레이터 중 하나인 Vega Global을 인수했다.\n• 합병 법인은 22개국에서 사업을 운영하며 70개 이상 도시에 고객을 두게 돼, 업계 최대 글로벌 커버리지를 확보했다고 주장한다.\n• 이번 거래는 Forté의 GPA(Global Presence Alliance) 분리 이후 진행된 국제 확장 행보다.\n• 디지털 사이니지·ProAV 업계의 국경 간 통합(consolidation)이 가속되는 흐름을 보여준다.",
+        "implications": "[🔵 트렌드] 매장 디스플레이·사이니지 구축 시장에서 글로벌 단일 창구를 제공하는 대형 사업자가 형성되고 있다. [🔴 위협] 다국적 유통사가 '한 곳에서 전 지역 구축'을 요구할 경우, 지역별 파트너 조합에 의존하는 공급사는 입찰에서 불리해질 수 있다. [⚡ 액션] SOLUM의 글로벌 리테일 계정(다국적 체인) 대응 시 구축·유지보수 파트너망의 국가 커버리지 공백을 사전 점검할 필요가 있다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/2026-08-HKG-Forte-Vega-Global.jpg",
+        "pubDate": "2026-08-26",
+        "sourceUrl": "https://invidis.com/news/2026/08/after-gpa-split-forte-buys-apac-integrator-vega/",
+        "sourceName": "invidis"
+      }
+    ],
+    "customerAdoption": {
+      "전문점": [
+        {
+          "title": "Officeworks, 전 세계 최초로 Zitcha 플랫폼 내 Snapchat 광고 포맷 활성화",
+          "summary": "• 호주 Wesfarmers 계열 오피스용품 체인 Officeworks가 리테일 미디어 플랫폼 Zitcha 안에서 Snapchat 광고 포맷을 직접 집행하는 세계 첫 리테일러가 됐다.\n• 지원 포맷은 Sponsored Snaps(채팅 피드 내 전체화면 영상·이미지), Snap Ads(단일 이미지·영상), 카탈로그 기반 Dynamic Product Ads다.\n• Officeworks는 이미 Microsoft를 위한 Snapchat 오프사이트 캠페인을 집행해 온라인·오프라인 수요를 동시에 겨냥하고 있다.\n• 리테일 미디어의 무게중심이 자사 채널을 넘어 '오프사이트 소셜 인벤토리'까지 통합 관리되는 방향으로 확장되고 있음을 보여준다.",
+          "implications": "[🔵 트렌드] 리테일 미디어 네트워크(RMN)가 매장 스크린·자사몰을 넘어 소셜 오프사이트까지 단일 플랫폼에서 운용되는 단계로 진입했다. [🟢 기회] SOLUM이 ESL·e-paper 사이니지로 확보한 매장 내 접점은 이런 통합 RMN 스택에서 '오프라인 노출 인벤토리'로 편입될 수 있다. Zitcha·Criteo 같은 RMN 오케스트레이션 플랫폼과의 연동 규격 확보가 관건이다. [⚡ 액션] SOLUM 매장 미디어 자산의 임프레션 측정·표준 데이터 포맷을 RMN 플랫폼 연동 관점에서 정의할 것을 제안한다.",
+          "imageUrl": "",
+          "pubDate": "2026-08-26",
+          "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/26/officeworks-first-retailer-to-activate-snapchats-suite-of-advertising-formats-directly-within-zitcha-platform",
+          "sourceName": "Retail Technology Innovation Hub"
+        }
+      ],
+      "패션": [
+        {
+          "title": "Barbour, 매장 리뉴얼 비용을 줄이는 모듈형 리테일 디스플레이 시스템 첫 도입",
+          "summary": "• 영국 브랜드 Barbour가 Ripple이 설계·제조한 모듈형 매장 디스플레이 시스템 'ReFrame'을 상업적으로 처음 적용했다.\n• 핵심 골조(framework)는 유지하고 머천다이징 요소만 교체하는 구조로, 전면 집기 교체 없이 매장을 갱신할 수 있게 설계됐다.\n• 첫 적용 사례는 블레넘 팰리스(Blenheim Palace) 방문객 스토어 내 Barbour 전용 리테일 공간이다.\n• 반복적 리뉴얼에 따르는 비용·영업 중단·폐기물을 줄이는 것이 목표다.",
+          "implications": "[🔵 트렌드] 매장 집기를 '고정 자산'이 아니라 '교체 가능한 모듈'로 보는 접근이 확산되고 있다. [🟢 기회] ESL·셸프엣지 디스플레이는 본질적으로 모듈형 집기와 결합해야 하는 장치다. 표준 레일·마운트 호환성을 갖춘 SOLUM 셸프엣지 제품은 리뉴얼 주기가 짧아진 리테일러에게 TCO 관점에서 소구할 수 있다. [⚡ 액션] 주요 집기 제조사(Ripple 등)와의 마운팅 규격 호환성 확보를 검토할 만하다.",
+          "imageUrl": "",
+          "pubDate": "2026-08-25",
+          "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/25/barbour-becomes-the-first-to-tap-new-modular-retail-display-system-designed-to-reduce-store-refits",
+          "sourceName": "Retail Technology Innovation Hub"
+        }
+      ]
+    },
+    "majorCompanies": [
+      {
+        "title": "Kroger, Instacart와 연동해 식료품·처방약 단일 주문 배송 개시",
+        "summary": "• Kroger가 Instacart 기반으로 식료품과 처방약을 한 번의 주문으로 함께 배송하는 서비스를 미국 내 거의 전 밴너로 확대했다. Fred Meyer, Ralphs, Harris Teeter가 포함된다.\n• 2,200개 이상의 Kroger 약국 거점과 연결되며, 처방약은 Kroger 약국 팀이 조제·검증한 뒤 Instacart 쇼퍼가 매장에서 배송한다.\n• Colleen Lindholz Kroger Health 사장은 '식료품 배송의 편의성과 약국 팀의 개인화된 케어를 결합한 것'이라고 설명했다.\n• Instacart는 Kroger와의 협업으로 '가장 중요한 심부름 중 하나'인 처방약 수령의 마찰을 제거한다고 밝혔다.",
+        "implications": "[🔵 트렌드] 대형 식료품 체인이 매장을 '옴니채널 이행(fulfillment) 허브'로 재정의하는 흐름이 계속되고 있다. [🟢 기회] 매장 피킹 물량이 늘수록 셸프엣지의 위치 안내·재고 정확도 요구가 커진다. SOLUM의 ESL 기반 피킹 내비게이션·재고 가시성 솔루션의 가치 제안이 강화되는 국면이다. [⚡ 액션] 약국·헬스 카테고리는 규제 라벨링 요구가 별도로 존재하므로, 해당 매대용 ESL 요구사항(만료일·처방 정보 표기 제약)을 별도 조사할 필요가 있다.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/0cc6f1a5-b4f6-4d5c-bfd5-713a93a1490b/Kroger.jpg",
+        "pubDate": "2026-08-24",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/24/kroger-connects-with-instacart-so-customers-can-shop-for-groceries-and-prescriptions-in-a-single-order",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
+    "solutionProviders": [
+      {
+        "title": "ZetaDisplay, SPAR 중부유럽 첫 리테일 미디어 네트워크 구축 계약",
+        "summary": "• ZetaDisplay가 SPAR와의 파트너십을 확장해 SPAR의 첫 리테일 미디어 네트워크를 구축한다. 파일럿으로 시작해 연말까지 롤아웃이 이어진다.\n• 10년 넘게 SPAR와 협업해 온 ZetaDisplay 오스트리아 팀이 프로젝트를 주도하며, 수백 대의 신규 디스플레이가 설치된다. 기존 디스플레이는 쇼퍼 동선 연구를 바탕으로 재배치된다.\n• 네트워크는 ZetaDisplay 자체 플랫폼 'Engage Suite'로 운영되며, SPAR 슬로베니아 매장에도 적용된다. SPAR는 어떤 브랜드가 광고할 수 있는지 승인권을 포함해 미디어 생태계 전권을 유지한다.\n• 이번 계약은 ZetaDisplay가 리테일 미디어 인프라 SaaS 기업 retailmediatools를 인수한 직후 나온 성과다.",
+        "implications": "[🔴 위협] SPAR International은 2026년 2월 SOLUM과 ESL·디지털 사이니지 협력을 이어가기로 한 계정이다. 같은 리테일러의 '리테일 미디어 레이어'를 ZetaDisplay가 선점하면, SOLUM은 가격표 인프라 공급자에 머물고 매장 수익화(monetization) 상단은 경쟁사가 가져가는 구도가 굳어질 수 있다. [⚡ 액션] SPAR 중부유럽·슬로베니아 조직을 대상으로 ESL–사이니지–리테일 미디어를 하나의 스택으로 묶는 SOLUM 통합 제안을 조속히 재정비해야 한다. [🔵 트렌드] 사이니지 벤더가 M&A로 리테일 미디어 플랫폼을 확보한 뒤 기존 고객을 RMN으로 업셀하는 패턴(Vusion→In-Store Media, ZetaDisplay→retailmediatools)이 반복되고 있다.",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a8c5771f65289254d5853c4/1787634454679/SPAR%2Bretail%2Bmedia%2Bnetwork%2BZetaDisplay%2B2026.png?format=1500w",
+        "pubDate": "2026-08-24",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/24/zetadisplay-announces-deal-to-deliver-first-retail-media-network-for-spar-in-central-europe",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Carousel, Amazon Signage Stick 원격 디바이스 관리 기능을 CMS에 통합",
+        "summary": "• 디지털 사이니지 소프트웨어 기업 Carousel이 Amazon Signage Stick 연동을 확장해 디바이스 업데이트·디스플레이 제어·상태 모니터링을 자사 CMS에서 직접 수행할 수 있게 했다.\n• 저가 스틱형 플레이어를 엔터프라이즈 관리 체계 안으로 편입시키는 흐름으로, 매장 사이니지의 도입 단가를 낮추는 효과가 있다.\n• 별도 관리 콘솔 없이 콘텐츠와 하드웨어를 단일 CMS에서 관리하는 운영 단순화가 핵심 소구점이다.",
+        "implications": "[🔵 트렌드] 매장 디스플레이 관리의 경쟁축이 '하드웨어'에서 '플릿(fleet) 원격 운영'으로 이동하고 있다. [🟢 기회] SOLUM은 이미 수백만 대 ESL을 원격 관리하는 플릿 운영 역량을 보유하고 있다. 이를 e-paper 사이니지·게이트웨이까지 단일 콘솔로 확장하면 범용 CMS 대비 차별점이 된다. [⚡ 액션] SOLUM Cloud의 디바이스 헬스 모니터링 기능을 사이니지 영역까지 확대 적용했는지 제품 로드맵 점검이 필요하다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/Carousel-and-Amazon-Signage-Stick.jpg",
+        "pubDate": "2026-08-26",
+        "sourceUrl": "https://invidis.com/news/2026/08/software-carousel-adds-remote-management-tools-for-amazon-signage-stick/",
+        "sourceName": "invidis"
+      },
+      {
+        "title": "Brightsign, AWS 기반으로 Control Plus 원격 관리 플랫폼 확장",
+        "summary": "• Brightsign이 클라우드 인프라를 AWS로 확장해 Control Plus 원격 디바이스 관리 플랫폼의 확장성을 강화했다.\n• 현재 30만 대 이상의 플레이어 플릿 관리를 지원하며, 기존 설치 기반을 넘어서는 규모까지 확장 가능하도록 설계됐다.\n• 리테일을 포함한 다양한 산업의 디지털 사이니지 네트워크 원격 운영이 대상이다.",
+        "implications": "[🔵 트렌드] 매장 디바이스 플릿 관리가 클라우드 하이퍼스케일러 인프라 위에서 표준화되고 있다. [🟢 기회] ESL 네트워크도 매장당 수천 개 노드를 다루는 대규모 플릿이다. 하이퍼스케일러 기반 관리 아키텍처는 SOLUM이 대형 체인 대상 SLA·확장성 근거로 제시할 수 있는 영역이다. [⚡ 액션] 대형 계정 RFP에서 클라우드 인프라 파트너십·가용성 지표를 명시적 차별점으로 문서화할 것을 권고한다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/Brightsign-retail.jpg",
+        "pubDate": "2026-08-24",
+        "sourceUrl": "https://invidis.com/news/2026/08/remote-device-management-brightsign-scales-control-plus-with-aws/",
+        "sourceName": "invidis"
+      }
+    ],
+    "technology": [
+      {
+        "title": "무선전력 선구자 Wi-Charge 폐업…셸프엣지 무배선 급전의 상용화 좌절",
+        "summary": "• 14년간 실내 무선전력 전송을 개발해 온 이스라엘 스타트업 Wi-Charge가 사업을 종료한다고 Ori Mor 창업자 겸 CEO가 밝혔다.\n• Wi-Charge는 광학 무선전력(optical wireless power) 방식으로 수 미터 거리까지 급전이 가능했고, 미국 39개 주에 제품이 배치됐으며 OEM 번들 채택률은 최대 90%에 달했다.\n• 디지털 사이니지 업계에서는 '셸프엣지 디스플레이·전자라벨·IoT 기기를 전기 배선 공사 없이 설치'하는 용도로 주목받았던 기술이다.\n• 실패 원인으로는 송신기·수신기 동시 보급이 필요한 플랫폼 딜레마와, 무선충전이 '진통제가 아니라 비타민'에 그쳤다는 수요 강도 문제가 지목됐다.\n• invidis는 당분간 매장 디스플레이 급전이 HDBaseT·PoE 등 유선 인프라에 계속 의존할 것으로 전망했다.",
+        "implications": "[🔵 트렌드] '무배선 셸프엣지'라는 오랜 업계 숙제가 다시 미뤄졌다. 대형 셸프엣지 디스플레이의 전원 문제는 여전히 미해결 과제다. [🟢 기회] 역설적으로 배터리 구동 ESL과 Power Rail 방식의 경쟁 우위가 유지된다. SOLUM의 저전력 설계·Power Rail ESL은 무선전력 대안이 부재한 상황에서 실질적 표준 위치를 지킬 수 있다. [⚡ 액션] 대형 e-paper 사이니지 라인업의 급전 방식(PoE·Power Rail·배터리) 포트폴리오를 재점검하고, 'ESL은 배선 공사 없이 설치 가능'이라는 메시지를 영업 자료에 강화할 것을 제안한다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/2026-08-DUR-Wireless-Charging.jpg",
+        "pubDate": "2026-08-24",
+        "sourceUrl": "https://invidis.com/news/2026/08/wireless-power-the-end-of-wi-charge/",
+        "sourceName": "invidis"
+      },
+      {
+        "title": "RTIH 첫 '리테일 테크 Hot 100' 공개…AI·컴퓨터비전·자동화가 기반 인프라로",
+        "summary": "• RTIH가 첫 번째 Retail Technology Hot 100 리스트를 공개했다. 앞서 4월 발표에서는 Everseen, Hanshow, OpenAI가 상위에 올랐다.\n• 심사위원인 JD Sports의 Dan McGrath는 'AI·자동화·로보틱스·컴퓨터비전·재고 인텔리전스·디지털 인프라는 더 이상 미래 기술이 아니라 현대 리테일의 토대'라고 평가했다.\n• 그는 '가장 큰 임팩트를 만드는 기업은 화려한 AI 데모가 아니라 더 나은 데이터·가시성·의사결정이라는 근본 문제를 푸는 곳들'이라고 지적했다.\n• 에이전틱 커머스 시대에는 'AI 에이전트가 신뢰 가능한 실시간·결정론적(deterministic) 데이터 위에서만 지능적 판단을 할 수 있다'며 데이터 기반의 중요성을 강조했다.",
+        "implications": "[🟢 기회] Hanshow가 글로벌 리테일 테크 상위권에 이름을 올린 것은 ESL 공급사가 '가격표 벤더'를 넘어 리테일 테크 플레이어로 인식되고 있음을 보여준다. SOLUM도 동일 카테고리 내 브랜드 포지셔닝 강화가 필요하다. [🔵 트렌드] '에이전틱 AI는 신뢰 가능한 실시간 매장 데이터를 전제로 한다'는 논점은 ESL 인프라의 전략적 가치를 직접적으로 뒷받침한다. ESL은 매장에서 가격·위치·재고를 결정론적으로 확정하는 몇 안 되는 시스템이다. [⚡ 액션] 'AI 에이전트를 위한 매장 그라운드 트루스(ground truth) 레이어'라는 서사를 SOLUM 마케팅 메시지로 정식 채택할 것을 제안한다.",
+        "imageUrl": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6a8dbc085c3c6a57a974c3e0/1787719315976/Image+3_Hanshow+NexConnect+Smart+Cart.png?format=1500w",
+        "pubDate": "2026-08-25",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/25/ai-computer-vision-and-automation-solve-fundamental-problems-as-inaugural-retail-technology-hot-100-list-goes-live",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Viooh, Screenverse 제휴로 미국 내 3만 8,000개 스크린 프로그래매틱 인벤토리 확보",
+        "summary": "• 프로그래매틱 DOOH 플랫폼 Viooh가 Screenverse와의 제휴로 미국 내 3만 8,000개 스크린을 인벤토리에 추가했다.\n• 리테일·주거·오피스·교통·엔터테인먼트·헬스케어 등 다양한 환경의 스크린이 광고주에게 프로그래매틱 방식으로 개방된다.\n• 매장 안팎의 디지털 스크린이 단일 프로그래매틱 거래 계층으로 통합되는 흐름을 보여준다.",
+        "implications": "[🔵 트렌드] 인스토어 스크린이 개별 리테일러 자산이 아니라 프로그래매틱 광고 시장의 표준 인벤토리로 편입되고 있다. [🟢 기회] SOLUM이 매장에 공급하는 e-paper 사이니지·대형 디스플레이도 규격화된 임프레션 측정과 API를 갖추면 리테일러의 광고 수익화 자산으로 판매 논리를 확장할 수 있다. [⚡ 액션] SOLUM 사이니지의 재생 로그·노출 추정 데이터를 DOOH 표준(OpenRTB DOOH 등)으로 내보낼 수 있는지 기술 검토가 필요하다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/Screenverse-x-VIOOH-e1787663498608.jpg",
+        "pubDate": "2026-08-25",
+        "sourceUrl": "https://invidis.com/news/2026/08/dooh-viooh-adds-38000-us-screens-through-screenverse-partnership/",
+        "sourceName": "invidis"
+      },
+      {
+        "title": "Big Happy·Veridooh, 미국 DOOH에 '검증된 CPM' 과금 모델 도입",
+        "summary": "• Big Happy가 독립 OoH 검증 사업자 Veridooh와 제휴해 광고주가 '독립적으로 검증된 재생·노출'에 대해서만 비용을 지불하는 모델을 미국 DOOH 시장에 도입했다.\n• 디지털 광고에서 익숙한 검증(verification) 기반 과금 구조를 옥외·매장 스크린으로 확장하는 시도다.\n• 리테일 미디어 예산이 인스토어 스크린으로 이동하면서 측정·검증 요구가 커진 데 따른 대응이다.",
+        "implications": "[🔵 트렌드] 인스토어 미디어의 성패가 '스크린 설치'가 아니라 '측정 신뢰도'로 옮겨가고 있다. [🟢 기회] ESL·셸프엣지 디스플레이는 상품 바로 앞이라는 특성상 노출–구매 귀인(attribution)에서 잠재적 우위가 있다. 측정 규격을 선제적으로 갖추면 SOLUM 매장 미디어의 단가 방어력이 높아진다. [🔴 위협] 반대로 검증 표준을 갖추지 못한 인스토어 매체는 광고 예산 배분에서 배제될 위험이 있다. [⚡ 액션] SOLUM 리테일 미디어 제품의 임프레션 정의·검증 파트너십 전략을 조기에 수립할 것을 권고한다.",
+        "imageUrl": "https://invidis.com/wp-content/uploads/2026/08/Big-Happy.jpg",
+        "pubDate": "2026-08-25",
+        "sourceUrl": "https://invidis.com/news/2026/08/dooh-big-happy-veridooh-launch-verified-cpm-model-for-us-dooh/",
+        "sourceName": "invidis"
+      },
+      {
+        "title": "자율주행 화물 스타트업 Gatik, 2억 달러 시리즈D 유치…식료품·CPG 공급망 수요 급증",
+        "summary": "• Gatik이 2억 달러 규모 시리즈D를 유치했다. 카타르투자청(QIA)과 Koch Disruptive Technologies가 공동 리드했고 Millennium Management, ARK Invest 등이 참여했다.\n• Gatik은 미국 텍사스·애리조나·아칸소와 캐나다에서 물류센터–매장 간 화물을 운송하며, 2026년 말까지 100대 이상의 무인 트럭 운영을 목표로 한다.\n• Gautam Narang CEO는 '실제 매출과 강한 고객 수요, 매일 검증되는 AI 자율주행 기술'을 강조했다.\n• 포춘 50대 리테일·식료품·CPG 공급망에서 무인 화물 수요가 늘고 있다는 것이 조달 배경이다.",
+        "implications": "[🔵 트렌드] 리테일 공급망 자동화 투자가 매장 내부를 넘어 DC–매장 구간까지 전방위로 확대되고 있다. [🟢 기회] 자동 보충(replenishment) 주기가 짧아질수록 매장 셸프 상태와 백룸 재고의 실시간 동기화 요구가 커진다. ESL·셸프 카메라 기반 온셸프 가용성 데이터의 가치가 올라가는 방향이다. [🔵 트렌드] 대규모 자본이 '매장 운영 데이터'가 아닌 '물류 하드웨어'로 몰리는 국면이므로, ESL 공급사는 물류 자동화 벤더와의 데이터 연동 포지션을 선점할 필요가 있다.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/06081b9b-a515-4df6-a76d-190605b07908/Gatik_co-founders.jpg",
+        "pubDate": "2026-08-25",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/25/autonomous-trucking-startup-gatik-lands-200m-in-funding-amid-growing-grocery-and-cpg-supply-chain-demand",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "Uber Eats, Coco Robotics와 EU 첫 로봇 배송 개시…핀란드 헬싱키가 출발점",
+        "summary": "• Uber Eats가 Coco Robotics와 손잡고 EU 시장 첫 자율 로봇 배송을 시작한다. 헬싱키 중심가가 첫 대상 지역이다.\n• Coco Robotics는 핀란드와 로스앤젤레스에 1,000대 이상의 보도 주행 로봇을 운영 중이며, 향후 수개월 내 미국·유럽으로 수천 대를 추가 배치할 계획이다.\n• 로봇에 배정된 주문은 Uber Eats 앱에서 실시간으로 경로를 추적할 수 있다.\n• 라스트마일 배송의 자동화가 시범 단계를 넘어 상용 규모로 진입하고 있음을 보여준다.",
+        "implications": "[🔵 트렌드] 매장 밖 라스트마일 자동화가 EU로 확산되면서, 매장은 '로봇 픽업 허브'로서의 역할이 커진다. [🟢 기회] 로봇·기사 픽업 비중이 늘수록 사람이 아닌 시스템이 읽을 수 있는 셸프엣지 정보(위치·재고·픽업 지시)의 중요성이 커진다. ESL의 LED 점멸 피킹 가이드·위치 매핑 기능의 활용처가 확대되는 흐름이다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-24",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/24/uber-eat-set-to-launch-robot-deliveries-with-coco-robotics-in-eu-market-with-finland-up-first",
+        "sourceName": "Retail Technology Innovation Hub"
+      },
+      {
+        "title": "OneView Commerce, 영국 우체국 EPoS 교체 사업 수주…Horizon 대체 프로그램",
+        "summary": "• OneView Commerce가 영국 Post Office Limited의 전 지점 EPoS(전자 판매시점관리) 시스템 공급 계약을 체결했다고 8월 24일 발표했다.\n• 계약은 Horizon 대체 조달의 Lot 2로, 부가세 제외 1억 4,100만 파운드 규모이며 10년 기준 총액은 약 1억 6,920만 파운드로 알려졌다.\n• 클라우드 네이티브·API 우선 아키텍처 기반의 상용 기성품(COTS) 플랫폼이 도입되며, Accenture가 별도로 Horizon 운영 전환을 담당한다.\n• 수십 년 된 레거시 POS를 현대적 클라우드 플랫폼으로 교체하는 대형 리테일 IT 사례다.",
+        "implications": "[🔵 트렌드] 리테일 IT의 교체 사이클이 POS 코어까지 도달했다. 클라우드 네이티브·API 우선 POS는 ESL 가격 연동의 전제 조건을 크게 개선한다. [🟢 기회] API 기반 POS 전환은 ESL 통합 난이도와 도입 비용을 낮춘다. 대형 POS 교체 프로젝트를 ESL 동시 도입 기회로 연결하는 영업 접근이 유효하다. [⚡ 액션] OneView·Toast 등 클라우드 POS 벤더와의 사전 통합(certified integration) 확보 여부를 점검할 것을 제안한다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-25",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/8/25/oneview-commerce-lands-deal-to-supply-epos-system-for-post-office-as-part-of-horizon-replacement",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ]
   }
 }
