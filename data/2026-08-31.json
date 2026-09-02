@@ -1,10 +1,63 @@
 {
   "weekId": "2026-08-31",
-  "weekLabel": "2026.08.31 ~ 2026.08.31",
-  "searchAnalysis": "**08월 31일(월) 수집:** 월요일 발행 기사 3건—주요유통사 2(세인즈베리 Tu 패션 RFID 400개점 확대·까르푸 벨기에 챗GPT 식료품 주문), 기술 1(사이먼 프로퍼티그룹 자체 리테일미디어네트워크 'Simon Media Network' 출범). [커버리지] RTIH=/home stale→site:retailtechinnovationhub.com/home/2026/8 열거로 우회, 08.31자 기사 확보 / invidis=/news/2026/08 경로 확인·Simon Media Network 채택 / SOLUM·Hanshow·Pricer·Vusion·ZKONG=범위 내 신규 무기사 / retail-optimiser.de=Carrefour ChatGPT 기사 채택 / [감사] 재검색 결과 범위 내 추가 미수집 없음 확인.",
+  "weekLabel": "2026.08.31 ~ 2026.09.06",
+  "searchAnalysis": "**08월 31일(월) 수집:** 월요일 발행 기사 3건—주요유통사 2(세인즈베리 Tu 패션 RFID 400개점 확대·까르푸 벨기에 챗GPT 식료품 주문), 기술 1(사이먼 프로퍼티그룹 자체 리테일미디어네트워크 'Simon Media Network' 출범). [커버리지] RTIH=/home stale→site:retailtechinnovationhub.com/home/2026/8 열거로 우회, 08.31자 기사 확보 / invidis=/news/2026/08 경로 확인·Simon Media Network 채택 / SOLUM·Hanshow·Pricer·Vusion·ZKONG=범위 내 신규 무기사 / retail-optimiser.de=Carrefour ChatGPT 기사 채택 / [감사] 재검색 결과 범위 내 추가 미수집 없음 확인.\n\n**09월 03일(목) 수집:** 월~목(08.31~09.03) 신규 10건—고객도입 3(아스다 Vusion ESL 550개점 완주·H&M GreyOrange gStore·보스코프 통합재고), 주요유통사 2(이케아 유럽 12억유로 가격인하·베스트바이 Ask Blue), 공급사 1(KB증권 솔루엠 목표가 19%↓·북미 ESL 공급지연), 기술 2(Circana×도어대시 증분매출 검증·앱토스 POS 리포트), 산업동향 2(FTC 아마존 광고경매 제소·NRF 유럽 2026 프리뷰). [커버리지] Hanshow=뉴스룸 방문·최신 08.10로 범위내 무기사 / Pricer=방문·최신 07.16 무기사 / Vusion=방문·최신 07.30 무기사 / SOLUM=SPA로 목록 미렌더(검색 대체·범위내 신규 PR 없음) / RTIH=/home/2026/9 site: 열거로 09.01자 10건 확인, ESL 태그페이지는 STALE(최신 2024.02)로 미사용 / RetailOptimiser·ChainStoreAge·RetailDive·GlobeNewswire=방문·채택 / invidis=09월 슬러그 기사 DooH 중심으로 ESL 연관 낮아 제외. [3.6-G] SKILL.md를 Read로 로드해 문서 내 URL이 provenance에 등록되지 않아 뉴스룸 직접 fetch가 전량 차단됨 → WebSearch 언락 후 재fetch로 복구. [3.6-H] RTIH ESL 태그페이지 STALE(최신 2024-02-05) 확인, site: 날짜 열거로 대체. [감사] 'digital shelf labels' 재검색·ESM/그로서 교차 확인 결과 범위 내 미수집 ESL 기사 추가 0건(알버트슨 ChatGPT 플러그인 08.05·사이먼 미디어 08.27 등은 기간 밖 또는 기수집).",
   "sections": {
-    "industryTrends": [],
-    "customerAdoption": {},
+    "industryTrends": [
+      {
+        "title": "FTC·22개 주, 아마존 광고 경매 '숨은 추가요금' 제소…리테일 미디어 투명성 도마에",
+        "summary": "• 미국 FTC와 22개 주 법무장관이 아마존을 제소했다. 7년 이상 검색광고 경매가를 광고주에게 알리지 않고 은밀히 인상했다는 혐의다.\n• 2019년 2차가격경매(GSP)에 내부 명칭 'soft reserve price'라는 숨은 추가요금을 도입했고, 프라임데이·블랙프라이데이 등 성수기에 인상폭을 키웠다는 것이 소장의 요지다.\n• 100만 개 이상 브랜드가 영향을 받았으며, 아마존 광고 매출은 2025년 약 700억 달러로 구글·메타에 이은 3위이고 미국 리테일 미디어 시장의 약 75%를 점유한다.\n• 아마존은 2019~2024년 인플레이션 조정 시 CPC가 보합이고 전환율은 24% 상승했다며 반박했다. FTC의 세 번째 대(對)아마존 소송이다.",
+        "implications": "[🔵 트렌드] 리테일 미디어 규제 리스크가 '가격 표시(ESL·감시가격)'에서 '광고 경매 투명성'으로 확장됐다. 인스토어 리테일 미디어를 확대하는 ESL 공급사에게는 요금 체계·측정 방식의 사전 투명성 확보가 컴플라이언스 이슈가 된다. SOLUM 리테일 미디어 네트워크 설계 시 과금 로직 공개 가능성을 초기부터 고려해야 한다.",
+        "imageUrl": "",
+        "pubDate": "2026-09-01",
+        "sourceUrl": "https://www.retaildive.com/news/amazon-hid-surcharges-ad-auctions-alleges-ftc-complaint/829294/",
+        "sourceName": "Retail Dive"
+      },
+      {
+        "title": "NRF 유럽 2026 프리뷰 공개…Vusion, 전용 세션 극장으로 존재감 과시",
+        "summary": "• NRF 2026 Retail's Big Show Europe이 9월 15~17일 파리 Expo Porte de Versailles에서 열린다.\n• 60개국 1만 2,000명, 4,200개 브랜드, 525개 전시사, 200명 연사, 100개 이상 세션 규모다.\n• 5대 전환 축으로 에이전틱 AI·고객서비스, 수요예측·개인화, 커뮤니티·인플루언서, 라이선싱/IP와 함께 리테일 미디어가 꼽혔다.\n• 행사장에는 'Vusion Theatre'가 별도로 마련돼 9월 16일 오전 10시 Żabka Group의 Tomasz Blicharski 세션 등이 진행된다.",
+        "implications": "[🔴 위협] Vusion이 유럽 최대 리테일 전시에서 자사명을 붙인 세션 극장을 운영하며 '유럽 매장 디지털화의 기본 인프라'라는 인식을 강화하고 있다. SOLUM은 9월 NRF 유럽에서의 노출 전략(공동 세션·고객사 레퍼런스 발표 등)을 점검하고, 최소한 Waitrose·SPAR 등 유럽 레퍼런스를 전면에 세운 메시지를 준비할 필요가 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-09-01",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/9/1/nrf-europe-2026-preview-here-are-five-sessions-retail-technology-leaders-definitely-shouldnt-miss",
+        "sourceName": "Retail Technology Innovation Hub"
+      }
+    ],
+    "customerAdoption": {
+      "편의점": [
+        {
+          "title": "아스다, Vusion ESL로 익스프레스 550개 이상 전 점포 전자라벨 전환 완료",
+          "summary": "• 영국 아스다(Asda)가 익스프레스 편의점·주유소 매장 550곳 이상(익스프레스 매장 517개 포함)에 Vusion 전자가격표시기(ESL) 설치를 완료했다.\n• 총 120만 개 이상 라벨을 도입해 주당 12만 장에 달하던 종이 가격표 교체 작업을 대체했다. Vusion의 신형 2.6인치 eSEL을 채택했다.\n• 2025년 10월 최초 발표 당시 계획(250개 매장·70만 개 라벨)에서 규모가 대폭 확대됐다. 설치는 Renovotec·HL Display, 인프라는 Elecomm·MADIC UK·Evolve가 담당했다.\n• 2026년 7월부터 익스프레스 142개 매장에서 베이커리 성분·알레르겐·칼로리 정보를 ESL에 표시해 영국 나타샤법(Natasha's Law) 대응에 활용 중이다.\n• 별도로 대형 매장 5곳에서 Focal Systems 선반 카메라를 시범 운영해 갭·품절·오배치를 감지하고 있으며, 수개월 내 확대할 계획이다.",
+          "implications": "[🔴 위협] Vusion이 영국에서 Co-op(2,400개 점포)에 이어 아스다까지 확보하며 대형 계정을 연속 석권했다. 특히 '편의점 포맷 전 점포 일괄 전환'이라는 레퍼런스는 SOLUM이 유럽 컨비니언스 세그먼트를 공략할 때 정면으로 부딪힐 벤치마크가 된다. 아울러 ESL(가격) + 셸프 카메라(재고) + 알레르겐 규제 대응을 하나의 패키지로 묶어 파는 방식이 표준이 되고 있어, SOLUM도 Newton Core+ 단품이 아니라 SSP 기반 '규제 대응 + 셸프 모니터링' 번들 제안으로 대응할 필요가 크다.",
+          "imageUrl": "https://retail-optimiser.de/wp-content/uploads/2026/09/20260902-Asda-Vusion.jpg",
+          "pubDate": "2026-09-02",
+          "sourceUrl": "https://retail-optimiser.de/en/asda-completes-esl-rollout-in-express-stores-with-vusion/",
+          "sourceName": "The Retail Optimiser"
+        }
+      ],
+      "패션": [
+        {
+          "title": "H&M, GreyOrange 'gStore'로 전 세계 수백 개 매장 재고 실시간 추적",
+          "summary": "• H&M 그룹이 GreyOrange의 AI 재고 플랫폼 gStore를 3개 대륙 수백 개 매장에 배치해 RFID·컴퓨터비전 기반 실시간 재고 가시성을 확보했다.\n• gStore는 천장형·핸드헬드 RFID 리더와 스마트 미러 등 센서 비종속(sensor-agnostic) 구조로, 개별 SKU를 매장 내 3~5피트(약 1~1.5m) 오차로 위치 특정하고 실시간 재고 '히트맵'을 만든다.\n• GreyOrange는 같은 날 gStore 누적 가동 매장이 3,800개를 넘었고 누적 관리 재고가 약 2억 SKU에 이른다고 발표했다.\n• H&M은 2021년 물류센터용 GreyMatter 도입에서 출발해 매장까지 확대했으며, 현재 13만 개 하드웨어·소프트웨어 에이전트를 운영한다.",
+          "implications": "[🔵 트렌드] 셸프 단(shelf-edge)의 정보 계층이 '가격'에서 '재고 위치'로 확장되는 흐름을 보여준다. 패션 리테일은 RFID, 식료품은 카메라·ESL 센서로 경로가 갈리지만 목표(온셸프 가용성·픽킹 효율)는 동일하다. SOLUM의 Shelf Monitoring·Picking & Navigation이 GreyOrange 같은 순수 소프트웨어 플랫폼과 어떻게 경쟁·연동할지 포지셔닝 정리가 필요하다.",
+          "imageUrl": "https://chainstoreage.com/images/v/16_x_9_480/2026-09/hm_0.jpg",
+          "pubDate": "2026-09-01",
+          "sourceUrl": "https://chainstoreage.com/hm-tracks-store-inventory-real-time-rfid-ai",
+          "sourceName": "Chain Store Age"
+        }
+      ],
+      "백화점": [
+        {
+          "title": "보스코프, Manhattan Associates 도입해 51개 백화점 재고 단일 뷰 구축",
+          "summary": "• 미국 최대 가족 소유 백화점 체인 보스코프(Boscov's, 9개 주 51개 매장)가 Manhattan Associates의 ActiveOrder를 도입해 전 매장 통합 재고 뷰를 구축한다.\n• 최적 매장에서 주문을 이행하는 ship-from-store와 BOPIS를 고도화해 결품 감소와 매장 인력 활용 개선을 노린다.\n• 동일 솔루션은 물류센터 4곳·매장 65곳을 운영하는 Duluth Trading도 사용 중이다.\n• 짐 보스코프 회장 겸 CEO는 매장을 물류 자산으로 전환하는 것이 목적이라고 밝혔다.",
+          "implications": "[🔵 트렌드] 중견 유통사까지 '매장 재고 정확도'를 옴니채널의 병목으로 인식하기 시작했다. 재고 정확도 확보의 다음 단계는 셸프 단 실물 확인이며, 여기서 ESL·셸프 센서 수요가 파생된다. SOLUM에는 백화점·전문점 등 비식료품 세그먼트에서 '주문 이행 정확도' 각도로 진입할 여지를 시사한다.",
+          "imageUrl": "",
+          "pubDate": "2026-09-01",
+          "sourceUrl": "https://chainstoreage.com/news-briefs/2026-09-01?article=boscovs-unifies-store-inventory-view",
+          "sourceName": "Chain Store Age"
+        }
+      ]
+    },
     "majorCompanies": [
       {
         "title": "세인즈베리, 자체 패션 브랜드 'Tu'에 RFID 기술 400개 매장 도입",
@@ -23,9 +76,37 @@
         "pubDate": "2026-08-31",
         "sourceUrl": "https://retail-optimiser.de/en/carrefour-belgium-brings-its-assortment-on-chatgpt-with-mealz/",
         "sourceName": "Retail Optimiser"
+      },
+      {
+        "title": "이케아, 유럽에 12억 유로 투입해 9월 1일부터 가격 15~25% 인하",
+        "summary": "• Ingka그룹·프랜차이지·Inter IKEA가 총 12억 유로(약 13억 9,000만 달러)를 투입해 유럽 판매가를 15~25% 인하했다. 시행일은 9월 1일이다.\n• 독일은 1,500개 이상 품목을 평균 20% 인하, 이탈리아는 수백 품목 평균 22% 인하했다. 영국은 빌리(Billy) 책장 28%, 트로파스트(Trofast) 24% 인하한다.\n• 아시아·북미 시장에도 7,000만 유로(약 8,100만 달러)를 추가 투입한다.\n• Ingka그룹 CEO 유벤시오 마에스투는 구매력 압박이 지속되는 상황에서 가격 접근성을 최우선으로 삼았다고 설명했다.",
+        "implications": "[🟢 기회] 수천 개 품목을 동시에 다국가에서 재가격하는 작업은 종이 라벨 체제로는 사실상 불가능하다. 이케아는 이미 유럽 매장에 SES-imagotag(현 Vusion) ESL을 배치한 상태로, 대규모 가격 인하 캠페인이 ESL의 ROI를 실증하는 사례가 된다. SOLUM 영업에서 '인플레이션·디플레이션 양방향 가격 대응 비용'을 정량화한 세일즈 스토리로 활용할 만하다.",
+        "imageUrl": "",
+        "pubDate": "2026-09-01",
+        "sourceUrl": "https://chainstoreage.com/news-briefs/2026-09-01?article=ikea-cutting-prices-again-europe",
+        "sourceName": "Chain Store Age"
+      },
+      {
+        "title": "베스트바이, AI 쇼핑 어시스턴트 'Ask Blue' 출시…전문가 상담 연결 강조",
+        "summary": "• 베스트바이가 AI 쇼핑 어시스턴트 'Ask Blue'를 출시해 제품 비교·추천 등 쇼핑 질의에 대응한다.\n• 단순 챗봇을 넘어 필요 시 사람 상담원(Geek Squad 등 전문가)으로 자연스럽게 연결하는 하이브리드 구조를 채택했다.\n• 홈디포(매직 에이프런), 알버트슨(세이프웨이 ChatGPT 플러그인)에 이어 대형 유통사의 AI 어시스턴트 도입이 연쇄적으로 이어지고 있다.",
+        "implications": "[🔵 트렌드] AI 어시스턴트가 온라인 탐색 단계를 장악하면 매장 방문객은 '이미 결정을 마친 상태'로 진입한다. 이때 매대에서 필요한 것은 설득형 정보가 아니라 정확한 재고·위치·가격 확인이며, 이는 ESL·전자 POP·픽킹 내비게이션 수요와 직결된다. SOLUM은 AI 어시스턴트 → 매장 셸프로 이어지는 데이터 연결 고리를 제안 포인트로 삼을 수 있다.",
+        "imageUrl": "",
+        "pubDate": "2026-08-31",
+        "sourceUrl": "https://www.retaildive.com/news/best-buy-ai-shopping-assistant/829049/",
+        "sourceName": "Retail Dive"
       }
     ],
-    "solutionProviders": [],
+    "solutionProviders": [
+      {
+        "title": "KB증권, 솔루엠 목표주가 19% 하향…\"북미 대형 고객향 ESL 공급 지연\"",
+        "summary": "• KB증권이 9월 2일 솔루엠 목표주가를 2만 7,000원에서 2만 2,000원으로 19% 하향했다. 투자의견은 '매수'를 유지했으며 직전 종가는 1만 3,460원이다.\n• 하향 사유는 북미 대형 유통 고객향 ESL 공급 지연과 3in1 보드(VS) 사업 업황 부진이다. TV 세트 시장 부진과 고객사 원가 절감으로 단가 높은 3in1 보드 비중이 빠르게 축소되고 있다.\n• 반면 ESL 본업은 안정적이라는 평가다. 3분기 매출 5,259억 원(+11% YoY)·영업이익 179억 원(+21% YoY)을 전망하며 두 자릿수 ESL 영업이익률 지속을 예상했다. 파워모듈 매출은 2분기 대비 51% 확대 전망이다.\n• 2027년은 매출 2조 200억 원·영업이익 993억 원(+32%)을 전망했다. 이르면 2027년 1분기부터 북미 CSP 고객 BBU향 DC-DC 컨버터 공급이 시작돼 연 2,000억 원 규모 매출이 기대된다.",
+        "implications": "[⚡ 액션] 같은 주 아스다-Vusion 550개 점포 완주 소식과 대비되는 신호다. 북미 대형 고객의 매장 구조조정·IT 투자 일정 재조정이라는 외부 변수가 SOLUM 실적 가시성을 흔들고 있는 만큼, 특정 대형 계정 의존도를 낮출 파이프라인 다변화(중견 체인·비식료품 세그먼트·리테일 미디어 부가매출)의 진행 상황을 IR 메시지로 선제 정리할 필요가 있다.",
+        "imageUrl": "https://img.etoday.co.kr/pto_db/2026/09/20260902075233_2381771_655_234.png",
+        "pubDate": "2026-09-02",
+        "sourceUrl": "https://www.etoday.co.kr/news/view/2620760",
+        "sourceName": "이투데이"
+      }
+    ],
     "technology": [
       {
         "title": "美 최대 쇼핑몰 운영사 사이먼 프로퍼티, 자체 리테일 미디어 네트워크 출범",
@@ -35,6 +116,24 @@
         "pubDate": "2026-08-31",
         "sourceUrl": "https://invidis.com/news/2026/08/simon-mall-giant-launches-retail-media-network/",
         "sourceName": "invidis"
+      },
+      {
+        "title": "Circana·도어대시, 리테일 미디어 '증분 매출' 3자 검증 파트너십 체결",
+        "summary": "• 시장조사사 Circana가 도어대시(DoorDash) 광고(Sponsored Products·Sponsored Brands)에 독립 3자 인크리멘털리티(증분 효과) 검증을 제공한다. 우선 일부 광고주를 대상으로 시작한다.\n• 8주 캠페인(2025-11-10~2026-01-04, 미국) 분석 결과 측정 대상 브랜드 구매자의 76%는 오프라인 매장에서만, 13%는 도어대시에서만, 10%는 양쪽에서 구매했다.\n• 도어대시 구매자의 56%는 도어대시 전용 구매자로 나타나 증분 도달의 근거가 됐다. 대형 음료사 사례에서는 가구당 증분 매출이 0.59달러로 Circana 음료 벤치마크의 3배였다.\n• 리테일 미디어가 성숙하면서 네트워크 자체 측정이 아니라 네트워크 간 비교 가능한 표준 측정으로 무게중심이 이동하고 있다는 신호다.",
+        "implications": "[⚡ 액션] 리테일 미디어 예산 집행의 기준이 '노출'에서 '검증된 증분 매출'로 이동하고 있다. ESL·전자 POP을 인스토어 미디어 인벤토리로 수익화하려는 SOLUM에게는 측정·어트리뷰션 파트너 확보가 사업 성립의 전제 조건이 된다. Circana·NIQ 등 3자 측정사와의 연계 전략을 리테일 미디어 로드맵에 포함시켜야 한다.",
+        "imageUrl": "",
+        "pubDate": "2026-09-02",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/09/02/3355241/0/en/circana-and-doordash-partner-to-validate-incremental-sales-for-cpg-brands.html",
+        "sourceName": "GlobeNewswire"
+      },
+      {
+        "title": "앱토스 보고서 \"유통사, POS 현대화의 재무 효과를 크게 과소평가\"",
+        "summary": "• 앱토스(Aptos)가 글로벌 유통 의사결정자 150명을 조사한 결과, POS 현대화를 마친 유통사의 85%가 ROI 기대치를 충족하거나 초과했다고 답했다.\n• 현대화 이후 매장 전환율은 평균 1.2%p, 객단가(ATV)는 4.3% 상승했다.\n• 연매출 10억 달러·750개 매장 규모 유통사가 클라우드 네이티브 POS를 도입할 경우 연 약 440만 달러 비용 절감과 최대 3,960만 달러 매출 증대가 가능하다고 추산했다.\n• 보고서는 POS 현대화를 '단순 계산대 업그레이드'로 보는 시각이 전략적·재무적 임팩트를 과소평가하게 만든다고 경고했다.",
+        "implications": "[🔵 트렌드] 매장 IT 예산이 POS·재고·가격 인프라를 묶어 재편되는 국면이다. ESL 제안도 '라벨 교체 인건비 절감' 단품 논리에서 벗어나, 전환율·객단가 같은 매출 지표와 연결한 재무 모델로 재구성할 필요가 있다. SOLUM SSP가 POS·재고 시스템과 어떻게 통합되는지가 구매 결정의 실질 기준이 된다.",
+        "imageUrl": "",
+        "pubDate": "2026-09-01",
+        "sourceUrl": "https://retailtechinnovationhub.com/home/2026/9/1/aptos-report-retailers-heavily-underestimating-financial-value-of-modernising-their-pos-systems",
+        "sourceName": "Retail Technology Innovation Hub"
       }
     ]
   }
